@@ -1,0 +1,3277 @@
+alcaldia,localidad,sexo,rango_edad,poblacion
+AZCAPOTZALCO,Azcapotzalco,Hombre,a) 0 a 4 años,10794
+AZCAPOTZALCO,Azcapotzalco,Hombre,b) 5 a 9 años,11950
+AZCAPOTZALCO,Azcapotzalco,Hombre,c) 10 a 14 años,13219
+AZCAPOTZALCO,Azcapotzalco,Hombre,d) 15 a 19 años,14272
+AZCAPOTZALCO,Azcapotzalco,Hombre,e) 20 a 24 años,15895
+AZCAPOTZALCO,Azcapotzalco,Hombre,f) 25 a 29 años,16899
+AZCAPOTZALCO,Azcapotzalco,Hombre,g) 30 a 34 años,17047
+AZCAPOTZALCO,Azcapotzalco,Hombre,h) 35 a 39 años,15868
+AZCAPOTZALCO,Azcapotzalco,Hombre,i) 40 a 44 años,14624
+AZCAPOTZALCO,Azcapotzalco,Hombre,j) 45 a 49 años,14810
+AZCAPOTZALCO,Azcapotzalco,Hombre,k) 50 a 54 años,14313
+AZCAPOTZALCO,Azcapotzalco,Hombre,l) 55 a 59 años,11992
+AZCAPOTZALCO,Azcapotzalco,Hombre,m) 60 a 64 años,10497
+AZCAPOTZALCO,Azcapotzalco,Hombre,n) 65 a 69 años,7906
+AZCAPOTZALCO,Azcapotzalco,Hombre,o) 70 a 74 años,5925
+AZCAPOTZALCO,Azcapotzalco,Hombre,p) 75 a 79 años,3966
+AZCAPOTZALCO,Azcapotzalco,Hombre,q) 80 a 84 años,2628
+AZCAPOTZALCO,Azcapotzalco,Hombre,r) 85 años y más,2163
+AZCAPOTZALCO,Azcapotzalco,Mujer,a) 0 a 4 años,10266
+AZCAPOTZALCO,Azcapotzalco,Mujer,b) 5 a 9 años,11470
+AZCAPOTZALCO,Azcapotzalco,Mujer,c) 10 a 14 años,12667
+AZCAPOTZALCO,Azcapotzalco,Mujer,d) 15 a 19 años,13711
+AZCAPOTZALCO,Azcapotzalco,Mujer,e) 20 a 24 años,15561
+AZCAPOTZALCO,Azcapotzalco,Mujer,f) 25 a 29 años,17506
+AZCAPOTZALCO,Azcapotzalco,Mujer,g) 30 a 34 años,17858
+AZCAPOTZALCO,Azcapotzalco,Mujer,h) 35 a 39 años,17294
+AZCAPOTZALCO,Azcapotzalco,Mujer,i) 40 a 44 años,16621
+AZCAPOTZALCO,Azcapotzalco,Mujer,j) 45 a 49 años,17049
+AZCAPOTZALCO,Azcapotzalco,Mujer,k) 50 a 54 años,16822
+AZCAPOTZALCO,Azcapotzalco,Mujer,l) 55 a 59 años,14682
+AZCAPOTZALCO,Azcapotzalco,Mujer,m) 60 a 64 años,13290
+AZCAPOTZALCO,Azcapotzalco,Mujer,n) 65 a 69 años,10153
+AZCAPOTZALCO,Azcapotzalco,Mujer,o) 70 a 74 años,8307
+AZCAPOTZALCO,Azcapotzalco,Mujer,p) 75 a 79 años,5665
+AZCAPOTZALCO,Azcapotzalco,Mujer,q) 80 a 84 años,4217
+AZCAPOTZALCO,Azcapotzalco,Mujer,r) 85 años y más,3933
+COYOACAN,Coyoacán,Hombre,a) 0 a 4 años,13518
+COYOACAN,Coyoacán,Hombre,b) 5 a 9 años,15435
+COYOACAN,Coyoacán,Hombre,c) 10 a 14 años,17531
+COYOACAN,Coyoacán,Hombre,d) 15 a 19 años,20091
+COYOACAN,Coyoacán,Hombre,e) 20 a 24 años,23667
+COYOACAN,Coyoacán,Hombre,f) 25 a 29 años,23879
+COYOACAN,Coyoacán,Hombre,g) 30 a 34 años,22251
+COYOACAN,Coyoacán,Hombre,h) 35 a 39 años,21119
+COYOACAN,Coyoacán,Hombre,i) 40 a 44 años,20884
+COYOACAN,Coyoacán,Hombre,j) 45 a 49 años,21315
+COYOACAN,Coyoacán,Hombre,k) 50 a 54 años,19628
+COYOACAN,Coyoacán,Hombre,l) 55 a 59 años,16722
+COYOACAN,Coyoacán,Hombre,m) 60 a 64 años,15447
+COYOACAN,Coyoacán,Hombre,n) 65 a 69 años,13010
+COYOACAN,Coyoacán,Hombre,o) 70 a 74 años,10308
+COYOACAN,Coyoacán,Hombre,p) 75 a 79 años,6748
+COYOACAN,Coyoacán,Hombre,q) 80 a 84 años,4174
+COYOACAN,Coyoacán,Hombre,r) 85 años y más,3321
+COYOACAN,Coyoacán,Mujer,a) 0 a 4 años,13109
+COYOACAN,Coyoacán,Mujer,b) 5 a 9 años,15013
+COYOACAN,Coyoacán,Mujer,c) 10 a 14 años,16721
+COYOACAN,Coyoacán,Mujer,d) 15 a 19 años,19308
+COYOACAN,Coyoacán,Mujer,e) 20 a 24 años,23369
+COYOACAN,Coyoacán,Mujer,f) 25 a 29 años,23960
+COYOACAN,Coyoacán,Mujer,g) 30 a 34 años,23393
+COYOACAN,Coyoacán,Mujer,h) 35 a 39 años,23561
+COYOACAN,Coyoacán,Mujer,i) 40 a 44 años,23931
+COYOACAN,Coyoacán,Mujer,j) 45 a 49 años,24865
+COYOACAN,Coyoacán,Mujer,k) 50 a 54 años,23601
+COYOACAN,Coyoacán,Mujer,l) 55 a 59 años,20856
+COYOACAN,Coyoacán,Mujer,m) 60 a 64 años,20697
+COYOACAN,Coyoacán,Mujer,n) 65 a 69 años,17480
+COYOACAN,Coyoacán,Mujer,o) 70 a 74 años,13762
+COYOACAN,Coyoacán,Mujer,p) 75 a 79 años,9201
+COYOACAN,Coyoacán,Mujer,q) 80 a 84 años,6219
+COYOACAN,Coyoacán,Mujer,r) 85 años y más,6225
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,a) 0 a 4 años,6079
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,b) 5 a 9 años,6559
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,c) 10 a 14 años,6708
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,d) 15 a 19 años,7108
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,e) 20 a 24 años,7472
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,f) 25 a 29 años,7410
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,g) 30 a 34 años,7276
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,h) 35 a 39 años,6871
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,i) 40 a 44 años,6454
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,j) 45 a 49 años,6462
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,k) 50 a 54 años,5814
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,l) 55 a 59 años,4646
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,m) 60 a 64 años,3633
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,n) 65 a 69 años,2535
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,o) 70 a 74 años,1714
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,p) 75 a 79 años,1137
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,q) 80 a 84 años,688
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Hombre,r) 85 años y más,458
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,a) 0 a 4 años,5851
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,b) 5 a 9 años,6078
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,c) 10 a 14 años,6546
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,d) 15 a 19 años,7085
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,e) 20 a 24 años,8082
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,f) 25 a 29 años,8392
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,g) 30 a 34 años,8313
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,h) 35 a 39 años,7642
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,i) 40 a 44 años,7326
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,j) 45 a 49 años,7418
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,k) 50 a 54 años,6835
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,l) 55 a 59 años,5357
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,m) 60 a 64 años,4245
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,n) 65 a 69 años,2979
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,o) 70 a 74 años,2168
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,p) 75 a 79 años,1388
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,q) 80 a 84 años,974
+CUAJIMALPA DE MORELOS,Cuajimalpa de Morelos,Mujer,r) 85 años y más,881
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,a) 0 a 4 años,32
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,b) 5 a 9 años,41
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,c) 10 a 14 años,27
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,d) 15 a 19 años,28
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,e) 20 a 24 años,40
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,f) 25 a 29 años,31
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,g) 30 a 34 años,36
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,h) 35 a 39 años,31
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,i) 40 a 44 años,23
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,j) 45 a 49 años,12
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,k) 50 a 54 años,22
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,l) 55 a 59 años,17
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,m) 60 a 64 años,11
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,n) 65 a 69 años,7
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,o) 70 a 74 años,4
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,p) 75 a 79 años,3
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,q) 80 a 84 años,1
+CUAJIMALPA DE MORELOS,Cruz Blanca,Hombre,r) 85 años y más,0
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,a) 0 a 4 años,39
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,b) 5 a 9 años,33
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,c) 10 a 14 años,27
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,d) 15 a 19 años,27
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,e) 20 a 24 años,32
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,f) 25 a 29 años,45
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,g) 30 a 34 años,29
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,h) 35 a 39 años,24
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,i) 40 a 44 años,20
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,j) 45 a 49 años,19
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,k) 50 a 54 años,26
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,l) 55 a 59 años,13
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,m) 60 a 64 años,12
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,n) 65 a 69 años,6
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,o) 70 a 74 años,6
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,p) 75 a 79 años,3
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,q) 80 a 84 años,0
+CUAJIMALPA DE MORELOS,Cruz Blanca,Mujer,r) 85 años y más,1
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,a) 0 a 4 años,971
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,b) 5 a 9 años,1089
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,c) 10 a 14 años,1028
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,d) 15 a 19 años,1092
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,e) 20 a 24 años,1121
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,f) 25 a 29 años,1089
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,g) 30 a 34 años,1069
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,h) 35 a 39 años,968
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,i) 40 a 44 años,819
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,j) 45 a 49 años,787
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,k) 50 a 54 años,749
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,l) 55 a 59 años,640
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,m) 60 a 64 años,467
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,n) 65 a 69 años,314
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,o) 70 a 74 años,199
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,p) 75 a 79 años,113
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,q) 80 a 84 años,58
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Hombre,r) 85 años y más,50
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,a) 0 a 4 años,942
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,b) 5 a 9 años,1098
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,c) 10 a 14 años,1067
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,d) 15 a 19 años,1025
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,e) 20 a 24 años,1156
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,f) 25 a 29 años,1112
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,g) 30 a 34 años,1096
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,h) 35 a 39 años,984
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,i) 40 a 44 años,975
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,j) 45 a 49 años,890
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,k) 50 a 54 años,907
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,l) 55 a 59 años,706
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,m) 60 a 64 años,542
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,n) 65 a 69 años,344
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,o) 70 a 74 años,254
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,p) 75 a 79 años,135
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,q) 80 a 84 años,97
+CUAJIMALPA DE MORELOS,San Lorenzo Acopilco,Mujer,r) 85 años y más,85
+CUAJIMALPA DE MORELOS,La Venta,Hombre,a) 0 a 4 años,16
+CUAJIMALPA DE MORELOS,La Venta,Hombre,b) 5 a 9 años,18
+CUAJIMALPA DE MORELOS,La Venta,Hombre,c) 10 a 14 años,17
+CUAJIMALPA DE MORELOS,La Venta,Hombre,d) 15 a 19 años,21
+CUAJIMALPA DE MORELOS,La Venta,Hombre,e) 20 a 24 años,16
+CUAJIMALPA DE MORELOS,La Venta,Hombre,f) 25 a 29 años,25
+CUAJIMALPA DE MORELOS,La Venta,Hombre,g) 30 a 34 años,17
+CUAJIMALPA DE MORELOS,La Venta,Hombre,h) 35 a 39 años,12
+CUAJIMALPA DE MORELOS,La Venta,Hombre,i) 40 a 44 años,13
+CUAJIMALPA DE MORELOS,La Venta,Hombre,j) 45 a 49 años,12
+CUAJIMALPA DE MORELOS,La Venta,Hombre,k) 50 a 54 años,13
+CUAJIMALPA DE MORELOS,La Venta,Hombre,l) 55 a 59 años,8
+CUAJIMALPA DE MORELOS,La Venta,Hombre,m) 60 a 64 años,12
+CUAJIMALPA DE MORELOS,La Venta,Hombre,n) 65 a 69 años,9
+CUAJIMALPA DE MORELOS,La Venta,Hombre,o) 70 a 74 años,3
+CUAJIMALPA DE MORELOS,La Venta,Hombre,p) 75 a 79 años,1
+CUAJIMALPA DE MORELOS,La Venta,Hombre,q) 80 a 84 años,3
+CUAJIMALPA DE MORELOS,La Venta,Hombre,r) 85 años y más,0
+CUAJIMALPA DE MORELOS,La Venta,Mujer,a) 0 a 4 años,15
+CUAJIMALPA DE MORELOS,La Venta,Mujer,b) 5 a 9 años,22
+CUAJIMALPA DE MORELOS,La Venta,Mujer,c) 10 a 14 años,21
+CUAJIMALPA DE MORELOS,La Venta,Mujer,d) 15 a 19 años,19
+CUAJIMALPA DE MORELOS,La Venta,Mujer,e) 20 a 24 años,25
+CUAJIMALPA DE MORELOS,La Venta,Mujer,f) 25 a 29 años,21
+CUAJIMALPA DE MORELOS,La Venta,Mujer,g) 30 a 34 años,24
+CUAJIMALPA DE MORELOS,La Venta,Mujer,h) 35 a 39 años,14
+CUAJIMALPA DE MORELOS,La Venta,Mujer,i) 40 a 44 años,17
+CUAJIMALPA DE MORELOS,La Venta,Mujer,j) 45 a 49 años,22
+CUAJIMALPA DE MORELOS,La Venta,Mujer,k) 50 a 54 años,19
+CUAJIMALPA DE MORELOS,La Venta,Mujer,l) 55 a 59 años,16
+CUAJIMALPA DE MORELOS,La Venta,Mujer,m) 60 a 64 años,15
+CUAJIMALPA DE MORELOS,La Venta,Mujer,n) 65 a 69 años,3
+CUAJIMALPA DE MORELOS,La Venta,Mujer,o) 70 a 74 años,4
+CUAJIMALPA DE MORELOS,La Venta,Mujer,p) 75 a 79 años,8
+CUAJIMALPA DE MORELOS,La Venta,Mujer,q) 80 a 84 años,4
+CUAJIMALPA DE MORELOS,La Venta,Mujer,r) 85 años y más,1
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,a) 0 a 4 años,49
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,b) 5 a 9 años,44
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,c) 10 a 14 años,51
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,d) 15 a 19 años,49
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,e) 20 a 24 años,47
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,f) 25 a 29 años,54
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,g) 30 a 34 años,64
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,h) 35 a 39 años,42
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,i) 40 a 44 años,42
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,j) 45 a 49 años,31
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,k) 50 a 54 años,35
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,l) 55 a 59 años,29
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,m) 60 a 64 años,24
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,n) 65 a 69 años,12
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,o) 70 a 74 años,7
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,p) 75 a 79 años,2
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,q) 80 a 84 años,0
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Hombre,r) 85 años y más,1
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,a) 0 a 4 años,53
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,b) 5 a 9 años,69
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,c) 10 a 14 años,50
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,d) 15 a 19 años,54
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,e) 20 a 24 años,57
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,f) 25 a 29 años,58
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,g) 30 a 34 años,58
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,h) 35 a 39 años,58
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,i) 40 a 44 años,42
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,j) 45 a 49 años,41
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,k) 50 a 54 años,40
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,l) 55 a 59 años,19
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,m) 60 a 64 años,24
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,n) 65 a 69 años,12
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,o) 70 a 74 años,4
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,p) 75 a 79 años,5
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,q) 80 a 84 años,2
+CUAJIMALPA DE MORELOS,Puerto las Cruces (Monte las Cruces),Mujer,r) 85 años y más,1
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,a) 0 a 4 años,20
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,b) 5 a 9 años,39
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,c) 10 a 14 años,43
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,d) 15 a 19 años,47
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,e) 20 a 24 años,36
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,f) 25 a 29 años,32
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,g) 30 a 34 años,35
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,h) 35 a 39 años,24
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,i) 40 a 44 años,33
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,j) 45 a 49 años,27
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,k) 50 a 54 años,28
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,l) 55 a 59 años,15
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,m) 60 a 64 años,11
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,n) 65 a 69 años,8
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,o) 70 a 74 años,5
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,p) 75 a 79 años,0
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,q) 80 a 84 años,1
+CUAJIMALPA DE MORELOS,Santa Rosa,Hombre,r) 85 años y más,0
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,a) 0 a 4 años,41
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,b) 5 a 9 años,48
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,c) 10 a 14 años,45
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,d) 15 a 19 años,42
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,e) 20 a 24 años,28
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,f) 25 a 29 años,30
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,g) 30 a 34 años,31
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,h) 35 a 39 años,40
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,i) 40 a 44 años,24
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,j) 45 a 49 años,34
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,k) 50 a 54 años,18
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,l) 55 a 59 años,15
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,m) 60 a 64 años,12
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,n) 65 a 69 años,2
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,o) 70 a 74 años,2
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,p) 75 a 79 años,1
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,q) 80 a 84 años,0
+CUAJIMALPA DE MORELOS,Santa Rosa,Mujer,r) 85 años y más,1
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,a) 0 a 4 años,23
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,b) 5 a 9 años,17
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,c) 10 a 14 años,25
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,d) 15 a 19 años,30
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,e) 20 a 24 años,28
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,f) 25 a 29 años,24
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,g) 30 a 34 años,12
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,h) 35 a 39 años,15
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,i) 40 a 44 años,20
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,j) 45 a 49 años,25
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,k) 50 a 54 años,15
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,l) 55 a 59 años,7
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,m) 60 a 64 años,4
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,n) 65 a 69 años,4
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,o) 70 a 74 años,2
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,p) 75 a 79 años,1
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,q) 80 a 84 años,0
+CUAJIMALPA DE MORELOS,Los Aguacates,Hombre,r) 85 años y más,1
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,a) 0 a 4 años,30
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,b) 5 a 9 años,35
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,c) 10 a 14 años,24
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,d) 15 a 19 años,28
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,e) 20 a 24 años,29
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,f) 25 a 29 años,13
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,g) 30 a 34 años,16
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,h) 35 a 39 años,22
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,i) 40 a 44 años,23
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,j) 45 a 49 años,15
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,k) 50 a 54 años,6
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,l) 55 a 59 años,8
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,m) 60 a 64 años,3
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,n) 65 a 69 años,5
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,o) 70 a 74 años,3
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,p) 75 a 79 años,1
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,q) 80 a 84 años,0
+CUAJIMALPA DE MORELOS,Los Aguacates,Mujer,r) 85 años y más,0
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,a) 0 a 4 años,32218
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,b) 5 a 9 años,36273
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,c) 10 a 14 años,39042
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,d) 15 a 19 años,43052
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,e) 20 a 24 años,46768
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,f) 25 a 29 años,46369
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,g) 30 a 34 años,43437
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,h) 35 a 39 años,40516
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,i) 40 a 44 años,38783
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,j) 45 a 49 años,39825
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,k) 50 a 54 años,37979
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,l) 55 a 59 años,32164
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,m) 60 a 64 años,27902
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,n) 65 a 69 años,20530
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,o) 70 a 74 años,15486
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,p) 75 a 79 años,10673
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,q) 80 a 84 años,7062
+GUSTAVO A. MADERO,Gustavo A. Madero,Hombre,r) 85 años y más,5681
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,a) 0 a 4 años,31044
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,b) 5 a 9 años,35361
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,c) 10 a 14 años,38407
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,d) 15 a 19 años,41281
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,e) 20 a 24 años,44809
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,f) 25 a 29 años,45079
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,g) 30 a 34 años,44189
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,h) 35 a 39 años,43083
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,i) 40 a 44 años,42720
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,j) 45 a 49 años,44866
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,k) 50 a 54 años,44541
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,l) 55 a 59 años,37842
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,m) 60 a 64 años,34192
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,n) 65 a 69 años,26030
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,o) 70 a 74 años,20814
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,p) 75 a 79 años,14406
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,q) 80 a 84 años,10617
+GUSTAVO A. MADERO,Gustavo A. Madero,Mujer,r) 85 años y más,10076
+IZTACALCO,Iztacalco,Hombre,a) 0 a 4 años,10426
+IZTACALCO,Iztacalco,Hombre,b) 5 a 9 años,11781
+IZTACALCO,Iztacalco,Hombre,c) 10 a 14 años,12900
+IZTACALCO,Iztacalco,Hombre,d) 15 a 19 años,14264
+IZTACALCO,Iztacalco,Hombre,e) 20 a 24 años,15348
+IZTACALCO,Iztacalco,Hombre,f) 25 a 29 años,15573
+IZTACALCO,Iztacalco,Hombre,g) 30 a 34 años,15482
+IZTACALCO,Iztacalco,Hombre,h) 35 a 39 años,14487
+IZTACALCO,Iztacalco,Hombre,i) 40 a 44 años,13514
+IZTACALCO,Iztacalco,Hombre,j) 45 a 49 años,14074
+IZTACALCO,Iztacalco,Hombre,k) 50 a 54 años,13188
+IZTACALCO,Iztacalco,Hombre,l) 55 a 59 años,11269
+IZTACALCO,Iztacalco,Hombre,m) 60 a 64 años,9660
+IZTACALCO,Iztacalco,Hombre,n) 65 a 69 años,7097
+IZTACALCO,Iztacalco,Hombre,o) 70 a 74 años,5192
+IZTACALCO,Iztacalco,Hombre,p) 75 a 79 años,3488
+IZTACALCO,Iztacalco,Hombre,q) 80 a 84 años,2400
+IZTACALCO,Iztacalco,Hombre,r) 85 años y más,2121
+IZTACALCO,Iztacalco,Mujer,a) 0 a 4 años,10040
+IZTACALCO,Iztacalco,Mujer,b) 5 a 9 años,11495
+IZTACALCO,Iztacalco,Mujer,c) 10 a 14 años,12670
+IZTACALCO,Iztacalco,Mujer,d) 15 a 19 años,13495
+IZTACALCO,Iztacalco,Mujer,e) 20 a 24 años,15293
+IZTACALCO,Iztacalco,Mujer,f) 25 a 29 años,16154
+IZTACALCO,Iztacalco,Mujer,g) 30 a 34 años,16253
+IZTACALCO,Iztacalco,Mujer,h) 35 a 39 años,15620
+IZTACALCO,Iztacalco,Mujer,i) 40 a 44 años,15234
+IZTACALCO,Iztacalco,Mujer,j) 45 a 49 años,16002
+IZTACALCO,Iztacalco,Mujer,k) 50 a 54 años,15712
+IZTACALCO,Iztacalco,Mujer,l) 55 a 59 años,13336
+IZTACALCO,Iztacalco,Mujer,m) 60 a 64 años,12173
+IZTACALCO,Iztacalco,Mujer,n) 65 a 69 años,9195
+IZTACALCO,Iztacalco,Mujer,o) 70 a 74 años,7208
+IZTACALCO,Iztacalco,Mujer,p) 75 a 79 años,4907
+IZTACALCO,Iztacalco,Mujer,q) 80 a 84 años,3774
+IZTACALCO,Iztacalco,Mujer,r) 85 años y más,3692
+IZTAPALAPA,Iztapalapa,Hombre,a) 0 a 4 años,52070
+IZTAPALAPA,Iztapalapa,Hombre,b) 5 a 9 años,64449
+IZTAPALAPA,Iztapalapa,Hombre,c) 10 a 14 años,69528
+IZTAPALAPA,Iztapalapa,Hombre,d) 15 a 19 años,73108
+IZTAPALAPA,Iztapalapa,Hombre,e) 20 a 24 años,75828
+IZTAPALAPA,Iztapalapa,Hombre,f) 25 a 29 años,75498
+IZTAPALAPA,Iztapalapa,Hombre,g) 30 a 34 años,71308
+IZTAPALAPA,Iztapalapa,Hombre,h) 35 a 39 años,66445
+IZTAPALAPA,Iztapalapa,Hombre,i) 40 a 44 años,62646
+IZTAPALAPA,Iztapalapa,Hombre,j) 45 a 49 años,61013
+IZTAPALAPA,Iztapalapa,Hombre,k) 50 a 54 años,54898
+IZTAPALAPA,Iztapalapa,Hombre,l) 55 a 59 años,45370
+IZTAPALAPA,Iztapalapa,Hombre,m) 60 a 64 años,39606
+IZTAPALAPA,Iztapalapa,Hombre,n) 65 a 69 años,29058
+IZTAPALAPA,Iztapalapa,Hombre,o) 70 a 74 años,20815
+IZTAPALAPA,Iztapalapa,Hombre,p) 75 a 79 años,12994
+IZTAPALAPA,Iztapalapa,Hombre,q) 80 a 84 años,7309
+IZTAPALAPA,Iztapalapa,Hombre,r) 85 años y más,5513
+IZTAPALAPA,Iztapalapa,Mujer,a) 0 a 4 años,51078
+IZTAPALAPA,Iztapalapa,Mujer,b) 5 a 9 años,62279
+IZTAPALAPA,Iztapalapa,Mujer,c) 10 a 14 años,67431
+IZTAPALAPA,Iztapalapa,Mujer,d) 15 a 19 años,70085
+IZTAPALAPA,Iztapalapa,Mujer,e) 20 a 24 años,74912
+IZTAPALAPA,Iztapalapa,Mujer,f) 25 a 29 años,76092
+IZTAPALAPA,Iztapalapa,Mujer,g) 30 a 34 años,73562
+IZTAPALAPA,Iztapalapa,Mujer,h) 35 a 39 años,70485
+IZTAPALAPA,Iztapalapa,Mujer,i) 40 a 44 años,68867
+IZTAPALAPA,Iztapalapa,Mujer,j) 45 a 49 años,68372
+IZTAPALAPA,Iztapalapa,Mujer,k) 50 a 54 años,63783
+IZTAPALAPA,Iztapalapa,Mujer,l) 55 a 59 años,53920
+IZTAPALAPA,Iztapalapa,Mujer,m) 60 a 64 años,48146
+IZTAPALAPA,Iztapalapa,Mujer,n) 65 a 69 años,35877
+IZTAPALAPA,Iztapalapa,Mujer,o) 70 a 74 años,26051
+IZTAPALAPA,Iztapalapa,Mujer,p) 75 a 79 años,16469
+IZTAPALAPA,Iztapalapa,Mujer,q) 80 a 84 años,10539
+IZTAPALAPA,Iztapalapa,Mujer,r) 85 años y más,9687
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,a) 0 a 4 años,6461
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,b) 5 a 9 años,8218
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,c) 10 a 14 años,9009
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,d) 15 a 19 años,9537
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,e) 20 a 24 años,10012
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,f) 25 a 29 años,9714
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,g) 30 a 34 años,8811
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,h) 35 a 39 años,8441
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,i) 40 a 44 años,8228
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,j) 45 a 49 años,8747
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,k) 50 a 54 años,7877
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,l) 55 a 59 años,6216
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,m) 60 a 64 años,5402
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,n) 65 a 69 años,4019
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,o) 70 a 74 años,3061
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,p) 75 a 79 años,1895
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,q) 80 a 84 años,1095
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Hombre,r) 85 años y más,899
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,a) 0 a 4 años,6461
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,b) 5 a 9 años,7944
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,c) 10 a 14 años,8975
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,d) 15 a 19 años,9261
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,e) 20 a 24 años,9847
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,f) 25 a 29 años,10011
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,g) 30 a 34 años,9250
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,h) 35 a 39 años,9153
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,i) 40 a 44 años,9499
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,j) 45 a 49 años,9989
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,k) 50 a 54 años,9276
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,l) 55 a 59 años,7469
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,m) 60 a 64 años,6571
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,n) 65 a 69 años,5202
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,o) 70 a 74 años,3768
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,p) 75 a 79 años,2579
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,q) 80 a 84 años,1732
+LA MAGDALENA CONTRERAS,La Magdalena Contreras,Mujer,r) 85 años y más,1756
+MILPA ALTA,Villa Milpa Alta,Hombre,a) 0 a 4 años,577
+MILPA ALTA,Villa Milpa Alta,Hombre,b) 5 a 9 años,713
+MILPA ALTA,Villa Milpa Alta,Hombre,c) 10 a 14 años,693
+MILPA ALTA,Villa Milpa Alta,Hombre,d) 15 a 19 años,789
+MILPA ALTA,Villa Milpa Alta,Hombre,e) 20 a 24 años,757
+MILPA ALTA,Villa Milpa Alta,Hombre,f) 25 a 29 años,708
+MILPA ALTA,Villa Milpa Alta,Hombre,g) 30 a 34 años,657
+MILPA ALTA,Villa Milpa Alta,Hombre,h) 35 a 39 años,640
+MILPA ALTA,Villa Milpa Alta,Hombre,i) 40 a 44 años,625
+MILPA ALTA,Villa Milpa Alta,Hombre,j) 45 a 49 años,556
+MILPA ALTA,Villa Milpa Alta,Hombre,k) 50 a 54 años,517
+MILPA ALTA,Villa Milpa Alta,Hombre,l) 55 a 59 años,453
+MILPA ALTA,Villa Milpa Alta,Hombre,m) 60 a 64 años,369
+MILPA ALTA,Villa Milpa Alta,Hombre,n) 65 a 69 años,276
+MILPA ALTA,Villa Milpa Alta,Hombre,o) 70 a 74 años,220
+MILPA ALTA,Villa Milpa Alta,Hombre,p) 75 a 79 años,142
+MILPA ALTA,Villa Milpa Alta,Hombre,q) 80 a 84 años,85
+MILPA ALTA,Villa Milpa Alta,Hombre,r) 85 años y más,86
+MILPA ALTA,Villa Milpa Alta,Mujer,a) 0 a 4 años,535
+MILPA ALTA,Villa Milpa Alta,Mujer,b) 5 a 9 años,648
+MILPA ALTA,Villa Milpa Alta,Mujer,c) 10 a 14 años,709
+MILPA ALTA,Villa Milpa Alta,Mujer,d) 15 a 19 años,679
+MILPA ALTA,Villa Milpa Alta,Mujer,e) 20 a 24 años,773
+MILPA ALTA,Villa Milpa Alta,Mujer,f) 25 a 29 años,755
+MILPA ALTA,Villa Milpa Alta,Mujer,g) 30 a 34 años,711
+MILPA ALTA,Villa Milpa Alta,Mujer,h) 35 a 39 años,697
+MILPA ALTA,Villa Milpa Alta,Mujer,i) 40 a 44 años,704
+MILPA ALTA,Villa Milpa Alta,Mujer,j) 45 a 49 años,634
+MILPA ALTA,Villa Milpa Alta,Mujer,k) 50 a 54 años,625
+MILPA ALTA,Villa Milpa Alta,Mujer,l) 55 a 59 años,475
+MILPA ALTA,Villa Milpa Alta,Mujer,m) 60 a 64 años,410
+MILPA ALTA,Villa Milpa Alta,Mujer,n) 65 a 69 años,353
+MILPA ALTA,Villa Milpa Alta,Mujer,o) 70 a 74 años,246
+MILPA ALTA,Villa Milpa Alta,Mujer,p) 75 a 79 años,162
+MILPA ALTA,Villa Milpa Alta,Mujer,q) 80 a 84 años,120
+MILPA ALTA,Villa Milpa Alta,Mujer,r) 85 años y más,114
+MILPA ALTA,San Antonio Tecómitl,Hombre,a) 0 a 4 años,911
+MILPA ALTA,San Antonio Tecómitl,Hombre,b) 5 a 9 años,1125
+MILPA ALTA,San Antonio Tecómitl,Hombre,c) 10 a 14 años,1144
+MILPA ALTA,San Antonio Tecómitl,Hombre,d) 15 a 19 años,1242
+MILPA ALTA,San Antonio Tecómitl,Hombre,e) 20 a 24 años,1250
+MILPA ALTA,San Antonio Tecómitl,Hombre,f) 25 a 29 años,1111
+MILPA ALTA,San Antonio Tecómitl,Hombre,g) 30 a 34 años,1040
+MILPA ALTA,San Antonio Tecómitl,Hombre,h) 35 a 39 años,933
+MILPA ALTA,San Antonio Tecómitl,Hombre,i) 40 a 44 años,897
+MILPA ALTA,San Antonio Tecómitl,Hombre,j) 45 a 49 años,896
+MILPA ALTA,San Antonio Tecómitl,Hombre,k) 50 a 54 años,860
+MILPA ALTA,San Antonio Tecómitl,Hombre,l) 55 a 59 años,648
+MILPA ALTA,San Antonio Tecómitl,Hombre,m) 60 a 64 años,505
+MILPA ALTA,San Antonio Tecómitl,Hombre,n) 65 a 69 años,351
+MILPA ALTA,San Antonio Tecómitl,Hombre,o) 70 a 74 años,215
+MILPA ALTA,San Antonio Tecómitl,Hombre,p) 75 a 79 años,163
+MILPA ALTA,San Antonio Tecómitl,Hombre,q) 80 a 84 años,112
+MILPA ALTA,San Antonio Tecómitl,Hombre,r) 85 años y más,75
+MILPA ALTA,San Antonio Tecómitl,Mujer,a) 0 a 4 años,879
+MILPA ALTA,San Antonio Tecómitl,Mujer,b) 5 a 9 años,1089
+MILPA ALTA,San Antonio Tecómitl,Mujer,c) 10 a 14 años,1174
+MILPA ALTA,San Antonio Tecómitl,Mujer,d) 15 a 19 años,1152
+MILPA ALTA,San Antonio Tecómitl,Mujer,e) 20 a 24 años,1170
+MILPA ALTA,San Antonio Tecómitl,Mujer,f) 25 a 29 años,1274
+MILPA ALTA,San Antonio Tecómitl,Mujer,g) 30 a 34 años,1113
+MILPA ALTA,San Antonio Tecómitl,Mujer,h) 35 a 39 años,1018
+MILPA ALTA,San Antonio Tecómitl,Mujer,i) 40 a 44 años,995
+MILPA ALTA,San Antonio Tecómitl,Mujer,j) 45 a 49 años,1039
+MILPA ALTA,San Antonio Tecómitl,Mujer,k) 50 a 54 años,984
+MILPA ALTA,San Antonio Tecómitl,Mujer,l) 55 a 59 años,731
+MILPA ALTA,San Antonio Tecómitl,Mujer,m) 60 a 64 años,597
+MILPA ALTA,San Antonio Tecómitl,Mujer,n) 65 a 69 años,387
+MILPA ALTA,San Antonio Tecómitl,Mujer,o) 70 a 74 años,274
+MILPA ALTA,San Antonio Tecómitl,Mujer,p) 75 a 79 años,168
+MILPA ALTA,San Antonio Tecómitl,Mujer,q) 80 a 84 años,127
+MILPA ALTA,San Antonio Tecómitl,Mujer,r) 85 años y más,119
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,a) 0 a 4 años,138
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,b) 5 a 9 años,188
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,c) 10 a 14 años,202
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,d) 15 a 19 años,232
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,e) 20 a 24 años,198
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,f) 25 a 29 años,180
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,g) 30 a 34 años,147
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,h) 35 a 39 años,141
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,i) 40 a 44 años,181
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,j) 45 a 49 años,167
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,k) 50 a 54 años,159
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,l) 55 a 59 años,129
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,m) 60 a 64 años,87
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,n) 65 a 69 años,72
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,o) 70 a 74 años,52
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,p) 75 a 79 años,43
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,q) 80 a 84 años,16
+MILPA ALTA,San Bartolomé Xicomulco,Hombre,r) 85 años y más,19
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,a) 0 a 4 años,158
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,b) 5 a 9 años,203
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,c) 10 a 14 años,225
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,d) 15 a 19 años,206
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,e) 20 a 24 años,199
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,f) 25 a 29 años,184
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,g) 30 a 34 años,178
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,h) 35 a 39 años,174
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,i) 40 a 44 años,216
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,j) 45 a 49 años,211
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,k) 50 a 54 años,186
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,l) 55 a 59 años,117
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,m) 60 a 64 años,116
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,n) 65 a 69 años,71
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,o) 70 a 74 años,54
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,p) 75 a 79 años,37
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,q) 80 a 84 años,25
+MILPA ALTA,San Bartolomé Xicomulco,Mujer,r) 85 años y más,22
+MILPA ALTA,San Francisco Tecoxpa,Hombre,a) 0 a 4 años,507
+MILPA ALTA,San Francisco Tecoxpa,Hombre,b) 5 a 9 años,570
+MILPA ALTA,San Francisco Tecoxpa,Hombre,c) 10 a 14 años,602
+MILPA ALTA,San Francisco Tecoxpa,Hombre,d) 15 a 19 años,629
+MILPA ALTA,San Francisco Tecoxpa,Hombre,e) 20 a 24 años,693
+MILPA ALTA,San Francisco Tecoxpa,Hombre,f) 25 a 29 años,568
+MILPA ALTA,San Francisco Tecoxpa,Hombre,g) 30 a 34 años,510
+MILPA ALTA,San Francisco Tecoxpa,Hombre,h) 35 a 39 años,486
+MILPA ALTA,San Francisco Tecoxpa,Hombre,i) 40 a 44 años,436
+MILPA ALTA,San Francisco Tecoxpa,Hombre,j) 45 a 49 años,444
+MILPA ALTA,San Francisco Tecoxpa,Hombre,k) 50 a 54 años,375
+MILPA ALTA,San Francisco Tecoxpa,Hombre,l) 55 a 59 años,314
+MILPA ALTA,San Francisco Tecoxpa,Hombre,m) 60 a 64 años,229
+MILPA ALTA,San Francisco Tecoxpa,Hombre,n) 65 a 69 años,167
+MILPA ALTA,San Francisco Tecoxpa,Hombre,o) 70 a 74 años,118
+MILPA ALTA,San Francisco Tecoxpa,Hombre,p) 75 a 79 años,76
+MILPA ALTA,San Francisco Tecoxpa,Hombre,q) 80 a 84 años,42
+MILPA ALTA,San Francisco Tecoxpa,Hombre,r) 85 años y más,37
+MILPA ALTA,San Francisco Tecoxpa,Mujer,a) 0 a 4 años,446
+MILPA ALTA,San Francisco Tecoxpa,Mujer,b) 5 a 9 años,588
+MILPA ALTA,San Francisco Tecoxpa,Mujer,c) 10 a 14 años,582
+MILPA ALTA,San Francisco Tecoxpa,Mujer,d) 15 a 19 años,603
+MILPA ALTA,San Francisco Tecoxpa,Mujer,e) 20 a 24 años,627
+MILPA ALTA,San Francisco Tecoxpa,Mujer,f) 25 a 29 años,577
+MILPA ALTA,San Francisco Tecoxpa,Mujer,g) 30 a 34 años,584
+MILPA ALTA,San Francisco Tecoxpa,Mujer,h) 35 a 39 años,535
+MILPA ALTA,San Francisco Tecoxpa,Mujer,i) 40 a 44 años,511
+MILPA ALTA,San Francisco Tecoxpa,Mujer,j) 45 a 49 años,492
+MILPA ALTA,San Francisco Tecoxpa,Mujer,k) 50 a 54 años,471
+MILPA ALTA,San Francisco Tecoxpa,Mujer,l) 55 a 59 años,332
+MILPA ALTA,San Francisco Tecoxpa,Mujer,m) 60 a 64 años,264
+MILPA ALTA,San Francisco Tecoxpa,Mujer,n) 65 a 69 años,168
+MILPA ALTA,San Francisco Tecoxpa,Mujer,o) 70 a 74 años,110
+MILPA ALTA,San Francisco Tecoxpa,Mujer,p) 75 a 79 años,104
+MILPA ALTA,San Francisco Tecoxpa,Mujer,q) 80 a 84 años,56
+MILPA ALTA,San Francisco Tecoxpa,Mujer,r) 85 años y más,59
+MILPA ALTA,San Pablo Oztotepec,Hombre,a) 0 a 4 años,603
+MILPA ALTA,San Pablo Oztotepec,Hombre,b) 5 a 9 años,751
+MILPA ALTA,San Pablo Oztotepec,Hombre,c) 10 a 14 años,775
+MILPA ALTA,San Pablo Oztotepec,Hombre,d) 15 a 19 años,807
+MILPA ALTA,San Pablo Oztotepec,Hombre,e) 20 a 24 años,763
+MILPA ALTA,San Pablo Oztotepec,Hombre,f) 25 a 29 años,724
+MILPA ALTA,San Pablo Oztotepec,Hombre,g) 30 a 34 años,642
+MILPA ALTA,San Pablo Oztotepec,Hombre,h) 35 a 39 años,594
+MILPA ALTA,San Pablo Oztotepec,Hombre,i) 40 a 44 años,576
+MILPA ALTA,San Pablo Oztotepec,Hombre,j) 45 a 49 años,547
+MILPA ALTA,San Pablo Oztotepec,Hombre,k) 50 a 54 años,489
+MILPA ALTA,San Pablo Oztotepec,Hombre,l) 55 a 59 años,354
+MILPA ALTA,San Pablo Oztotepec,Hombre,m) 60 a 64 años,325
+MILPA ALTA,San Pablo Oztotepec,Hombre,n) 65 a 69 años,236
+MILPA ALTA,San Pablo Oztotepec,Hombre,o) 70 a 74 años,121
+MILPA ALTA,San Pablo Oztotepec,Hombre,p) 75 a 79 años,98
+MILPA ALTA,San Pablo Oztotepec,Hombre,q) 80 a 84 años,71
+MILPA ALTA,San Pablo Oztotepec,Hombre,r) 85 años y más,35
+MILPA ALTA,San Pablo Oztotepec,Mujer,a) 0 a 4 años,648
+MILPA ALTA,San Pablo Oztotepec,Mujer,b) 5 a 9 años,779
+MILPA ALTA,San Pablo Oztotepec,Mujer,c) 10 a 14 años,845
+MILPA ALTA,San Pablo Oztotepec,Mujer,d) 15 a 19 años,799
+MILPA ALTA,San Pablo Oztotepec,Mujer,e) 20 a 24 años,752
+MILPA ALTA,San Pablo Oztotepec,Mujer,f) 25 a 29 años,789
+MILPA ALTA,San Pablo Oztotepec,Mujer,g) 30 a 34 años,670
+MILPA ALTA,San Pablo Oztotepec,Mujer,h) 35 a 39 años,678
+MILPA ALTA,San Pablo Oztotepec,Mujer,i) 40 a 44 años,630
+MILPA ALTA,San Pablo Oztotepec,Mujer,j) 45 a 49 años,586
+MILPA ALTA,San Pablo Oztotepec,Mujer,k) 50 a 54 años,561
+MILPA ALTA,San Pablo Oztotepec,Mujer,l) 55 a 59 años,450
+MILPA ALTA,San Pablo Oztotepec,Mujer,m) 60 a 64 años,345
+MILPA ALTA,San Pablo Oztotepec,Mujer,n) 65 a 69 años,248
+MILPA ALTA,San Pablo Oztotepec,Mujer,o) 70 a 74 años,166
+MILPA ALTA,San Pablo Oztotepec,Mujer,p) 75 a 79 años,122
+MILPA ALTA,San Pablo Oztotepec,Mujer,q) 80 a 84 años,75
+MILPA ALTA,San Pablo Oztotepec,Mujer,r) 85 años y más,61
+MILPA ALTA,San Pedro Atocpan,Hombre,a) 0 a 4 años,317
+MILPA ALTA,San Pedro Atocpan,Hombre,b) 5 a 9 años,369
+MILPA ALTA,San Pedro Atocpan,Hombre,c) 10 a 14 años,366
+MILPA ALTA,San Pedro Atocpan,Hombre,d) 15 a 19 años,422
+MILPA ALTA,San Pedro Atocpan,Hombre,e) 20 a 24 años,380
+MILPA ALTA,San Pedro Atocpan,Hombre,f) 25 a 29 años,427
+MILPA ALTA,San Pedro Atocpan,Hombre,g) 30 a 34 años,363
+MILPA ALTA,San Pedro Atocpan,Hombre,h) 35 a 39 años,322
+MILPA ALTA,San Pedro Atocpan,Hombre,i) 40 a 44 años,284
+MILPA ALTA,San Pedro Atocpan,Hombre,j) 45 a 49 años,285
+MILPA ALTA,San Pedro Atocpan,Hombre,k) 50 a 54 años,238
+MILPA ALTA,San Pedro Atocpan,Hombre,l) 55 a 59 años,221
+MILPA ALTA,San Pedro Atocpan,Hombre,m) 60 a 64 años,215
+MILPA ALTA,San Pedro Atocpan,Hombre,n) 65 a 69 años,129
+MILPA ALTA,San Pedro Atocpan,Hombre,o) 70 a 74 años,84
+MILPA ALTA,San Pedro Atocpan,Hombre,p) 75 a 79 años,56
+MILPA ALTA,San Pedro Atocpan,Hombre,q) 80 a 84 años,37
+MILPA ALTA,San Pedro Atocpan,Hombre,r) 85 años y más,14
+MILPA ALTA,San Pedro Atocpan,Mujer,a) 0 a 4 años,319
+MILPA ALTA,San Pedro Atocpan,Mujer,b) 5 a 9 años,370
+MILPA ALTA,San Pedro Atocpan,Mujer,c) 10 a 14 años,354
+MILPA ALTA,San Pedro Atocpan,Mujer,d) 15 a 19 años,367
+MILPA ALTA,San Pedro Atocpan,Mujer,e) 20 a 24 años,400
+MILPA ALTA,San Pedro Atocpan,Mujer,f) 25 a 29 años,408
+MILPA ALTA,San Pedro Atocpan,Mujer,g) 30 a 34 años,375
+MILPA ALTA,San Pedro Atocpan,Mujer,h) 35 a 39 años,372
+MILPA ALTA,San Pedro Atocpan,Mujer,i) 40 a 44 años,285
+MILPA ALTA,San Pedro Atocpan,Mujer,j) 45 a 49 años,297
+MILPA ALTA,San Pedro Atocpan,Mujer,k) 50 a 54 años,294
+MILPA ALTA,San Pedro Atocpan,Mujer,l) 55 a 59 años,244
+MILPA ALTA,San Pedro Atocpan,Mujer,m) 60 a 64 años,213
+MILPA ALTA,San Pedro Atocpan,Mujer,n) 65 a 69 años,125
+MILPA ALTA,San Pedro Atocpan,Mujer,o) 70 a 74 años,129
+MILPA ALTA,San Pedro Atocpan,Mujer,p) 75 a 79 años,70
+MILPA ALTA,San Pedro Atocpan,Mujer,q) 80 a 84 años,45
+MILPA ALTA,San Pedro Atocpan,Mujer,r) 85 años y más,38
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,a) 0 a 4 años,583
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,b) 5 a 9 años,717
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,c) 10 a 14 años,747
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,d) 15 a 19 años,781
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,e) 20 a 24 años,794
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,f) 25 a 29 años,744
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,g) 30 a 34 años,596
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,h) 35 a 39 años,515
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,i) 40 a 44 años,499
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,j) 45 a 49 años,552
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,k) 50 a 54 años,477
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,l) 55 a 59 años,410
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,m) 60 a 64 años,295
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,n) 65 a 69 años,209
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,o) 70 a 74 años,109
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,p) 75 a 79 años,84
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,q) 80 a 84 años,36
+MILPA ALTA,San Salvador Cuauhtenco,Hombre,r) 85 años y más,30
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,a) 0 a 4 años,558
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,b) 5 a 9 años,714
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,c) 10 a 14 años,702
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,d) 15 a 19 años,759
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,e) 20 a 24 años,810
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,f) 25 a 29 años,761
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,g) 30 a 34 años,677
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,h) 35 a 39 años,590
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,i) 40 a 44 años,608
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,j) 45 a 49 años,581
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,k) 50 a 54 años,579
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,l) 55 a 59 años,448
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,m) 60 a 64 años,311
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,n) 65 a 69 años,210
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,o) 70 a 74 años,161
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,p) 75 a 79 años,85
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,q) 80 a 84 años,53
+MILPA ALTA,San Salvador Cuauhtenco,Mujer,r) 85 años y más,55
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,a) 0 a 4 años,332
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,b) 5 a 9 años,462
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,c) 10 a 14 años,555
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,d) 15 a 19 años,496
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,e) 20 a 24 años,473
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,f) 25 a 29 años,487
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,g) 30 a 34 años,381
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,h) 35 a 39 años,408
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,i) 40 a 44 años,384
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,j) 45 a 49 años,355
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,k) 50 a 54 años,321
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,l) 55 a 59 años,266
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,m) 60 a 64 años,223
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,n) 65 a 69 años,151
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,o) 70 a 74 años,123
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,p) 75 a 79 años,85
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,q) 80 a 84 años,50
+MILPA ALTA,Santa Ana Tlacotenco,Hombre,r) 85 años y más,37
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,a) 0 a 4 años,417
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,b) 5 a 9 años,429
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,c) 10 a 14 años,498
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,d) 15 a 19 años,494
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,e) 20 a 24 años,505
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,f) 25 a 29 años,481
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,g) 30 a 34 años,497
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,h) 35 a 39 años,474
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,i) 40 a 44 años,461
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,j) 45 a 49 años,395
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,k) 50 a 54 años,399
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,l) 55 a 59 años,315
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,m) 60 a 64 años,238
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,n) 65 a 69 años,190
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,o) 70 a 74 años,138
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,p) 75 a 79 años,74
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,q) 80 a 84 años,64
+MILPA ALTA,Santa Ana Tlacotenco,Mujer,r) 85 años y más,57
+MILPA ALTA,Cruztitla,Hombre,a) 0 a 4 años,41
+MILPA ALTA,Cruztitla,Hombre,b) 5 a 9 años,66
+MILPA ALTA,Cruztitla,Hombre,c) 10 a 14 años,54
+MILPA ALTA,Cruztitla,Hombre,d) 15 a 19 años,59
+MILPA ALTA,Cruztitla,Hombre,e) 20 a 24 años,51
+MILPA ALTA,Cruztitla,Hombre,f) 25 a 29 años,49
+MILPA ALTA,Cruztitla,Hombre,g) 30 a 34 años,32
+MILPA ALTA,Cruztitla,Hombre,h) 35 a 39 años,42
+MILPA ALTA,Cruztitla,Hombre,i) 40 a 44 años,40
+MILPA ALTA,Cruztitla,Hombre,j) 45 a 49 años,41
+MILPA ALTA,Cruztitla,Hombre,k) 50 a 54 años,31
+MILPA ALTA,Cruztitla,Hombre,l) 55 a 59 años,24
+MILPA ALTA,Cruztitla,Hombre,m) 60 a 64 años,12
+MILPA ALTA,Cruztitla,Hombre,n) 65 a 69 años,9
+MILPA ALTA,Cruztitla,Hombre,o) 70 a 74 años,7
+MILPA ALTA,Cruztitla,Hombre,p) 75 a 79 años,2
+MILPA ALTA,Cruztitla,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Cruztitla,Hombre,r) 85 años y más,3
+MILPA ALTA,Cruztitla,Mujer,a) 0 a 4 años,38
+MILPA ALTA,Cruztitla,Mujer,b) 5 a 9 años,48
+MILPA ALTA,Cruztitla,Mujer,c) 10 a 14 años,56
+MILPA ALTA,Cruztitla,Mujer,d) 15 a 19 años,50
+MILPA ALTA,Cruztitla,Mujer,e) 20 a 24 años,49
+MILPA ALTA,Cruztitla,Mujer,f) 25 a 29 años,49
+MILPA ALTA,Cruztitla,Mujer,g) 30 a 34 años,52
+MILPA ALTA,Cruztitla,Mujer,h) 35 a 39 años,36
+MILPA ALTA,Cruztitla,Mujer,i) 40 a 44 años,35
+MILPA ALTA,Cruztitla,Mujer,j) 45 a 49 años,43
+MILPA ALTA,Cruztitla,Mujer,k) 50 a 54 años,46
+MILPA ALTA,Cruztitla,Mujer,l) 55 a 59 años,21
+MILPA ALTA,Cruztitla,Mujer,m) 60 a 64 años,16
+MILPA ALTA,Cruztitla,Mujer,n) 65 a 69 años,10
+MILPA ALTA,Cruztitla,Mujer,o) 70 a 74 años,5
+MILPA ALTA,Cruztitla,Mujer,p) 75 a 79 años,3
+MILPA ALTA,Cruztitla,Mujer,q) 80 a 84 años,1
+MILPA ALTA,Cruztitla,Mujer,r) 85 años y más,2
+MILPA ALTA,Xoctonco,Hombre,a) 0 a 4 años,17
+MILPA ALTA,Xoctonco,Hombre,b) 5 a 9 años,13
+MILPA ALTA,Xoctonco,Hombre,c) 10 a 14 años,19
+MILPA ALTA,Xoctonco,Hombre,d) 15 a 19 años,22
+MILPA ALTA,Xoctonco,Hombre,e) 20 a 24 años,22
+MILPA ALTA,Xoctonco,Hombre,f) 25 a 29 años,17
+MILPA ALTA,Xoctonco,Hombre,g) 30 a 34 años,16
+MILPA ALTA,Xoctonco,Hombre,h) 35 a 39 años,15
+MILPA ALTA,Xoctonco,Hombre,i) 40 a 44 años,11
+MILPA ALTA,Xoctonco,Hombre,j) 45 a 49 años,14
+MILPA ALTA,Xoctonco,Hombre,k) 50 a 54 años,8
+MILPA ALTA,Xoctonco,Hombre,l) 55 a 59 años,15
+MILPA ALTA,Xoctonco,Hombre,m) 60 a 64 años,5
+MILPA ALTA,Xoctonco,Hombre,n) 65 a 69 años,3
+MILPA ALTA,Xoctonco,Hombre,o) 70 a 74 años,1
+MILPA ALTA,Xoctonco,Hombre,p) 75 a 79 años,1
+MILPA ALTA,Xoctonco,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Xoctonco,Hombre,r) 85 años y más,2
+MILPA ALTA,Xoctonco,Mujer,a) 0 a 4 años,13
+MILPA ALTA,Xoctonco,Mujer,b) 5 a 9 años,21
+MILPA ALTA,Xoctonco,Mujer,c) 10 a 14 años,13
+MILPA ALTA,Xoctonco,Mujer,d) 15 a 19 años,22
+MILPA ALTA,Xoctonco,Mujer,e) 20 a 24 años,18
+MILPA ALTA,Xoctonco,Mujer,f) 25 a 29 años,14
+MILPA ALTA,Xoctonco,Mujer,g) 30 a 34 años,17
+MILPA ALTA,Xoctonco,Mujer,h) 35 a 39 años,19
+MILPA ALTA,Xoctonco,Mujer,i) 40 a 44 años,10
+MILPA ALTA,Xoctonco,Mujer,j) 45 a 49 años,12
+MILPA ALTA,Xoctonco,Mujer,k) 50 a 54 años,17
+MILPA ALTA,Xoctonco,Mujer,l) 55 a 59 años,7
+MILPA ALTA,Xoctonco,Mujer,m) 60 a 64 años,3
+MILPA ALTA,Xoctonco,Mujer,n) 65 a 69 años,4
+MILPA ALTA,Xoctonco,Mujer,o) 70 a 74 años,0
+MILPA ALTA,Xoctonco,Mujer,p) 75 a 79 años,0
+MILPA ALTA,Xoctonco,Mujer,q) 80 a 84 años,2
+MILPA ALTA,Xoctonco,Mujer,r) 85 años y más,1
+MILPA ALTA,Tezompa,Hombre,a) 0 a 4 años,13
+MILPA ALTA,Tezompa,Hombre,b) 5 a 9 años,9
+MILPA ALTA,Tezompa,Hombre,c) 10 a 14 años,9
+MILPA ALTA,Tezompa,Hombre,d) 15 a 19 años,3
+MILPA ALTA,Tezompa,Hombre,e) 20 a 24 años,11
+MILPA ALTA,Tezompa,Hombre,f) 25 a 29 años,15
+MILPA ALTA,Tezompa,Hombre,g) 30 a 34 años,7
+MILPA ALTA,Tezompa,Hombre,h) 35 a 39 años,10
+MILPA ALTA,Tezompa,Hombre,i) 40 a 44 años,4
+MILPA ALTA,Tezompa,Hombre,j) 45 a 49 años,6
+MILPA ALTA,Tezompa,Hombre,k) 50 a 54 años,8
+MILPA ALTA,Tezompa,Hombre,l) 55 a 59 años,3
+MILPA ALTA,Tezompa,Hombre,m) 60 a 64 años,4
+MILPA ALTA,Tezompa,Hombre,n) 65 a 69 años,2
+MILPA ALTA,Tezompa,Hombre,o) 70 a 74 años,0
+MILPA ALTA,Tezompa,Hombre,p) 75 a 79 años,1
+MILPA ALTA,Tezompa,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Tezompa,Hombre,r) 85 años y más,0
+MILPA ALTA,Tezompa,Mujer,a) 0 a 4 años,16
+MILPA ALTA,Tezompa,Mujer,b) 5 a 9 años,11
+MILPA ALTA,Tezompa,Mujer,c) 10 a 14 años,9
+MILPA ALTA,Tezompa,Mujer,d) 15 a 19 años,13
+MILPA ALTA,Tezompa,Mujer,e) 20 a 24 años,15
+MILPA ALTA,Tezompa,Mujer,f) 25 a 29 años,10
+MILPA ALTA,Tezompa,Mujer,g) 30 a 34 años,10
+MILPA ALTA,Tezompa,Mujer,h) 35 a 39 años,7
+MILPA ALTA,Tezompa,Mujer,i) 40 a 44 años,9
+MILPA ALTA,Tezompa,Mujer,j) 45 a 49 años,3
+MILPA ALTA,Tezompa,Mujer,k) 50 a 54 años,5
+MILPA ALTA,Tezompa,Mujer,l) 55 a 59 años,6
+MILPA ALTA,Tezompa,Mujer,m) 60 a 64 años,4
+MILPA ALTA,Tezompa,Mujer,n) 65 a 69 años,1
+MILPA ALTA,Tezompa,Mujer,o) 70 a 74 años,1
+MILPA ALTA,Tezompa,Mujer,p) 75 a 79 años,1
+MILPA ALTA,Tezompa,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Tezompa,Mujer,r) 85 años y más,0
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,a) 0 a 4 años,152
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,b) 5 a 9 años,189
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,c) 10 a 14 años,191
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,d) 15 a 19 años,174
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,e) 20 a 24 años,174
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,f) 25 a 29 años,178
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,g) 30 a 34 años,174
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,h) 35 a 39 años,152
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,i) 40 a 44 años,154
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,j) 45 a 49 años,125
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,k) 50 a 54 años,119
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,l) 55 a 59 años,84
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,m) 60 a 64 años,89
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,n) 65 a 69 años,50
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,o) 70 a 74 años,40
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,p) 75 a 79 años,26
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,q) 80 a 84 años,15
+MILPA ALTA,San Lorenzo Tlacoyucan,Hombre,r) 85 años y más,16
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,a) 0 a 4 años,161
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,b) 5 a 9 años,190
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,c) 10 a 14 años,155
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,d) 15 a 19 años,160
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,e) 20 a 24 años,184
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,f) 25 a 29 años,196
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,g) 30 a 34 años,183
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,h) 35 a 39 años,177
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,i) 40 a 44 años,148
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,j) 45 a 49 años,133
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,k) 50 a 54 años,137
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,l) 55 a 59 años,103
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,m) 60 a 64 años,76
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,n) 65 a 69 años,66
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,o) 70 a 74 años,46
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,p) 75 a 79 años,33
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,q) 80 a 84 años,21
+MILPA ALTA,San Lorenzo Tlacoyucan,Mujer,r) 85 años y más,17
+MILPA ALTA,Coametzu,Hombre,a) 0 a 4 años,15
+MILPA ALTA,Coametzu,Hombre,b) 5 a 9 años,17
+MILPA ALTA,Coametzu,Hombre,c) 10 a 14 años,16
+MILPA ALTA,Coametzu,Hombre,d) 15 a 19 años,21
+MILPA ALTA,Coametzu,Hombre,e) 20 a 24 años,15
+MILPA ALTA,Coametzu,Hombre,f) 25 a 29 años,11
+MILPA ALTA,Coametzu,Hombre,g) 30 a 34 años,9
+MILPA ALTA,Coametzu,Hombre,h) 35 a 39 años,4
+MILPA ALTA,Coametzu,Hombre,i) 40 a 44 años,17
+MILPA ALTA,Coametzu,Hombre,j) 45 a 49 años,11
+MILPA ALTA,Coametzu,Hombre,k) 50 a 54 años,9
+MILPA ALTA,Coametzu,Hombre,l) 55 a 59 años,4
+MILPA ALTA,Coametzu,Hombre,m) 60 a 64 años,1
+MILPA ALTA,Coametzu,Hombre,n) 65 a 69 años,1
+MILPA ALTA,Coametzu,Hombre,o) 70 a 74 años,1
+MILPA ALTA,Coametzu,Hombre,p) 75 a 79 años,2
+MILPA ALTA,Coametzu,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Coametzu,Hombre,r) 85 años y más,0
+MILPA ALTA,Coametzu,Mujer,a) 0 a 4 años,11
+MILPA ALTA,Coametzu,Mujer,b) 5 a 9 años,14
+MILPA ALTA,Coametzu,Mujer,c) 10 a 14 años,17
+MILPA ALTA,Coametzu,Mujer,d) 15 a 19 años,17
+MILPA ALTA,Coametzu,Mujer,e) 20 a 24 años,17
+MILPA ALTA,Coametzu,Mujer,f) 25 a 29 años,13
+MILPA ALTA,Coametzu,Mujer,g) 30 a 34 años,8
+MILPA ALTA,Coametzu,Mujer,h) 35 a 39 años,12
+MILPA ALTA,Coametzu,Mujer,i) 40 a 44 años,13
+MILPA ALTA,Coametzu,Mujer,j) 45 a 49 años,11
+MILPA ALTA,Coametzu,Mujer,k) 50 a 54 años,4
+MILPA ALTA,Coametzu,Mujer,l) 55 a 59 años,5
+MILPA ALTA,Coametzu,Mujer,m) 60 a 64 años,3
+MILPA ALTA,Coametzu,Mujer,n) 65 a 69 años,0
+MILPA ALTA,Coametzu,Mujer,o) 70 a 74 años,2
+MILPA ALTA,Coametzu,Mujer,p) 75 a 79 años,1
+MILPA ALTA,Coametzu,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Coametzu,Mujer,r) 85 años y más,0
+MILPA ALTA,Tepetenco,Hombre,a) 0 a 4 años,10
+MILPA ALTA,Tepetenco,Hombre,b) 5 a 9 años,11
+MILPA ALTA,Tepetenco,Hombre,c) 10 a 14 años,16
+MILPA ALTA,Tepetenco,Hombre,d) 15 a 19 años,19
+MILPA ALTA,Tepetenco,Hombre,e) 20 a 24 años,11
+MILPA ALTA,Tepetenco,Hombre,f) 25 a 29 años,13
+MILPA ALTA,Tepetenco,Hombre,g) 30 a 34 años,9
+MILPA ALTA,Tepetenco,Hombre,h) 35 a 39 años,7
+MILPA ALTA,Tepetenco,Hombre,i) 40 a 44 años,7
+MILPA ALTA,Tepetenco,Hombre,j) 45 a 49 años,11
+MILPA ALTA,Tepetenco,Hombre,k) 50 a 54 años,7
+MILPA ALTA,Tepetenco,Hombre,l) 55 a 59 años,5
+MILPA ALTA,Tepetenco,Hombre,m) 60 a 64 años,10
+MILPA ALTA,Tepetenco,Hombre,n) 65 a 69 años,4
+MILPA ALTA,Tepetenco,Hombre,o) 70 a 74 años,2
+MILPA ALTA,Tepetenco,Hombre,p) 75 a 79 años,1
+MILPA ALTA,Tepetenco,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Tepetenco,Hombre,r) 85 años y más,0
+MILPA ALTA,Tepetenco,Mujer,a) 0 a 4 años,10
+MILPA ALTA,Tepetenco,Mujer,b) 5 a 9 años,15
+MILPA ALTA,Tepetenco,Mujer,c) 10 a 14 años,21
+MILPA ALTA,Tepetenco,Mujer,d) 15 a 19 años,14
+MILPA ALTA,Tepetenco,Mujer,e) 20 a 24 años,11
+MILPA ALTA,Tepetenco,Mujer,f) 25 a 29 años,10
+MILPA ALTA,Tepetenco,Mujer,g) 30 a 34 años,13
+MILPA ALTA,Tepetenco,Mujer,h) 35 a 39 años,16
+MILPA ALTA,Tepetenco,Mujer,i) 40 a 44 años,13
+MILPA ALTA,Tepetenco,Mujer,j) 45 a 49 años,11
+MILPA ALTA,Tepetenco,Mujer,k) 50 a 54 años,9
+MILPA ALTA,Tepetenco,Mujer,l) 55 a 59 años,7
+MILPA ALTA,Tepetenco,Mujer,m) 60 a 64 años,1
+MILPA ALTA,Tepetenco,Mujer,n) 65 a 69 años,4
+MILPA ALTA,Tepetenco,Mujer,o) 70 a 74 años,2
+MILPA ALTA,Tepetenco,Mujer,p) 75 a 79 años,2
+MILPA ALTA,Tepetenco,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Tepetenco,Mujer,r) 85 años y más,1
+MILPA ALTA,San Isidro Cuatepec,Hombre,a) 0 a 4 años,41
+MILPA ALTA,San Isidro Cuatepec,Hombre,b) 5 a 9 años,40
+MILPA ALTA,San Isidro Cuatepec,Hombre,c) 10 a 14 años,56
+MILPA ALTA,San Isidro Cuatepec,Hombre,d) 15 a 19 años,41
+MILPA ALTA,San Isidro Cuatepec,Hombre,e) 20 a 24 años,44
+MILPA ALTA,San Isidro Cuatepec,Hombre,f) 25 a 29 años,46
+MILPA ALTA,San Isidro Cuatepec,Hombre,g) 30 a 34 años,33
+MILPA ALTA,San Isidro Cuatepec,Hombre,h) 35 a 39 años,34
+MILPA ALTA,San Isidro Cuatepec,Hombre,i) 40 a 44 años,42
+MILPA ALTA,San Isidro Cuatepec,Hombre,j) 45 a 49 años,44
+MILPA ALTA,San Isidro Cuatepec,Hombre,k) 50 a 54 años,34
+MILPA ALTA,San Isidro Cuatepec,Hombre,l) 55 a 59 años,19
+MILPA ALTA,San Isidro Cuatepec,Hombre,m) 60 a 64 años,17
+MILPA ALTA,San Isidro Cuatepec,Hombre,n) 65 a 69 años,4
+MILPA ALTA,San Isidro Cuatepec,Hombre,o) 70 a 74 años,4
+MILPA ALTA,San Isidro Cuatepec,Hombre,p) 75 a 79 años,4
+MILPA ALTA,San Isidro Cuatepec,Hombre,q) 80 a 84 años,1
+MILPA ALTA,San Isidro Cuatepec,Hombre,r) 85 años y más,2
+MILPA ALTA,San Isidro Cuatepec,Mujer,a) 0 a 4 años,42
+MILPA ALTA,San Isidro Cuatepec,Mujer,b) 5 a 9 años,53
+MILPA ALTA,San Isidro Cuatepec,Mujer,c) 10 a 14 años,55
+MILPA ALTA,San Isidro Cuatepec,Mujer,d) 15 a 19 años,55
+MILPA ALTA,San Isidro Cuatepec,Mujer,e) 20 a 24 años,48
+MILPA ALTA,San Isidro Cuatepec,Mujer,f) 25 a 29 años,57
+MILPA ALTA,San Isidro Cuatepec,Mujer,g) 30 a 34 años,38
+MILPA ALTA,San Isidro Cuatepec,Mujer,h) 35 a 39 años,39
+MILPA ALTA,San Isidro Cuatepec,Mujer,i) 40 a 44 años,49
+MILPA ALTA,San Isidro Cuatepec,Mujer,j) 45 a 49 años,37
+MILPA ALTA,San Isidro Cuatepec,Mujer,k) 50 a 54 años,33
+MILPA ALTA,San Isidro Cuatepec,Mujer,l) 55 a 59 años,21
+MILPA ALTA,San Isidro Cuatepec,Mujer,m) 60 a 64 años,10
+MILPA ALTA,San Isidro Cuatepec,Mujer,n) 65 a 69 años,12
+MILPA ALTA,San Isidro Cuatepec,Mujer,o) 70 a 74 años,3
+MILPA ALTA,San Isidro Cuatepec,Mujer,p) 75 a 79 años,2
+MILPA ALTA,San Isidro Cuatepec,Mujer,q) 80 a 84 años,1
+MILPA ALTA,San Isidro Cuatepec,Mujer,r) 85 años y más,2
+MILPA ALTA,Xaluis,Hombre,a) 0 a 4 años,8
+MILPA ALTA,Xaluis,Hombre,b) 5 a 9 años,16
+MILPA ALTA,Xaluis,Hombre,c) 10 a 14 años,10
+MILPA ALTA,Xaluis,Hombre,d) 15 a 19 años,10
+MILPA ALTA,Xaluis,Hombre,e) 20 a 24 años,7
+MILPA ALTA,Xaluis,Hombre,f) 25 a 29 años,9
+MILPA ALTA,Xaluis,Hombre,g) 30 a 34 años,12
+MILPA ALTA,Xaluis,Hombre,h) 35 a 39 años,4
+MILPA ALTA,Xaluis,Hombre,i) 40 a 44 años,5
+MILPA ALTA,Xaluis,Hombre,j) 45 a 49 años,6
+MILPA ALTA,Xaluis,Hombre,k) 50 a 54 años,8
+MILPA ALTA,Xaluis,Hombre,l) 55 a 59 años,3
+MILPA ALTA,Xaluis,Hombre,m) 60 a 64 años,2
+MILPA ALTA,Xaluis,Hombre,n) 65 a 69 años,1
+MILPA ALTA,Xaluis,Hombre,o) 70 a 74 años,0
+MILPA ALTA,Xaluis,Hombre,p) 75 a 79 años,1
+MILPA ALTA,Xaluis,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Xaluis,Hombre,r) 85 años y más,0
+MILPA ALTA,Xaluis,Mujer,a) 0 a 4 años,9
+MILPA ALTA,Xaluis,Mujer,b) 5 a 9 años,6
+MILPA ALTA,Xaluis,Mujer,c) 10 a 14 años,8
+MILPA ALTA,Xaluis,Mujer,d) 15 a 19 años,6
+MILPA ALTA,Xaluis,Mujer,e) 20 a 24 años,10
+MILPA ALTA,Xaluis,Mujer,f) 25 a 29 años,12
+MILPA ALTA,Xaluis,Mujer,g) 30 a 34 años,6
+MILPA ALTA,Xaluis,Mujer,h) 35 a 39 años,7
+MILPA ALTA,Xaluis,Mujer,i) 40 a 44 años,6
+MILPA ALTA,Xaluis,Mujer,j) 45 a 49 años,5
+MILPA ALTA,Xaluis,Mujer,k) 50 a 54 años,6
+MILPA ALTA,Xaluis,Mujer,l) 55 a 59 años,2
+MILPA ALTA,Xaluis,Mujer,m) 60 a 64 años,1
+MILPA ALTA,Xaluis,Mujer,n) 65 a 69 años,1
+MILPA ALTA,Xaluis,Mujer,o) 70 a 74 años,2
+MILPA ALTA,Xaluis,Mujer,p) 75 a 79 años,2
+MILPA ALTA,Xaluis,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Xaluis,Mujer,r) 85 años y más,0
+MILPA ALTA,Tepetipac,Hombre,a) 0 a 4 años,10
+MILPA ALTA,Tepetipac,Hombre,b) 5 a 9 años,12
+MILPA ALTA,Tepetipac,Hombre,c) 10 a 14 años,10
+MILPA ALTA,Tepetipac,Hombre,d) 15 a 19 años,18
+MILPA ALTA,Tepetipac,Hombre,e) 20 a 24 años,6
+MILPA ALTA,Tepetipac,Hombre,f) 25 a 29 años,10
+MILPA ALTA,Tepetipac,Hombre,g) 30 a 34 años,7
+MILPA ALTA,Tepetipac,Hombre,h) 35 a 39 años,8
+MILPA ALTA,Tepetipac,Hombre,i) 40 a 44 años,8
+MILPA ALTA,Tepetipac,Hombre,j) 45 a 49 años,12
+MILPA ALTA,Tepetipac,Hombre,k) 50 a 54 años,10
+MILPA ALTA,Tepetipac,Hombre,l) 55 a 59 años,7
+MILPA ALTA,Tepetipac,Hombre,m) 60 a 64 años,1
+MILPA ALTA,Tepetipac,Hombre,n) 65 a 69 años,4
+MILPA ALTA,Tepetipac,Hombre,o) 70 a 74 años,0
+MILPA ALTA,Tepetipac,Hombre,p) 75 a 79 años,1
+MILPA ALTA,Tepetipac,Hombre,q) 80 a 84 años,1
+MILPA ALTA,Tepetipac,Hombre,r) 85 años y más,0
+MILPA ALTA,Tepetipac,Mujer,a) 0 a 4 años,13
+MILPA ALTA,Tepetipac,Mujer,b) 5 a 9 años,18
+MILPA ALTA,Tepetipac,Mujer,c) 10 a 14 años,11
+MILPA ALTA,Tepetipac,Mujer,d) 15 a 19 años,11
+MILPA ALTA,Tepetipac,Mujer,e) 20 a 24 años,19
+MILPA ALTA,Tepetipac,Mujer,f) 25 a 29 años,21
+MILPA ALTA,Tepetipac,Mujer,g) 30 a 34 años,8
+MILPA ALTA,Tepetipac,Mujer,h) 35 a 39 años,12
+MILPA ALTA,Tepetipac,Mujer,i) 40 a 44 años,9
+MILPA ALTA,Tepetipac,Mujer,j) 45 a 49 años,11
+MILPA ALTA,Tepetipac,Mujer,k) 50 a 54 años,8
+MILPA ALTA,Tepetipac,Mujer,l) 55 a 59 años,2
+MILPA ALTA,Tepetipac,Mujer,m) 60 a 64 años,4
+MILPA ALTA,Tepetipac,Mujer,n) 65 a 69 años,2
+MILPA ALTA,Tepetipac,Mujer,o) 70 a 74 años,1
+MILPA ALTA,Tepetipac,Mujer,p) 75 a 79 años,0
+MILPA ALTA,Tepetipac,Mujer,q) 80 a 84 años,2
+MILPA ALTA,Tepetipac,Mujer,r) 85 años y más,0
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,a) 0 a 4 años,10
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,b) 5 a 9 años,12
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,c) 10 a 14 años,5
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,d) 15 a 19 años,9
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,e) 20 a 24 años,9
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,f) 25 a 29 años,9
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,g) 30 a 34 años,13
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,h) 35 a 39 años,8
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,i) 40 a 44 años,9
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,j) 45 a 49 años,7
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,k) 50 a 54 años,3
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,l) 55 a 59 años,9
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,m) 60 a 64 años,2
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,n) 65 a 69 años,3
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,o) 70 a 74 años,3
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,p) 75 a 79 años,3
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,q) 80 a 84 años,0
+MILPA ALTA,Mecalco (Camino al Mirador),Hombre,r) 85 años y más,0
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,a) 0 a 4 años,7
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,b) 5 a 9 años,12
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,c) 10 a 14 años,14
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,d) 15 a 19 años,10
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,e) 20 a 24 años,8
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,f) 25 a 29 años,15
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,g) 30 a 34 años,12
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,h) 35 a 39 años,7
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,i) 40 a 44 años,6
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,j) 45 a 49 años,3
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,k) 50 a 54 años,9
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,l) 55 a 59 años,2
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,m) 60 a 64 años,4
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,n) 65 a 69 años,5
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,o) 70 a 74 años,2
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,p) 75 a 79 años,0
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,q) 80 a 84 años,2
+MILPA ALTA,Mecalco (Camino al Mirador),Mujer,r) 85 años y más,0
+MILPA ALTA,Zacazontlipac,Hombre,a) 0 a 4 años,12
+MILPA ALTA,Zacazontlipac,Hombre,b) 5 a 9 años,12
+MILPA ALTA,Zacazontlipac,Hombre,c) 10 a 14 años,15
+MILPA ALTA,Zacazontlipac,Hombre,d) 15 a 19 años,14
+MILPA ALTA,Zacazontlipac,Hombre,e) 20 a 24 años,15
+MILPA ALTA,Zacazontlipac,Hombre,f) 25 a 29 años,15
+MILPA ALTA,Zacazontlipac,Hombre,g) 30 a 34 años,24
+MILPA ALTA,Zacazontlipac,Hombre,h) 35 a 39 años,10
+MILPA ALTA,Zacazontlipac,Hombre,i) 40 a 44 años,20
+MILPA ALTA,Zacazontlipac,Hombre,j) 45 a 49 años,17
+MILPA ALTA,Zacazontlipac,Hombre,k) 50 a 54 años,10
+MILPA ALTA,Zacazontlipac,Hombre,l) 55 a 59 años,2
+MILPA ALTA,Zacazontlipac,Hombre,m) 60 a 64 años,6
+MILPA ALTA,Zacazontlipac,Hombre,n) 65 a 69 años,3
+MILPA ALTA,Zacazontlipac,Hombre,o) 70 a 74 años,5
+MILPA ALTA,Zacazontlipac,Hombre,p) 75 a 79 años,1
+MILPA ALTA,Zacazontlipac,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Zacazontlipac,Hombre,r) 85 años y más,1
+MILPA ALTA,Zacazontlipac,Mujer,a) 0 a 4 años,11
+MILPA ALTA,Zacazontlipac,Mujer,b) 5 a 9 años,10
+MILPA ALTA,Zacazontlipac,Mujer,c) 10 a 14 años,14
+MILPA ALTA,Zacazontlipac,Mujer,d) 15 a 19 años,14
+MILPA ALTA,Zacazontlipac,Mujer,e) 20 a 24 años,23
+MILPA ALTA,Zacazontlipac,Mujer,f) 25 a 29 años,14
+MILPA ALTA,Zacazontlipac,Mujer,g) 30 a 34 años,18
+MILPA ALTA,Zacazontlipac,Mujer,h) 35 a 39 años,16
+MILPA ALTA,Zacazontlipac,Mujer,i) 40 a 44 años,17
+MILPA ALTA,Zacazontlipac,Mujer,j) 45 a 49 años,14
+MILPA ALTA,Zacazontlipac,Mujer,k) 50 a 54 años,6
+MILPA ALTA,Zacazontlipac,Mujer,l) 55 a 59 años,6
+MILPA ALTA,Zacazontlipac,Mujer,m) 60 a 64 años,5
+MILPA ALTA,Zacazontlipac,Mujer,n) 65 a 69 años,7
+MILPA ALTA,Zacazontlipac,Mujer,o) 70 a 74 años,1
+MILPA ALTA,Zacazontlipac,Mujer,p) 75 a 79 años,5
+MILPA ALTA,Zacazontlipac,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Zacazontlipac,Mujer,r) 85 años y más,0
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,a) 0 a 4 años,3
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,b) 5 a 9 años,5
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,c) 10 a 14 años,6
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,d) 15 a 19 años,12
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,e) 20 a 24 años,6
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,f) 25 a 29 años,8
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,g) 30 a 34 años,8
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,h) 35 a 39 años,7
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,i) 40 a 44 años,3
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,j) 45 a 49 años,6
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,k) 50 a 54 años,3
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,l) 55 a 59 años,6
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,m) 60 a 64 años,7
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,n) 65 a 69 años,4
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,o) 70 a 74 años,4
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,p) 75 a 79 años,0
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,q) 80 a 84 años,0
+MILPA ALTA,Santa Catarina (Piedra Blanca),Hombre,r) 85 años y más,2
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,a) 0 a 4 años,1
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,b) 5 a 9 años,6
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,c) 10 a 14 años,7
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,d) 15 a 19 años,5
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,e) 20 a 24 años,8
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,f) 25 a 29 años,6
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,g) 30 a 34 años,6
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,h) 35 a 39 años,6
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,i) 40 a 44 años,7
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,j) 45 a 49 años,11
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,k) 50 a 54 años,3
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,l) 55 a 59 años,9
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,m) 60 a 64 años,4
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,n) 65 a 69 años,4
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,o) 70 a 74 años,2
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,p) 75 a 79 años,0
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,q) 80 a 84 años,2
+MILPA ALTA,Santa Catarina (Piedra Blanca),Mujer,r) 85 años y más,0
+MILPA ALTA,Cuauhtetec,Hombre,a) 0 a 4 años,9
+MILPA ALTA,Cuauhtetec,Hombre,b) 5 a 9 años,11
+MILPA ALTA,Cuauhtetec,Hombre,c) 10 a 14 años,14
+MILPA ALTA,Cuauhtetec,Hombre,d) 15 a 19 años,11
+MILPA ALTA,Cuauhtetec,Hombre,e) 20 a 24 años,20
+MILPA ALTA,Cuauhtetec,Hombre,f) 25 a 29 años,10
+MILPA ALTA,Cuauhtetec,Hombre,g) 30 a 34 años,13
+MILPA ALTA,Cuauhtetec,Hombre,h) 35 a 39 años,11
+MILPA ALTA,Cuauhtetec,Hombre,i) 40 a 44 años,12
+MILPA ALTA,Cuauhtetec,Hombre,j) 45 a 49 años,7
+MILPA ALTA,Cuauhtetec,Hombre,k) 50 a 54 años,3
+MILPA ALTA,Cuauhtetec,Hombre,l) 55 a 59 años,7
+MILPA ALTA,Cuauhtetec,Hombre,m) 60 a 64 años,2
+MILPA ALTA,Cuauhtetec,Hombre,n) 65 a 69 años,4
+MILPA ALTA,Cuauhtetec,Hombre,o) 70 a 74 años,1
+MILPA ALTA,Cuauhtetec,Hombre,p) 75 a 79 años,0
+MILPA ALTA,Cuauhtetec,Hombre,q) 80 a 84 años,1
+MILPA ALTA,Cuauhtetec,Hombre,r) 85 años y más,0
+MILPA ALTA,Cuauhtetec,Mujer,a) 0 a 4 años,7
+MILPA ALTA,Cuauhtetec,Mujer,b) 5 a 9 años,14
+MILPA ALTA,Cuauhtetec,Mujer,c) 10 a 14 años,14
+MILPA ALTA,Cuauhtetec,Mujer,d) 15 a 19 años,10
+MILPA ALTA,Cuauhtetec,Mujer,e) 20 a 24 años,14
+MILPA ALTA,Cuauhtetec,Mujer,f) 25 a 29 años,9
+MILPA ALTA,Cuauhtetec,Mujer,g) 30 a 34 años,16
+MILPA ALTA,Cuauhtetec,Mujer,h) 35 a 39 años,9
+MILPA ALTA,Cuauhtetec,Mujer,i) 40 a 44 años,13
+MILPA ALTA,Cuauhtetec,Mujer,j) 45 a 49 años,5
+MILPA ALTA,Cuauhtetec,Mujer,k) 50 a 54 años,12
+MILPA ALTA,Cuauhtetec,Mujer,l) 55 a 59 años,4
+MILPA ALTA,Cuauhtetec,Mujer,m) 60 a 64 años,4
+MILPA ALTA,Cuauhtetec,Mujer,n) 65 a 69 años,3
+MILPA ALTA,Cuauhtetec,Mujer,o) 70 a 74 años,0
+MILPA ALTA,Cuauhtetec,Mujer,p) 75 a 79 años,0
+MILPA ALTA,Cuauhtetec,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Cuauhtetec,Mujer,r) 85 años y más,0
+MILPA ALTA,Olla de Piedra,Hombre,a) 0 a 4 años,6
+MILPA ALTA,Olla de Piedra,Hombre,b) 5 a 9 años,3
+MILPA ALTA,Olla de Piedra,Hombre,c) 10 a 14 años,9
+MILPA ALTA,Olla de Piedra,Hombre,d) 15 a 19 años,9
+MILPA ALTA,Olla de Piedra,Hombre,e) 20 a 24 años,4
+MILPA ALTA,Olla de Piedra,Hombre,f) 25 a 29 años,2
+MILPA ALTA,Olla de Piedra,Hombre,g) 30 a 34 años,5
+MILPA ALTA,Olla de Piedra,Hombre,h) 35 a 39 años,5
+MILPA ALTA,Olla de Piedra,Hombre,i) 40 a 44 años,10
+MILPA ALTA,Olla de Piedra,Hombre,j) 45 a 49 años,4
+MILPA ALTA,Olla de Piedra,Hombre,k) 50 a 54 años,2
+MILPA ALTA,Olla de Piedra,Hombre,l) 55 a 59 años,2
+MILPA ALTA,Olla de Piedra,Hombre,m) 60 a 64 años,1
+MILPA ALTA,Olla de Piedra,Hombre,n) 65 a 69 años,1
+MILPA ALTA,Olla de Piedra,Hombre,o) 70 a 74 años,1
+MILPA ALTA,Olla de Piedra,Hombre,p) 75 a 79 años,0
+MILPA ALTA,Olla de Piedra,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Olla de Piedra,Hombre,r) 85 años y más,0
+MILPA ALTA,Olla de Piedra,Mujer,a) 0 a 4 años,5
+MILPA ALTA,Olla de Piedra,Mujer,b) 5 a 9 años,6
+MILPA ALTA,Olla de Piedra,Mujer,c) 10 a 14 años,3
+MILPA ALTA,Olla de Piedra,Mujer,d) 15 a 19 años,6
+MILPA ALTA,Olla de Piedra,Mujer,e) 20 a 24 años,7
+MILPA ALTA,Olla de Piedra,Mujer,f) 25 a 29 años,3
+MILPA ALTA,Olla de Piedra,Mujer,g) 30 a 34 años,5
+MILPA ALTA,Olla de Piedra,Mujer,h) 35 a 39 años,12
+MILPA ALTA,Olla de Piedra,Mujer,i) 40 a 44 años,2
+MILPA ALTA,Olla de Piedra,Mujer,j) 45 a 49 años,4
+MILPA ALTA,Olla de Piedra,Mujer,k) 50 a 54 años,1
+MILPA ALTA,Olla de Piedra,Mujer,l) 55 a 59 años,4
+MILPA ALTA,Olla de Piedra,Mujer,m) 60 a 64 años,1
+MILPA ALTA,Olla de Piedra,Mujer,n) 65 a 69 años,1
+MILPA ALTA,Olla de Piedra,Mujer,o) 70 a 74 años,2
+MILPA ALTA,Olla de Piedra,Mujer,p) 75 a 79 años,0
+MILPA ALTA,Olla de Piedra,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Olla de Piedra,Mujer,r) 85 años y más,0
+MILPA ALTA,Oluca,Hombre,a) 0 a 4 años,10
+MILPA ALTA,Oluca,Hombre,b) 5 a 9 años,18
+MILPA ALTA,Oluca,Hombre,c) 10 a 14 años,22
+MILPA ALTA,Oluca,Hombre,d) 15 a 19 años,20
+MILPA ALTA,Oluca,Hombre,e) 20 a 24 años,16
+MILPA ALTA,Oluca,Hombre,f) 25 a 29 años,17
+MILPA ALTA,Oluca,Hombre,g) 30 a 34 años,13
+MILPA ALTA,Oluca,Hombre,h) 35 a 39 años,14
+MILPA ALTA,Oluca,Hombre,i) 40 a 44 años,12
+MILPA ALTA,Oluca,Hombre,j) 45 a 49 años,14
+MILPA ALTA,Oluca,Hombre,k) 50 a 54 años,15
+MILPA ALTA,Oluca,Hombre,l) 55 a 59 años,13
+MILPA ALTA,Oluca,Hombre,m) 60 a 64 años,3
+MILPA ALTA,Oluca,Hombre,n) 65 a 69 años,2
+MILPA ALTA,Oluca,Hombre,o) 70 a 74 años,1
+MILPA ALTA,Oluca,Hombre,p) 75 a 79 años,1
+MILPA ALTA,Oluca,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Oluca,Hombre,r) 85 años y más,1
+MILPA ALTA,Oluca,Mujer,a) 0 a 4 años,9
+MILPA ALTA,Oluca,Mujer,b) 5 a 9 años,15
+MILPA ALTA,Oluca,Mujer,c) 10 a 14 años,12
+MILPA ALTA,Oluca,Mujer,d) 15 a 19 años,19
+MILPA ALTA,Oluca,Mujer,e) 20 a 24 años,13
+MILPA ALTA,Oluca,Mujer,f) 25 a 29 años,11
+MILPA ALTA,Oluca,Mujer,g) 30 a 34 años,15
+MILPA ALTA,Oluca,Mujer,h) 35 a 39 años,12
+MILPA ALTA,Oluca,Mujer,i) 40 a 44 años,20
+MILPA ALTA,Oluca,Mujer,j) 45 a 49 años,18
+MILPA ALTA,Oluca,Mujer,k) 50 a 54 años,6
+MILPA ALTA,Oluca,Mujer,l) 55 a 59 años,11
+MILPA ALTA,Oluca,Mujer,m) 60 a 64 años,7
+MILPA ALTA,Oluca,Mujer,n) 65 a 69 años,3
+MILPA ALTA,Oluca,Mujer,o) 70 a 74 años,1
+MILPA ALTA,Oluca,Mujer,p) 75 a 79 años,1
+MILPA ALTA,Oluca,Mujer,q) 80 a 84 años,1
+MILPA ALTA,Oluca,Mujer,r) 85 años y más,1
+MILPA ALTA,Tuzanco (La Joya),Hombre,a) 0 a 4 años,13
+MILPA ALTA,Tuzanco (La Joya),Hombre,b) 5 a 9 años,5
+MILPA ALTA,Tuzanco (La Joya),Hombre,c) 10 a 14 años,22
+MILPA ALTA,Tuzanco (La Joya),Hombre,d) 15 a 19 años,27
+MILPA ALTA,Tuzanco (La Joya),Hombre,e) 20 a 24 años,9
+MILPA ALTA,Tuzanco (La Joya),Hombre,f) 25 a 29 años,16
+MILPA ALTA,Tuzanco (La Joya),Hombre,g) 30 a 34 años,10
+MILPA ALTA,Tuzanco (La Joya),Hombre,h) 35 a 39 años,16
+MILPA ALTA,Tuzanco (La Joya),Hombre,i) 40 a 44 años,13
+MILPA ALTA,Tuzanco (La Joya),Hombre,j) 45 a 49 años,13
+MILPA ALTA,Tuzanco (La Joya),Hombre,k) 50 a 54 años,14
+MILPA ALTA,Tuzanco (La Joya),Hombre,l) 55 a 59 años,6
+MILPA ALTA,Tuzanco (La Joya),Hombre,m) 60 a 64 años,4
+MILPA ALTA,Tuzanco (La Joya),Hombre,n) 65 a 69 años,2
+MILPA ALTA,Tuzanco (La Joya),Hombre,o) 70 a 74 años,2
+MILPA ALTA,Tuzanco (La Joya),Hombre,p) 75 a 79 años,0
+MILPA ALTA,Tuzanco (La Joya),Hombre,q) 80 a 84 años,0
+MILPA ALTA,Tuzanco (La Joya),Hombre,r) 85 años y más,0
+MILPA ALTA,Tuzanco (La Joya),Mujer,a) 0 a 4 años,18
+MILPA ALTA,Tuzanco (La Joya),Mujer,b) 5 a 9 años,16
+MILPA ALTA,Tuzanco (La Joya),Mujer,c) 10 a 14 años,12
+MILPA ALTA,Tuzanco (La Joya),Mujer,d) 15 a 19 años,16
+MILPA ALTA,Tuzanco (La Joya),Mujer,e) 20 a 24 años,17
+MILPA ALTA,Tuzanco (La Joya),Mujer,f) 25 a 29 años,19
+MILPA ALTA,Tuzanco (La Joya),Mujer,g) 30 a 34 años,18
+MILPA ALTA,Tuzanco (La Joya),Mujer,h) 35 a 39 años,9
+MILPA ALTA,Tuzanco (La Joya),Mujer,i) 40 a 44 años,17
+MILPA ALTA,Tuzanco (La Joya),Mujer,j) 45 a 49 años,13
+MILPA ALTA,Tuzanco (La Joya),Mujer,k) 50 a 54 años,7
+MILPA ALTA,Tuzanco (La Joya),Mujer,l) 55 a 59 años,8
+MILPA ALTA,Tuzanco (La Joya),Mujer,m) 60 a 64 años,3
+MILPA ALTA,Tuzanco (La Joya),Mujer,n) 65 a 69 años,1
+MILPA ALTA,Tuzanco (La Joya),Mujer,o) 70 a 74 años,3
+MILPA ALTA,Tuzanco (La Joya),Mujer,p) 75 a 79 años,2
+MILPA ALTA,Tuzanco (La Joya),Mujer,q) 80 a 84 años,0
+MILPA ALTA,Tuzanco (La Joya),Mujer,r) 85 años y más,0
+MILPA ALTA,Joyas Parte Alta,Hombre,a) 0 a 4 años,26
+MILPA ALTA,Joyas Parte Alta,Hombre,b) 5 a 9 años,31
+MILPA ALTA,Joyas Parte Alta,Hombre,c) 10 a 14 años,35
+MILPA ALTA,Joyas Parte Alta,Hombre,d) 15 a 19 años,34
+MILPA ALTA,Joyas Parte Alta,Hombre,e) 20 a 24 años,25
+MILPA ALTA,Joyas Parte Alta,Hombre,f) 25 a 29 años,29
+MILPA ALTA,Joyas Parte Alta,Hombre,g) 30 a 34 años,19
+MILPA ALTA,Joyas Parte Alta,Hombre,h) 35 a 39 años,16
+MILPA ALTA,Joyas Parte Alta,Hombre,i) 40 a 44 años,20
+MILPA ALTA,Joyas Parte Alta,Hombre,j) 45 a 49 años,22
+MILPA ALTA,Joyas Parte Alta,Hombre,k) 50 a 54 años,15
+MILPA ALTA,Joyas Parte Alta,Hombre,l) 55 a 59 años,13
+MILPA ALTA,Joyas Parte Alta,Hombre,m) 60 a 64 años,5
+MILPA ALTA,Joyas Parte Alta,Hombre,n) 65 a 69 años,7
+MILPA ALTA,Joyas Parte Alta,Hombre,o) 70 a 74 años,2
+MILPA ALTA,Joyas Parte Alta,Hombre,p) 75 a 79 años,0
+MILPA ALTA,Joyas Parte Alta,Hombre,q) 80 a 84 años,1
+MILPA ALTA,Joyas Parte Alta,Hombre,r) 85 años y más,1
+MILPA ALTA,Joyas Parte Alta,Mujer,a) 0 a 4 años,30
+MILPA ALTA,Joyas Parte Alta,Mujer,b) 5 a 9 años,15
+MILPA ALTA,Joyas Parte Alta,Mujer,c) 10 a 14 años,22
+MILPA ALTA,Joyas Parte Alta,Mujer,d) 15 a 19 años,31
+MILPA ALTA,Joyas Parte Alta,Mujer,e) 20 a 24 años,34
+MILPA ALTA,Joyas Parte Alta,Mujer,f) 25 a 29 años,29
+MILPA ALTA,Joyas Parte Alta,Mujer,g) 30 a 34 años,22
+MILPA ALTA,Joyas Parte Alta,Mujer,h) 35 a 39 años,23
+MILPA ALTA,Joyas Parte Alta,Mujer,i) 40 a 44 años,18
+MILPA ALTA,Joyas Parte Alta,Mujer,j) 45 a 49 años,23
+MILPA ALTA,Joyas Parte Alta,Mujer,k) 50 a 54 años,15
+MILPA ALTA,Joyas Parte Alta,Mujer,l) 55 a 59 años,12
+MILPA ALTA,Joyas Parte Alta,Mujer,m) 60 a 64 años,6
+MILPA ALTA,Joyas Parte Alta,Mujer,n) 65 a 69 años,5
+MILPA ALTA,Joyas Parte Alta,Mujer,o) 70 a 74 años,2
+MILPA ALTA,Joyas Parte Alta,Mujer,p) 75 a 79 años,1
+MILPA ALTA,Joyas Parte Alta,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Joyas Parte Alta,Mujer,r) 85 años y más,2
+MILPA ALTA,San Antonio Cuilotepec,Hombre,a) 0 a 4 años,13
+MILPA ALTA,San Antonio Cuilotepec,Hombre,b) 5 a 9 años,19
+MILPA ALTA,San Antonio Cuilotepec,Hombre,c) 10 a 14 años,17
+MILPA ALTA,San Antonio Cuilotepec,Hombre,d) 15 a 19 años,24
+MILPA ALTA,San Antonio Cuilotepec,Hombre,e) 20 a 24 años,20
+MILPA ALTA,San Antonio Cuilotepec,Hombre,f) 25 a 29 años,18
+MILPA ALTA,San Antonio Cuilotepec,Hombre,g) 30 a 34 años,17
+MILPA ALTA,San Antonio Cuilotepec,Hombre,h) 35 a 39 años,10
+MILPA ALTA,San Antonio Cuilotepec,Hombre,i) 40 a 44 años,18
+MILPA ALTA,San Antonio Cuilotepec,Hombre,j) 45 a 49 años,9
+MILPA ALTA,San Antonio Cuilotepec,Hombre,k) 50 a 54 años,11
+MILPA ALTA,San Antonio Cuilotepec,Hombre,l) 55 a 59 años,6
+MILPA ALTA,San Antonio Cuilotepec,Hombre,m) 60 a 64 años,2
+MILPA ALTA,San Antonio Cuilotepec,Hombre,n) 65 a 69 años,2
+MILPA ALTA,San Antonio Cuilotepec,Hombre,o) 70 a 74 años,4
+MILPA ALTA,San Antonio Cuilotepec,Hombre,p) 75 a 79 años,1
+MILPA ALTA,San Antonio Cuilotepec,Hombre,q) 80 a 84 años,0
+MILPA ALTA,San Antonio Cuilotepec,Hombre,r) 85 años y más,0
+MILPA ALTA,San Antonio Cuilotepec,Mujer,a) 0 a 4 años,13
+MILPA ALTA,San Antonio Cuilotepec,Mujer,b) 5 a 9 años,20
+MILPA ALTA,San Antonio Cuilotepec,Mujer,c) 10 a 14 años,26
+MILPA ALTA,San Antonio Cuilotepec,Mujer,d) 15 a 19 años,16
+MILPA ALTA,San Antonio Cuilotepec,Mujer,e) 20 a 24 años,21
+MILPA ALTA,San Antonio Cuilotepec,Mujer,f) 25 a 29 años,18
+MILPA ALTA,San Antonio Cuilotepec,Mujer,g) 30 a 34 años,16
+MILPA ALTA,San Antonio Cuilotepec,Mujer,h) 35 a 39 años,17
+MILPA ALTA,San Antonio Cuilotepec,Mujer,i) 40 a 44 años,12
+MILPA ALTA,San Antonio Cuilotepec,Mujer,j) 45 a 49 años,11
+MILPA ALTA,San Antonio Cuilotepec,Mujer,k) 50 a 54 años,11
+MILPA ALTA,San Antonio Cuilotepec,Mujer,l) 55 a 59 años,9
+MILPA ALTA,San Antonio Cuilotepec,Mujer,m) 60 a 64 años,5
+MILPA ALTA,San Antonio Cuilotepec,Mujer,n) 65 a 69 años,2
+MILPA ALTA,San Antonio Cuilotepec,Mujer,o) 70 a 74 años,0
+MILPA ALTA,San Antonio Cuilotepec,Mujer,p) 75 a 79 años,0
+MILPA ALTA,San Antonio Cuilotepec,Mujer,q) 80 a 84 años,1
+MILPA ALTA,San Antonio Cuilotepec,Mujer,r) 85 años y más,1
+MILPA ALTA,San Nicolás Tetelco,Hombre,a) 0 a 4 años,164
+MILPA ALTA,San Nicolás Tetelco,Hombre,b) 5 a 9 años,177
+MILPA ALTA,San Nicolás Tetelco,Hombre,c) 10 a 14 años,221
+MILPA ALTA,San Nicolás Tetelco,Hombre,d) 15 a 19 años,179
+MILPA ALTA,San Nicolás Tetelco,Hombre,e) 20 a 24 años,172
+MILPA ALTA,San Nicolás Tetelco,Hombre,f) 25 a 29 años,177
+MILPA ALTA,San Nicolás Tetelco,Hombre,g) 30 a 34 años,154
+MILPA ALTA,San Nicolás Tetelco,Hombre,h) 35 a 39 años,146
+MILPA ALTA,San Nicolás Tetelco,Hombre,i) 40 a 44 años,119
+MILPA ALTA,San Nicolás Tetelco,Hombre,j) 45 a 49 años,134
+MILPA ALTA,San Nicolás Tetelco,Hombre,k) 50 a 54 años,108
+MILPA ALTA,San Nicolás Tetelco,Hombre,l) 55 a 59 años,86
+MILPA ALTA,San Nicolás Tetelco,Hombre,m) 60 a 64 años,62
+MILPA ALTA,San Nicolás Tetelco,Hombre,n) 65 a 69 años,54
+MILPA ALTA,San Nicolás Tetelco,Hombre,o) 70 a 74 años,38
+MILPA ALTA,San Nicolás Tetelco,Hombre,p) 75 a 79 años,12
+MILPA ALTA,San Nicolás Tetelco,Hombre,q) 80 a 84 años,10
+MILPA ALTA,San Nicolás Tetelco,Hombre,r) 85 años y más,8
+MILPA ALTA,San Nicolás Tetelco,Mujer,a) 0 a 4 años,129
+MILPA ALTA,San Nicolás Tetelco,Mujer,b) 5 a 9 años,187
+MILPA ALTA,San Nicolás Tetelco,Mujer,c) 10 a 14 años,177
+MILPA ALTA,San Nicolás Tetelco,Mujer,d) 15 a 19 años,178
+MILPA ALTA,San Nicolás Tetelco,Mujer,e) 20 a 24 años,165
+MILPA ALTA,San Nicolás Tetelco,Mujer,f) 25 a 29 años,173
+MILPA ALTA,San Nicolás Tetelco,Mujer,g) 30 a 34 años,162
+MILPA ALTA,San Nicolás Tetelco,Mujer,h) 35 a 39 años,151
+MILPA ALTA,San Nicolás Tetelco,Mujer,i) 40 a 44 años,145
+MILPA ALTA,San Nicolás Tetelco,Mujer,j) 45 a 49 años,163
+MILPA ALTA,San Nicolás Tetelco,Mujer,k) 50 a 54 años,130
+MILPA ALTA,San Nicolás Tetelco,Mujer,l) 55 a 59 años,75
+MILPA ALTA,San Nicolás Tetelco,Mujer,m) 60 a 64 años,70
+MILPA ALTA,San Nicolás Tetelco,Mujer,n) 65 a 69 años,63
+MILPA ALTA,San Nicolás Tetelco,Mujer,o) 70 a 74 años,34
+MILPA ALTA,San Nicolás Tetelco,Mujer,p) 75 a 79 años,20
+MILPA ALTA,San Nicolás Tetelco,Mujer,q) 80 a 84 años,11
+MILPA ALTA,San Nicolás Tetelco,Mujer,r) 85 años y más,24
+MILPA ALTA,Arboledas,Hombre,a) 0 a 4 años,6
+MILPA ALTA,Arboledas,Hombre,b) 5 a 9 años,5
+MILPA ALTA,Arboledas,Hombre,c) 10 a 14 años,21
+MILPA ALTA,Arboledas,Hombre,d) 15 a 19 años,13
+MILPA ALTA,Arboledas,Hombre,e) 20 a 24 años,3
+MILPA ALTA,Arboledas,Hombre,f) 25 a 29 años,8
+MILPA ALTA,Arboledas,Hombre,g) 30 a 34 años,6
+MILPA ALTA,Arboledas,Hombre,h) 35 a 39 años,8
+MILPA ALTA,Arboledas,Hombre,i) 40 a 44 años,7
+MILPA ALTA,Arboledas,Hombre,j) 45 a 49 años,5
+MILPA ALTA,Arboledas,Hombre,k) 50 a 54 años,4
+MILPA ALTA,Arboledas,Hombre,l) 55 a 59 años,4
+MILPA ALTA,Arboledas,Hombre,m) 60 a 64 años,3
+MILPA ALTA,Arboledas,Hombre,n) 65 a 69 años,1
+MILPA ALTA,Arboledas,Hombre,o) 70 a 74 años,0
+MILPA ALTA,Arboledas,Hombre,p) 75 a 79 años,2
+MILPA ALTA,Arboledas,Hombre,q) 80 a 84 años,1
+MILPA ALTA,Arboledas,Hombre,r) 85 años y más,1
+MILPA ALTA,Arboledas,Mujer,a) 0 a 4 años,6
+MILPA ALTA,Arboledas,Mujer,b) 5 a 9 años,7
+MILPA ALTA,Arboledas,Mujer,c) 10 a 14 años,8
+MILPA ALTA,Arboledas,Mujer,d) 15 a 19 años,7
+MILPA ALTA,Arboledas,Mujer,e) 20 a 24 años,5
+MILPA ALTA,Arboledas,Mujer,f) 25 a 29 años,9
+MILPA ALTA,Arboledas,Mujer,g) 30 a 34 años,11
+MILPA ALTA,Arboledas,Mujer,h) 35 a 39 años,5
+MILPA ALTA,Arboledas,Mujer,i) 40 a 44 años,4
+MILPA ALTA,Arboledas,Mujer,j) 45 a 49 años,4
+MILPA ALTA,Arboledas,Mujer,k) 50 a 54 años,6
+MILPA ALTA,Arboledas,Mujer,l) 55 a 59 años,4
+MILPA ALTA,Arboledas,Mujer,m) 60 a 64 años,3
+MILPA ALTA,Arboledas,Mujer,n) 65 a 69 años,3
+MILPA ALTA,Arboledas,Mujer,o) 70 a 74 años,1
+MILPA ALTA,Arboledas,Mujer,p) 75 a 79 años,2
+MILPA ALTA,Arboledas,Mujer,q) 80 a 84 años,0
+MILPA ALTA,Arboledas,Mujer,r) 85 años y más,0
+MILPA ALTA,Tehuizco,Hombre,a) 0 a 4 años,13
+MILPA ALTA,Tehuizco,Hombre,b) 5 a 9 años,10
+MILPA ALTA,Tehuizco,Hombre,c) 10 a 14 años,15
+MILPA ALTA,Tehuizco,Hombre,d) 15 a 19 años,13
+MILPA ALTA,Tehuizco,Hombre,e) 20 a 24 años,7
+MILPA ALTA,Tehuizco,Hombre,f) 25 a 29 años,21
+MILPA ALTA,Tehuizco,Hombre,g) 30 a 34 años,13
+MILPA ALTA,Tehuizco,Hombre,h) 35 a 39 años,12
+MILPA ALTA,Tehuizco,Hombre,i) 40 a 44 años,9
+MILPA ALTA,Tehuizco,Hombre,j) 45 a 49 años,6
+MILPA ALTA,Tehuizco,Hombre,k) 50 a 54 años,10
+MILPA ALTA,Tehuizco,Hombre,l) 55 a 59 años,5
+MILPA ALTA,Tehuizco,Hombre,m) 60 a 64 años,6
+MILPA ALTA,Tehuizco,Hombre,n) 65 a 69 años,1
+MILPA ALTA,Tehuizco,Hombre,o) 70 a 74 años,0
+MILPA ALTA,Tehuizco,Hombre,p) 75 a 79 años,1
+MILPA ALTA,Tehuizco,Hombre,q) 80 a 84 años,0
+MILPA ALTA,Tehuizco,Hombre,r) 85 años y más,0
+MILPA ALTA,Tehuizco,Mujer,a) 0 a 4 años,14
+MILPA ALTA,Tehuizco,Mujer,b) 5 a 9 años,12
+MILPA ALTA,Tehuizco,Mujer,c) 10 a 14 años,16
+MILPA ALTA,Tehuizco,Mujer,d) 15 a 19 años,18
+MILPA ALTA,Tehuizco,Mujer,e) 20 a 24 años,17
+MILPA ALTA,Tehuizco,Mujer,f) 25 a 29 años,14
+MILPA ALTA,Tehuizco,Mujer,g) 30 a 34 años,9
+MILPA ALTA,Tehuizco,Mujer,h) 35 a 39 años,13
+MILPA ALTA,Tehuizco,Mujer,i) 40 a 44 años,7
+MILPA ALTA,Tehuizco,Mujer,j) 45 a 49 años,13
+MILPA ALTA,Tehuizco,Mujer,k) 50 a 54 años,12
+MILPA ALTA,Tehuizco,Mujer,l) 55 a 59 años,3
+MILPA ALTA,Tehuizco,Mujer,m) 60 a 64 años,5
+MILPA ALTA,Tehuizco,Mujer,n) 65 a 69 años,5
+MILPA ALTA,Tehuizco,Mujer,o) 70 a 74 años,0
+MILPA ALTA,Tehuizco,Mujer,p) 75 a 79 años,0
+MILPA ALTA,Tehuizco,Mujer,q) 80 a 84 años,1
+MILPA ALTA,Tehuizco,Mujer,r) 85 años y más,0
+ALVARO OBREGON,Álvaro Obregón,Hombre,a) 0 a 4 años,19400
+ALVARO OBREGON,Álvaro Obregón,Hombre,b) 5 a 9 años,23608
+ALVARO OBREGON,Álvaro Obregón,Hombre,c) 10 a 14 años,25720
+ALVARO OBREGON,Álvaro Obregón,Hombre,d) 15 a 19 años,27597
+ALVARO OBREGON,Álvaro Obregón,Hombre,e) 20 a 24 años,29863
+ALVARO OBREGON,Álvaro Obregón,Hombre,f) 25 a 29 años,29537
+ALVARO OBREGON,Álvaro Obregón,Hombre,g) 30 a 34 años,28594
+ALVARO OBREGON,Álvaro Obregón,Hombre,h) 35 a 39 años,27325
+ALVARO OBREGON,Álvaro Obregón,Hombre,i) 40 a 44 años,25941
+ALVARO OBREGON,Álvaro Obregón,Hombre,j) 45 a 49 años,26043
+ALVARO OBREGON,Álvaro Obregón,Hombre,k) 50 a 54 años,24125
+ALVARO OBREGON,Álvaro Obregón,Hombre,l) 55 a 59 años,20058
+ALVARO OBREGON,Álvaro Obregón,Hombre,m) 60 a 64 años,17222
+ALVARO OBREGON,Álvaro Obregón,Hombre,n) 65 a 69 años,13187
+ALVARO OBREGON,Álvaro Obregón,Hombre,o) 70 a 74 años,9513
+ALVARO OBREGON,Álvaro Obregón,Hombre,p) 75 a 79 años,5965
+ALVARO OBREGON,Álvaro Obregón,Hombre,q) 80 a 84 años,3808
+ALVARO OBREGON,Álvaro Obregón,Hombre,r) 85 años y más,3018
+ALVARO OBREGON,Álvaro Obregón,Mujer,a) 0 a 4 años,19069
+ALVARO OBREGON,Álvaro Obregón,Mujer,b) 5 a 9 años,23086
+ALVARO OBREGON,Álvaro Obregón,Mujer,c) 10 a 14 años,25131
+ALVARO OBREGON,Álvaro Obregón,Mujer,d) 15 a 19 años,27236
+ALVARO OBREGON,Álvaro Obregón,Mujer,e) 20 a 24 años,30064
+ALVARO OBREGON,Álvaro Obregón,Mujer,f) 25 a 29 años,31156
+ALVARO OBREGON,Álvaro Obregón,Mujer,g) 30 a 34 años,30882
+ALVARO OBREGON,Álvaro Obregón,Mujer,h) 35 a 39 años,29839
+ALVARO OBREGON,Álvaro Obregón,Mujer,i) 40 a 44 años,29196
+ALVARO OBREGON,Álvaro Obregón,Mujer,j) 45 a 49 años,29922
+ALVARO OBREGON,Álvaro Obregón,Mujer,k) 50 a 54 años,28590
+ALVARO OBREGON,Álvaro Obregón,Mujer,l) 55 a 59 años,23886
+ALVARO OBREGON,Álvaro Obregón,Mujer,m) 60 a 64 años,21281
+ALVARO OBREGON,Álvaro Obregón,Mujer,n) 65 a 69 años,16316
+ALVARO OBREGON,Álvaro Obregón,Mujer,o) 70 a 74 años,12283
+ALVARO OBREGON,Álvaro Obregón,Mujer,p) 75 a 79 años,8216
+ALVARO OBREGON,Álvaro Obregón,Mujer,q) 80 a 84 años,5849
+ALVARO OBREGON,Álvaro Obregón,Mujer,r) 85 años y más,5654
+TLAHUAC,Tláhuac,Hombre,a) 0 a 4 años,9697
+TLAHUAC,Tláhuac,Hombre,b) 5 a 9 años,12081
+TLAHUAC,Tláhuac,Hombre,c) 10 a 14 años,12829
+TLAHUAC,Tláhuac,Hombre,d) 15 a 19 años,13610
+TLAHUAC,Tláhuac,Hombre,e) 20 a 24 años,13979
+TLAHUAC,Tláhuac,Hombre,f) 25 a 29 años,13608
+TLAHUAC,Tláhuac,Hombre,g) 30 a 34 años,12149
+TLAHUAC,Tláhuac,Hombre,h) 35 a 39 años,11337
+TLAHUAC,Tláhuac,Hombre,i) 40 a 44 años,10769
+TLAHUAC,Tláhuac,Hombre,j) 45 a 49 años,10834
+TLAHUAC,Tláhuac,Hombre,k) 50 a 54 años,10075
+TLAHUAC,Tláhuac,Hombre,l) 55 a 59 años,8052
+TLAHUAC,Tláhuac,Hombre,m) 60 a 64 años,6431
+TLAHUAC,Tláhuac,Hombre,n) 65 a 69 años,4507
+TLAHUAC,Tláhuac,Hombre,o) 70 a 74 años,3012
+TLAHUAC,Tláhuac,Hombre,p) 75 a 79 años,1701
+TLAHUAC,Tláhuac,Hombre,q) 80 a 84 años,1017
+TLAHUAC,Tláhuac,Hombre,r) 85 años y más,750
+TLAHUAC,Tláhuac,Mujer,a) 0 a 4 años,9427
+TLAHUAC,Tláhuac,Mujer,b) 5 a 9 años,11543
+TLAHUAC,Tláhuac,Mujer,c) 10 a 14 años,12415
+TLAHUAC,Tláhuac,Mujer,d) 15 a 19 años,12841
+TLAHUAC,Tláhuac,Mujer,e) 20 a 24 años,13672
+TLAHUAC,Tláhuac,Mujer,f) 25 a 29 años,14032
+TLAHUAC,Tláhuac,Mujer,g) 30 a 34 años,13163
+TLAHUAC,Tláhuac,Mujer,h) 35 a 39 años,12511
+TLAHUAC,Tláhuac,Mujer,i) 40 a 44 años,12242
+TLAHUAC,Tláhuac,Mujer,j) 45 a 49 años,12730
+TLAHUAC,Tláhuac,Mujer,k) 50 a 54 años,11807
+TLAHUAC,Tláhuac,Mujer,l) 55 a 59 años,9369
+TLAHUAC,Tláhuac,Mujer,m) 60 a 64 años,7553
+TLAHUAC,Tláhuac,Mujer,n) 65 a 69 años,5176
+TLAHUAC,Tláhuac,Mujer,o) 70 a 74 años,3727
+TLAHUAC,Tláhuac,Mujer,p) 75 a 79 años,2184
+TLAHUAC,Tláhuac,Mujer,q) 80 a 84 años,1501
+TLAHUAC,Tláhuac,Mujer,r) 85 años y más,1319
+TLAHUAC,San Andrés Mixquic,Hombre,a) 0 a 4 años,460
+TLAHUAC,San Andrés Mixquic,Hombre,b) 5 a 9 años,501
+TLAHUAC,San Andrés Mixquic,Hombre,c) 10 a 14 años,579
+TLAHUAC,San Andrés Mixquic,Hombre,d) 15 a 19 años,622
+TLAHUAC,San Andrés Mixquic,Hombre,e) 20 a 24 años,586
+TLAHUAC,San Andrés Mixquic,Hombre,f) 25 a 29 años,548
+TLAHUAC,San Andrés Mixquic,Hombre,g) 30 a 34 años,508
+TLAHUAC,San Andrés Mixquic,Hombre,h) 35 a 39 años,529
+TLAHUAC,San Andrés Mixquic,Hombre,i) 40 a 44 años,478
+TLAHUAC,San Andrés Mixquic,Hombre,j) 45 a 49 años,451
+TLAHUAC,San Andrés Mixquic,Hombre,k) 50 a 54 años,414
+TLAHUAC,San Andrés Mixquic,Hombre,l) 55 a 59 años,357
+TLAHUAC,San Andrés Mixquic,Hombre,m) 60 a 64 años,254
+TLAHUAC,San Andrés Mixquic,Hombre,n) 65 a 69 años,211
+TLAHUAC,San Andrés Mixquic,Hombre,o) 70 a 74 años,131
+TLAHUAC,San Andrés Mixquic,Hombre,p) 75 a 79 años,90
+TLAHUAC,San Andrés Mixquic,Hombre,q) 80 a 84 años,52
+TLAHUAC,San Andrés Mixquic,Hombre,r) 85 años y más,48
+TLAHUAC,San Andrés Mixquic,Mujer,a) 0 a 4 años,426
+TLAHUAC,San Andrés Mixquic,Mujer,b) 5 a 9 años,497
+TLAHUAC,San Andrés Mixquic,Mujer,c) 10 a 14 años,594
+TLAHUAC,San Andrés Mixquic,Mujer,d) 15 a 19 años,581
+TLAHUAC,San Andrés Mixquic,Mujer,e) 20 a 24 años,604
+TLAHUAC,San Andrés Mixquic,Mujer,f) 25 a 29 años,543
+TLAHUAC,San Andrés Mixquic,Mujer,g) 30 a 34 años,570
+TLAHUAC,San Andrés Mixquic,Mujer,h) 35 a 39 años,513
+TLAHUAC,San Andrés Mixquic,Mujer,i) 40 a 44 años,505
+TLAHUAC,San Andrés Mixquic,Mujer,j) 45 a 49 años,478
+TLAHUAC,San Andrés Mixquic,Mujer,k) 50 a 54 años,473
+TLAHUAC,San Andrés Mixquic,Mujer,l) 55 a 59 años,358
+TLAHUAC,San Andrés Mixquic,Mujer,m) 60 a 64 años,306
+TLAHUAC,San Andrés Mixquic,Mujer,n) 65 a 69 años,220
+TLAHUAC,San Andrés Mixquic,Mujer,o) 70 a 74 años,173
+TLAHUAC,San Andrés Mixquic,Mujer,p) 75 a 79 años,96
+TLAHUAC,San Andrés Mixquic,Mujer,q) 80 a 84 años,74
+TLAHUAC,San Andrés Mixquic,Mujer,r) 85 años y más,64
+TLAHUAC,San Juan Ixtayopan,Hombre,a) 0 a 4 años,895
+TLAHUAC,San Juan Ixtayopan,Hombre,b) 5 a 9 años,1040
+TLAHUAC,San Juan Ixtayopan,Hombre,c) 10 a 14 años,1221
+TLAHUAC,San Juan Ixtayopan,Hombre,d) 15 a 19 años,1192
+TLAHUAC,San Juan Ixtayopan,Hombre,e) 20 a 24 años,1205
+TLAHUAC,San Juan Ixtayopan,Hombre,f) 25 a 29 años,1259
+TLAHUAC,San Juan Ixtayopan,Hombre,g) 30 a 34 años,1054
+TLAHUAC,San Juan Ixtayopan,Hombre,h) 35 a 39 años,943
+TLAHUAC,San Juan Ixtayopan,Hombre,i) 40 a 44 años,901
+TLAHUAC,San Juan Ixtayopan,Hombre,j) 45 a 49 años,916
+TLAHUAC,San Juan Ixtayopan,Hombre,k) 50 a 54 años,946
+TLAHUAC,San Juan Ixtayopan,Hombre,l) 55 a 59 años,658
+TLAHUAC,San Juan Ixtayopan,Hombre,m) 60 a 64 años,578
+TLAHUAC,San Juan Ixtayopan,Hombre,n) 65 a 69 años,394
+TLAHUAC,San Juan Ixtayopan,Hombre,o) 70 a 74 años,252
+TLAHUAC,San Juan Ixtayopan,Hombre,p) 75 a 79 años,143
+TLAHUAC,San Juan Ixtayopan,Hombre,q) 80 a 84 años,104
+TLAHUAC,San Juan Ixtayopan,Hombre,r) 85 años y más,72
+TLAHUAC,San Juan Ixtayopan,Mujer,a) 0 a 4 años,884
+TLAHUAC,San Juan Ixtayopan,Mujer,b) 5 a 9 años,1034
+TLAHUAC,San Juan Ixtayopan,Mujer,c) 10 a 14 años,1081
+TLAHUAC,San Juan Ixtayopan,Mujer,d) 15 a 19 años,1119
+TLAHUAC,San Juan Ixtayopan,Mujer,e) 20 a 24 años,1169
+TLAHUAC,San Juan Ixtayopan,Mujer,f) 25 a 29 años,1221
+TLAHUAC,San Juan Ixtayopan,Mujer,g) 30 a 34 años,1048
+TLAHUAC,San Juan Ixtayopan,Mujer,h) 35 a 39 años,1053
+TLAHUAC,San Juan Ixtayopan,Mujer,i) 40 a 44 años,995
+TLAHUAC,San Juan Ixtayopan,Mujer,j) 45 a 49 años,1083
+TLAHUAC,San Juan Ixtayopan,Mujer,k) 50 a 54 años,976
+TLAHUAC,San Juan Ixtayopan,Mujer,l) 55 a 59 años,854
+TLAHUAC,San Juan Ixtayopan,Mujer,m) 60 a 64 años,621
+TLAHUAC,San Juan Ixtayopan,Mujer,n) 65 a 69 años,431
+TLAHUAC,San Juan Ixtayopan,Mujer,o) 70 a 74 años,273
+TLAHUAC,San Juan Ixtayopan,Mujer,p) 75 a 79 años,170
+TLAHUAC,San Juan Ixtayopan,Mujer,q) 80 a 84 años,118
+TLAHUAC,San Juan Ixtayopan,Mujer,r) 85 años y más,124
+TLAHUAC,San Nicolás Tetelco,Hombre,a) 0 a 4 años,157
+TLAHUAC,San Nicolás Tetelco,Hombre,b) 5 a 9 años,239
+TLAHUAC,San Nicolás Tetelco,Hombre,c) 10 a 14 años,179
+TLAHUAC,San Nicolás Tetelco,Hombre,d) 15 a 19 años,189
+TLAHUAC,San Nicolás Tetelco,Hombre,e) 20 a 24 años,179
+TLAHUAC,San Nicolás Tetelco,Hombre,f) 25 a 29 años,196
+TLAHUAC,San Nicolás Tetelco,Hombre,g) 30 a 34 años,179
+TLAHUAC,San Nicolás Tetelco,Hombre,h) 35 a 39 años,173
+TLAHUAC,San Nicolás Tetelco,Hombre,i) 40 a 44 años,174
+TLAHUAC,San Nicolás Tetelco,Hombre,j) 45 a 49 años,146
+TLAHUAC,San Nicolás Tetelco,Hombre,k) 50 a 54 años,142
+TLAHUAC,San Nicolás Tetelco,Hombre,l) 55 a 59 años,125
+TLAHUAC,San Nicolás Tetelco,Hombre,m) 60 a 64 años,101
+TLAHUAC,San Nicolás Tetelco,Hombre,n) 65 a 69 años,56
+TLAHUAC,San Nicolás Tetelco,Hombre,o) 70 a 74 años,44
+TLAHUAC,San Nicolás Tetelco,Hombre,p) 75 a 79 años,21
+TLAHUAC,San Nicolás Tetelco,Hombre,q) 80 a 84 años,16
+TLAHUAC,San Nicolás Tetelco,Hombre,r) 85 años y más,14
+TLAHUAC,San Nicolás Tetelco,Mujer,a) 0 a 4 años,174
+TLAHUAC,San Nicolás Tetelco,Mujer,b) 5 a 9 años,203
+TLAHUAC,San Nicolás Tetelco,Mujer,c) 10 a 14 años,249
+TLAHUAC,San Nicolás Tetelco,Mujer,d) 15 a 19 años,230
+TLAHUAC,San Nicolás Tetelco,Mujer,e) 20 a 24 años,200
+TLAHUAC,San Nicolás Tetelco,Mujer,f) 25 a 29 años,218
+TLAHUAC,San Nicolás Tetelco,Mujer,g) 30 a 34 años,210
+TLAHUAC,San Nicolás Tetelco,Mujer,h) 35 a 39 años,204
+TLAHUAC,San Nicolás Tetelco,Mujer,i) 40 a 44 años,163
+TLAHUAC,San Nicolás Tetelco,Mujer,j) 45 a 49 años,158
+TLAHUAC,San Nicolás Tetelco,Mujer,k) 50 a 54 años,158
+TLAHUAC,San Nicolás Tetelco,Mujer,l) 55 a 59 años,143
+TLAHUAC,San Nicolás Tetelco,Mujer,m) 60 a 64 años,110
+TLAHUAC,San Nicolás Tetelco,Mujer,n) 65 a 69 años,68
+TLAHUAC,San Nicolás Tetelco,Mujer,o) 70 a 74 años,35
+TLAHUAC,San Nicolás Tetelco,Mujer,p) 75 a 79 años,31
+TLAHUAC,San Nicolás Tetelco,Mujer,q) 80 a 84 años,16
+TLAHUAC,San Nicolás Tetelco,Mujer,r) 85 años y más,19
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,a) 0 a 4 años,393
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,b) 5 a 9 años,454
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,c) 10 a 14 años,541
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,d) 15 a 19 años,545
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,e) 20 a 24 años,521
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,f) 25 a 29 años,448
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,g) 30 a 34 años,413
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,h) 35 a 39 años,398
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,i) 40 a 44 años,418
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,j) 45 a 49 años,403
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,k) 50 a 54 años,323
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,l) 55 a 59 años,283
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,m) 60 a 64 años,198
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,n) 65 a 69 años,160
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,o) 70 a 74 años,92
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,p) 75 a 79 años,63
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,q) 80 a 84 años,47
+TLAHUAC,Santa Catarina Yecahuitzotl,Hombre,r) 85 años y más,40
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,a) 0 a 4 años,361
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,b) 5 a 9 años,486
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,c) 10 a 14 años,475
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,d) 15 a 19 años,499
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,e) 20 a 24 años,496
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,f) 25 a 29 años,459
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,g) 30 a 34 años,470
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,h) 35 a 39 años,401
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,i) 40 a 44 años,481
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,j) 45 a 49 años,411
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,k) 50 a 54 años,395
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,l) 55 a 59 años,285
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,m) 60 a 64 años,234
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,n) 65 a 69 años,164
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,o) 70 a 74 años,97
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,p) 75 a 79 años,80
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,q) 80 a 84 años,44
+TLAHUAC,Santa Catarina Yecahuitzotl,Mujer,r) 85 años y más,58
+TLAHUAC,San Ignacio de Loyola,Hombre,a) 0 a 4 años,31
+TLAHUAC,San Ignacio de Loyola,Hombre,b) 5 a 9 años,40
+TLAHUAC,San Ignacio de Loyola,Hombre,c) 10 a 14 años,35
+TLAHUAC,San Ignacio de Loyola,Hombre,d) 15 a 19 años,39
+TLAHUAC,San Ignacio de Loyola,Hombre,e) 20 a 24 años,46
+TLAHUAC,San Ignacio de Loyola,Hombre,f) 25 a 29 años,34
+TLAHUAC,San Ignacio de Loyola,Hombre,g) 30 a 34 años,33
+TLAHUAC,San Ignacio de Loyola,Hombre,h) 35 a 39 años,22
+TLAHUAC,San Ignacio de Loyola,Hombre,i) 40 a 44 años,31
+TLAHUAC,San Ignacio de Loyola,Hombre,j) 45 a 49 años,29
+TLAHUAC,San Ignacio de Loyola,Hombre,k) 50 a 54 años,28
+TLAHUAC,San Ignacio de Loyola,Hombre,l) 55 a 59 años,15
+TLAHUAC,San Ignacio de Loyola,Hombre,m) 60 a 64 años,8
+TLAHUAC,San Ignacio de Loyola,Hombre,n) 65 a 69 años,6
+TLAHUAC,San Ignacio de Loyola,Hombre,o) 70 a 74 años,6
+TLAHUAC,San Ignacio de Loyola,Hombre,p) 75 a 79 años,4
+TLAHUAC,San Ignacio de Loyola,Hombre,q) 80 a 84 años,0
+TLAHUAC,San Ignacio de Loyola,Hombre,r) 85 años y más,0
+TLAHUAC,San Ignacio de Loyola,Mujer,a) 0 a 4 años,34
+TLAHUAC,San Ignacio de Loyola,Mujer,b) 5 a 9 años,38
+TLAHUAC,San Ignacio de Loyola,Mujer,c) 10 a 14 años,48
+TLAHUAC,San Ignacio de Loyola,Mujer,d) 15 a 19 años,54
+TLAHUAC,San Ignacio de Loyola,Mujer,e) 20 a 24 años,44
+TLAHUAC,San Ignacio de Loyola,Mujer,f) 25 a 29 años,34
+TLAHUAC,San Ignacio de Loyola,Mujer,g) 30 a 34 años,30
+TLAHUAC,San Ignacio de Loyola,Mujer,h) 35 a 39 años,32
+TLAHUAC,San Ignacio de Loyola,Mujer,i) 40 a 44 años,40
+TLAHUAC,San Ignacio de Loyola,Mujer,j) 45 a 49 años,31
+TLAHUAC,San Ignacio de Loyola,Mujer,k) 50 a 54 años,27
+TLAHUAC,San Ignacio de Loyola,Mujer,l) 55 a 59 años,11
+TLAHUAC,San Ignacio de Loyola,Mujer,m) 60 a 64 años,8
+TLAHUAC,San Ignacio de Loyola,Mujer,n) 65 a 69 años,5
+TLAHUAC,San Ignacio de Loyola,Mujer,o) 70 a 74 años,6
+TLAHUAC,San Ignacio de Loyola,Mujer,p) 75 a 79 años,4
+TLAHUAC,San Ignacio de Loyola,Mujer,q) 80 a 84 años,2
+TLAHUAC,San Ignacio de Loyola,Mujer,r) 85 años y más,1
+TLAHUAC,La Ciénega,Hombre,a) 0 a 4 años,134
+TLAHUAC,La Ciénega,Hombre,b) 5 a 9 años,152
+TLAHUAC,La Ciénega,Hombre,c) 10 a 14 años,172
+TLAHUAC,La Ciénega,Hombre,d) 15 a 19 años,142
+TLAHUAC,La Ciénega,Hombre,e) 20 a 24 años,138
+TLAHUAC,La Ciénega,Hombre,f) 25 a 29 años,135
+TLAHUAC,La Ciénega,Hombre,g) 30 a 34 años,127
+TLAHUAC,La Ciénega,Hombre,h) 35 a 39 años,92
+TLAHUAC,La Ciénega,Hombre,i) 40 a 44 años,105
+TLAHUAC,La Ciénega,Hombre,j) 45 a 49 años,110
+TLAHUAC,La Ciénega,Hombre,k) 50 a 54 años,70
+TLAHUAC,La Ciénega,Hombre,l) 55 a 59 años,40
+TLAHUAC,La Ciénega,Hombre,m) 60 a 64 años,32
+TLAHUAC,La Ciénega,Hombre,n) 65 a 69 años,19
+TLAHUAC,La Ciénega,Hombre,o) 70 a 74 años,12
+TLAHUAC,La Ciénega,Hombre,p) 75 a 79 años,5
+TLAHUAC,La Ciénega,Hombre,q) 80 a 84 años,3
+TLAHUAC,La Ciénega,Hombre,r) 85 años y más,2
+TLAHUAC,La Ciénega,Mujer,a) 0 a 4 años,165
+TLAHUAC,La Ciénega,Mujer,b) 5 a 9 años,174
+TLAHUAC,La Ciénega,Mujer,c) 10 a 14 años,172
+TLAHUAC,La Ciénega,Mujer,d) 15 a 19 años,134
+TLAHUAC,La Ciénega,Mujer,e) 20 a 24 años,149
+TLAHUAC,La Ciénega,Mujer,f) 25 a 29 años,157
+TLAHUAC,La Ciénega,Mujer,g) 30 a 34 años,135
+TLAHUAC,La Ciénega,Mujer,h) 35 a 39 años,123
+TLAHUAC,La Ciénega,Mujer,i) 40 a 44 años,88
+TLAHUAC,La Ciénega,Mujer,j) 45 a 49 años,99
+TLAHUAC,La Ciénega,Mujer,k) 50 a 54 años,66
+TLAHUAC,La Ciénega,Mujer,l) 55 a 59 años,35
+TLAHUAC,La Ciénega,Mujer,m) 60 a 64 años,28
+TLAHUAC,La Ciénega,Mujer,n) 65 a 69 años,20
+TLAHUAC,La Ciénega,Mujer,o) 70 a 74 años,11
+TLAHUAC,La Ciénega,Mujer,p) 75 a 79 años,3
+TLAHUAC,La Ciénega,Mujer,q) 80 a 84 años,1
+TLAHUAC,La Ciénega,Mujer,r) 85 años y más,0
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,a) 0 a 4 años,59
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,b) 5 a 9 años,92
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,c) 10 a 14 años,84
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,d) 15 a 19 años,84
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,e) 20 a 24 años,65
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,f) 25 a 29 años,56
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,g) 30 a 34 años,49
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,h) 35 a 39 años,53
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,i) 40 a 44 años,55
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,j) 45 a 49 años,57
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,k) 50 a 54 años,34
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,l) 55 a 59 años,17
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,m) 60 a 64 años,12
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,n) 65 a 69 años,10
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,o) 70 a 74 años,1
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,p) 75 a 79 años,3
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,q) 80 a 84 años,0
+TLAHUAC,El Paraíso (Mecoxtla),Hombre,r) 85 años y más,2
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,a) 0 a 4 años,48
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,b) 5 a 9 años,70
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,c) 10 a 14 años,64
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,d) 15 a 19 años,79
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,e) 20 a 24 años,62
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,f) 25 a 29 años,69
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,g) 30 a 34 años,50
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,h) 35 a 39 años,61
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,i) 40 a 44 años,59
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,j) 45 a 49 años,49
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,k) 50 a 54 años,38
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,l) 55 a 59 años,24
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,m) 60 a 64 años,17
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,n) 65 a 69 años,6
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,o) 70 a 74 años,4
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,p) 75 a 79 años,1
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,q) 80 a 84 años,0
+TLAHUAC,El Paraíso (Mecoxtla),Mujer,r) 85 años y más,2
+TLAHUAC,Colonia los 500 metros,Hombre,a) 0 a 4 años,12
+TLAHUAC,Colonia los 500 metros,Hombre,b) 5 a 9 años,18
+TLAHUAC,Colonia los 500 metros,Hombre,c) 10 a 14 años,21
+TLAHUAC,Colonia los 500 metros,Hombre,d) 15 a 19 años,24
+TLAHUAC,Colonia los 500 metros,Hombre,e) 20 a 24 años,25
+TLAHUAC,Colonia los 500 metros,Hombre,f) 25 a 29 años,21
+TLAHUAC,Colonia los 500 metros,Hombre,g) 30 a 34 años,14
+TLAHUAC,Colonia los 500 metros,Hombre,h) 35 a 39 años,17
+TLAHUAC,Colonia los 500 metros,Hombre,i) 40 a 44 años,18
+TLAHUAC,Colonia los 500 metros,Hombre,j) 45 a 49 años,11
+TLAHUAC,Colonia los 500 metros,Hombre,k) 50 a 54 años,15
+TLAHUAC,Colonia los 500 metros,Hombre,l) 55 a 59 años,9
+TLAHUAC,Colonia los 500 metros,Hombre,m) 60 a 64 años,5
+TLAHUAC,Colonia los 500 metros,Hombre,n) 65 a 69 años,4
+TLAHUAC,Colonia los 500 metros,Hombre,o) 70 a 74 años,4
+TLAHUAC,Colonia los 500 metros,Hombre,p) 75 a 79 años,1
+TLAHUAC,Colonia los 500 metros,Hombre,q) 80 a 84 años,0
+TLAHUAC,Colonia los 500 metros,Hombre,r) 85 años y más,1
+TLAHUAC,Colonia los 500 metros,Mujer,a) 0 a 4 años,9
+TLAHUAC,Colonia los 500 metros,Mujer,b) 5 a 9 años,13
+TLAHUAC,Colonia los 500 metros,Mujer,c) 10 a 14 años,22
+TLAHUAC,Colonia los 500 metros,Mujer,d) 15 a 19 años,20
+TLAHUAC,Colonia los 500 metros,Mujer,e) 20 a 24 años,12
+TLAHUAC,Colonia los 500 metros,Mujer,f) 25 a 29 años,14
+TLAHUAC,Colonia los 500 metros,Mujer,g) 30 a 34 años,17
+TLAHUAC,Colonia los 500 metros,Mujer,h) 35 a 39 años,16
+TLAHUAC,Colonia los 500 metros,Mujer,i) 40 a 44 años,11
+TLAHUAC,Colonia los 500 metros,Mujer,j) 45 a 49 años,16
+TLAHUAC,Colonia los 500 metros,Mujer,k) 50 a 54 años,8
+TLAHUAC,Colonia los 500 metros,Mujer,l) 55 a 59 años,8
+TLAHUAC,Colonia los 500 metros,Mujer,m) 60 a 64 años,7
+TLAHUAC,Colonia los 500 metros,Mujer,n) 65 a 69 años,6
+TLAHUAC,Colonia los 500 metros,Mujer,o) 70 a 74 años,3
+TLAHUAC,Colonia los 500 metros,Mujer,p) 75 a 79 años,1
+TLAHUAC,Colonia los 500 metros,Mujer,q) 80 a 84 años,0
+TLAHUAC,Colonia los 500 metros,Mujer,r) 85 años y más,2
+TLAHUAC,Ampliación San Miguel,Hombre,a) 0 a 4 años,13
+TLAHUAC,Ampliación San Miguel,Hombre,b) 5 a 9 años,20
+TLAHUAC,Ampliación San Miguel,Hombre,c) 10 a 14 años,10
+TLAHUAC,Ampliación San Miguel,Hombre,d) 15 a 19 años,11
+TLAHUAC,Ampliación San Miguel,Hombre,e) 20 a 24 años,15
+TLAHUAC,Ampliación San Miguel,Hombre,f) 25 a 29 años,13
+TLAHUAC,Ampliación San Miguel,Hombre,g) 30 a 34 años,9
+TLAHUAC,Ampliación San Miguel,Hombre,h) 35 a 39 años,11
+TLAHUAC,Ampliación San Miguel,Hombre,i) 40 a 44 años,12
+TLAHUAC,Ampliación San Miguel,Hombre,j) 45 a 49 años,12
+TLAHUAC,Ampliación San Miguel,Hombre,k) 50 a 54 años,3
+TLAHUAC,Ampliación San Miguel,Hombre,l) 55 a 59 años,3
+TLAHUAC,Ampliación San Miguel,Hombre,m) 60 a 64 años,2
+TLAHUAC,Ampliación San Miguel,Hombre,n) 65 a 69 años,1
+TLAHUAC,Ampliación San Miguel,Hombre,o) 70 a 74 años,1
+TLAHUAC,Ampliación San Miguel,Hombre,p) 75 a 79 años,3
+TLAHUAC,Ampliación San Miguel,Hombre,q) 80 a 84 años,2
+TLAHUAC,Ampliación San Miguel,Hombre,r) 85 años y más,1
+TLAHUAC,Ampliación San Miguel,Mujer,a) 0 a 4 años,13
+TLAHUAC,Ampliación San Miguel,Mujer,b) 5 a 9 años,8
+TLAHUAC,Ampliación San Miguel,Mujer,c) 10 a 14 años,15
+TLAHUAC,Ampliación San Miguel,Mujer,d) 15 a 19 años,12
+TLAHUAC,Ampliación San Miguel,Mujer,e) 20 a 24 años,14
+TLAHUAC,Ampliación San Miguel,Mujer,f) 25 a 29 años,12
+TLAHUAC,Ampliación San Miguel,Mujer,g) 30 a 34 años,6
+TLAHUAC,Ampliación San Miguel,Mujer,h) 35 a 39 años,18
+TLAHUAC,Ampliación San Miguel,Mujer,i) 40 a 44 años,9
+TLAHUAC,Ampliación San Miguel,Mujer,j) 45 a 49 años,14
+TLAHUAC,Ampliación San Miguel,Mujer,k) 50 a 54 años,2
+TLAHUAC,Ampliación San Miguel,Mujer,l) 55 a 59 años,4
+TLAHUAC,Ampliación San Miguel,Mujer,m) 60 a 64 años,4
+TLAHUAC,Ampliación San Miguel,Mujer,n) 65 a 69 años,0
+TLAHUAC,Ampliación San Miguel,Mujer,o) 70 a 74 años,0
+TLAHUAC,Ampliación San Miguel,Mujer,p) 75 a 79 años,1
+TLAHUAC,Ampliación San Miguel,Mujer,q) 80 a 84 años,2
+TLAHUAC,Ampliación San Miguel,Mujer,r) 85 años y más,0
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,a) 0 a 4 años,10
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,b) 5 a 9 años,14
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,c) 10 a 14 años,10
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,d) 15 a 19 años,13
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,e) 20 a 24 años,15
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,f) 25 a 29 años,13
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,g) 30 a 34 años,17
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,h) 35 a 39 años,5
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,i) 40 a 44 años,9
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,j) 45 a 49 años,7
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,k) 50 a 54 años,9
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,l) 55 a 59 años,6
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,m) 60 a 64 años,4
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,n) 65 a 69 años,2
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,o) 70 a 74 años,4
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,p) 75 a 79 años,0
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,q) 80 a 84 años,0
+TLAHUAC,Puertantitla (Camino al Cerro),Hombre,r) 85 años y más,0
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,a) 0 a 4 años,11
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,b) 5 a 9 años,14
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,c) 10 a 14 años,10
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,d) 15 a 19 años,13
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,e) 20 a 24 años,13
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,f) 25 a 29 años,13
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,g) 30 a 34 años,15
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,h) 35 a 39 años,8
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,i) 40 a 44 años,7
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,j) 45 a 49 años,9
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,k) 50 a 54 años,12
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,l) 55 a 59 años,4
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,m) 60 a 64 años,3
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,n) 65 a 69 años,3
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,o) 70 a 74 años,1
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,p) 75 a 79 años,0
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,q) 80 a 84 años,1
+TLAHUAC,Puertantitla (Camino al Cerro),Mujer,r) 85 años y más,0
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,a) 0 a 4 años,12
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,b) 5 a 9 años,20
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,c) 10 a 14 años,13
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,d) 15 a 19 años,21
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,e) 20 a 24 años,13
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,f) 25 a 29 años,14
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,g) 30 a 34 años,9
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,h) 35 a 39 años,8
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,i) 40 a 44 años,11
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,j) 45 a 49 años,7
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,k) 50 a 54 años,6
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,l) 55 a 59 años,4
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,m) 60 a 64 años,3
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,n) 65 a 69 años,1
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,o) 70 a 74 años,0
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,p) 75 a 79 años,0
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,q) 80 a 84 años,0
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Hombre,r) 85 años y más,1
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,a) 0 a 4 años,10
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,b) 5 a 9 años,7
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,c) 10 a 14 años,18
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,d) 15 a 19 años,9
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,e) 20 a 24 años,14
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,f) 25 a 29 años,12
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,g) 30 a 34 años,7
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,h) 35 a 39 años,12
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,i) 40 a 44 años,11
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,j) 45 a 49 años,7
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,k) 50 a 54 años,6
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,l) 55 a 59 años,4
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,m) 60 a 64 años,1
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,n) 65 a 69 años,0
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,o) 70 a 74 años,0
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,p) 75 a 79 años,1
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,q) 80 a 84 años,0
+TLAHUAC,Apoyautla (Cerro de Guadalupe),Mujer,r) 85 años y más,1
+TLALPAN,Tlalpan,Hombre,a) 0 a 4 años,14186
+TLALPAN,Tlalpan,Hombre,b) 5 a 9 años,18477
+TLALPAN,Tlalpan,Hombre,c) 10 a 14 años,20345
+TLALPAN,Tlalpan,Hombre,d) 15 a 19 años,22493
+TLALPAN,Tlalpan,Hombre,e) 20 a 24 años,24728
+TLALPAN,Tlalpan,Hombre,f) 25 a 29 años,23550
+TLALPAN,Tlalpan,Hombre,g) 30 a 34 años,22461
+TLALPAN,Tlalpan,Hombre,h) 35 a 39 años,21549
+TLALPAN,Tlalpan,Hombre,i) 40 a 44 años,20702
+TLALPAN,Tlalpan,Hombre,j) 45 a 49 años,20544
+TLALPAN,Tlalpan,Hombre,k) 50 a 54 años,18251
+TLALPAN,Tlalpan,Hombre,l) 55 a 59 años,15164
+TLALPAN,Tlalpan,Hombre,m) 60 a 64 años,13830
+TLALPAN,Tlalpan,Hombre,n) 65 a 69 años,10833
+TLALPAN,Tlalpan,Hombre,o) 70 a 74 años,7972
+TLALPAN,Tlalpan,Hombre,p) 75 a 79 años,5072
+TLALPAN,Tlalpan,Hombre,q) 80 a 84 años,3026
+TLALPAN,Tlalpan,Hombre,r) 85 años y más,2239
+TLALPAN,Tlalpan,Mujer,a) 0 a 4 años,13805
+TLALPAN,Tlalpan,Mujer,b) 5 a 9 años,18099
+TLALPAN,Tlalpan,Mujer,c) 10 a 14 años,19720
+TLALPAN,Tlalpan,Mujer,d) 15 a 19 años,21550
+TLALPAN,Tlalpan,Mujer,e) 20 a 24 años,24049
+TLALPAN,Tlalpan,Mujer,f) 25 a 29 años,24096
+TLALPAN,Tlalpan,Mujer,g) 30 a 34 años,24063
+TLALPAN,Tlalpan,Mujer,h) 35 a 39 años,23931
+TLALPAN,Tlalpan,Mujer,i) 40 a 44 años,23491
+TLALPAN,Tlalpan,Mujer,j) 45 a 49 años,23778
+TLALPAN,Tlalpan,Mujer,k) 50 a 54 años,21991
+TLALPAN,Tlalpan,Mujer,l) 55 a 59 años,18782
+TLALPAN,Tlalpan,Mujer,m) 60 a 64 años,17483
+TLALPAN,Tlalpan,Mujer,n) 65 a 69 años,13729
+TLALPAN,Tlalpan,Mujer,o) 70 a 74 años,10325
+TLALPAN,Tlalpan,Mujer,p) 75 a 79 años,6586
+TLALPAN,Tlalpan,Mujer,q) 80 a 84 años,4524
+TLALPAN,Tlalpan,Mujer,r) 85 años y más,4048
+TLALPAN,Parres (El Guarda),Hombre,a) 0 a 4 años,134
+TLALPAN,Parres (El Guarda),Hombre,b) 5 a 9 años,167
+TLALPAN,Parres (El Guarda),Hombre,c) 10 a 14 años,131
+TLALPAN,Parres (El Guarda),Hombre,d) 15 a 19 años,134
+TLALPAN,Parres (El Guarda),Hombre,e) 20 a 24 años,148
+TLALPAN,Parres (El Guarda),Hombre,f) 25 a 29 años,140
+TLALPAN,Parres (El Guarda),Hombre,g) 30 a 34 años,129
+TLALPAN,Parres (El Guarda),Hombre,h) 35 a 39 años,112
+TLALPAN,Parres (El Guarda),Hombre,i) 40 a 44 años,88
+TLALPAN,Parres (El Guarda),Hombre,j) 45 a 49 años,94
+TLALPAN,Parres (El Guarda),Hombre,k) 50 a 54 años,94
+TLALPAN,Parres (El Guarda),Hombre,l) 55 a 59 años,61
+TLALPAN,Parres (El Guarda),Hombre,m) 60 a 64 años,60
+TLALPAN,Parres (El Guarda),Hombre,n) 65 a 69 años,42
+TLALPAN,Parres (El Guarda),Hombre,o) 70 a 74 años,25
+TLALPAN,Parres (El Guarda),Hombre,p) 75 a 79 años,20
+TLALPAN,Parres (El Guarda),Hombre,q) 80 a 84 años,8
+TLALPAN,Parres (El Guarda),Hombre,r) 85 años y más,6
+TLALPAN,Parres (El Guarda),Mujer,a) 0 a 4 años,128
+TLALPAN,Parres (El Guarda),Mujer,b) 5 a 9 años,137
+TLALPAN,Parres (El Guarda),Mujer,c) 10 a 14 años,122
+TLALPAN,Parres (El Guarda),Mujer,d) 15 a 19 años,126
+TLALPAN,Parres (El Guarda),Mujer,e) 20 a 24 años,144
+TLALPAN,Parres (El Guarda),Mujer,f) 25 a 29 años,157
+TLALPAN,Parres (El Guarda),Mujer,g) 30 a 34 años,129
+TLALPAN,Parres (El Guarda),Mujer,h) 35 a 39 años,114
+TLALPAN,Parres (El Guarda),Mujer,i) 40 a 44 años,111
+TLALPAN,Parres (El Guarda),Mujer,j) 45 a 49 años,115
+TLALPAN,Parres (El Guarda),Mujer,k) 50 a 54 años,92
+TLALPAN,Parres (El Guarda),Mujer,l) 55 a 59 años,72
+TLALPAN,Parres (El Guarda),Mujer,m) 60 a 64 años,59
+TLALPAN,Parres (El Guarda),Mujer,n) 65 a 69 años,46
+TLALPAN,Parres (El Guarda),Mujer,o) 70 a 74 años,22
+TLALPAN,Parres (El Guarda),Mujer,p) 75 a 79 años,13
+TLALPAN,Parres (El Guarda),Mujer,q) 80 a 84 años,8
+TLALPAN,Parres (El Guarda),Mujer,r) 85 años y más,9
+TLALPAN,San Miguel Ajusco,Hombre,a) 0 a 4 años,1184
+TLALPAN,San Miguel Ajusco,Hombre,b) 5 a 9 años,1599
+TLALPAN,San Miguel Ajusco,Hombre,c) 10 a 14 años,1630
+TLALPAN,San Miguel Ajusco,Hombre,d) 15 a 19 años,1713
+TLALPAN,San Miguel Ajusco,Hombre,e) 20 a 24 años,1614
+TLALPAN,San Miguel Ajusco,Hombre,f) 25 a 29 años,1535
+TLALPAN,San Miguel Ajusco,Hombre,g) 30 a 34 años,1383
+TLALPAN,San Miguel Ajusco,Hombre,h) 35 a 39 años,1296
+TLALPAN,San Miguel Ajusco,Hombre,i) 40 a 44 años,1267
+TLALPAN,San Miguel Ajusco,Hombre,j) 45 a 49 años,1217
+TLALPAN,San Miguel Ajusco,Hombre,k) 50 a 54 años,1087
+TLALPAN,San Miguel Ajusco,Hombre,l) 55 a 59 años,861
+TLALPAN,San Miguel Ajusco,Hombre,m) 60 a 64 años,691
+TLALPAN,San Miguel Ajusco,Hombre,n) 65 a 69 años,465
+TLALPAN,San Miguel Ajusco,Hombre,o) 70 a 74 años,278
+TLALPAN,San Miguel Ajusco,Hombre,p) 75 a 79 años,165
+TLALPAN,San Miguel Ajusco,Hombre,q) 80 a 84 años,94
+TLALPAN,San Miguel Ajusco,Hombre,r) 85 años y más,64
+TLALPAN,San Miguel Ajusco,Mujer,a) 0 a 4 años,1199
+TLALPAN,San Miguel Ajusco,Mujer,b) 5 a 9 años,1583
+TLALPAN,San Miguel Ajusco,Mujer,c) 10 a 14 años,1566
+TLALPAN,San Miguel Ajusco,Mujer,d) 15 a 19 años,1615
+TLALPAN,San Miguel Ajusco,Mujer,e) 20 a 24 años,1571
+TLALPAN,San Miguel Ajusco,Mujer,f) 25 a 29 años,1727
+TLALPAN,San Miguel Ajusco,Mujer,g) 30 a 34 años,1501
+TLALPAN,San Miguel Ajusco,Mujer,h) 35 a 39 años,1376
+TLALPAN,San Miguel Ajusco,Mujer,i) 40 a 44 años,1363
+TLALPAN,San Miguel Ajusco,Mujer,j) 45 a 49 años,1346
+TLALPAN,San Miguel Ajusco,Mujer,k) 50 a 54 años,1260
+TLALPAN,San Miguel Ajusco,Mujer,l) 55 a 59 años,948
+TLALPAN,San Miguel Ajusco,Mujer,m) 60 a 64 años,768
+TLALPAN,San Miguel Ajusco,Mujer,n) 65 a 69 años,500
+TLALPAN,San Miguel Ajusco,Mujer,o) 70 a 74 años,343
+TLALPAN,San Miguel Ajusco,Mujer,p) 75 a 79 años,191
+TLALPAN,San Miguel Ajusco,Mujer,q) 80 a 84 años,109
+TLALPAN,San Miguel Ajusco,Mujer,r) 85 años y más,110
+TLALPAN,San Miguel Topilejo,Hombre,a) 0 a 4 años,1433
+TLALPAN,San Miguel Topilejo,Hombre,b) 5 a 9 años,1808
+TLALPAN,San Miguel Topilejo,Hombre,c) 10 a 14 años,1964
+TLALPAN,San Miguel Topilejo,Hombre,d) 15 a 19 años,1855
+TLALPAN,San Miguel Topilejo,Hombre,e) 20 a 24 años,1874
+TLALPAN,San Miguel Topilejo,Hombre,f) 25 a 29 años,1775
+TLALPAN,San Miguel Topilejo,Hombre,g) 30 a 34 años,1602
+TLALPAN,San Miguel Topilejo,Hombre,h) 35 a 39 años,1422
+TLALPAN,San Miguel Topilejo,Hombre,i) 40 a 44 años,1346
+TLALPAN,San Miguel Topilejo,Hombre,j) 45 a 49 años,1298
+TLALPAN,San Miguel Topilejo,Hombre,k) 50 a 54 años,1156
+TLALPAN,San Miguel Topilejo,Hombre,l) 55 a 59 años,913
+TLALPAN,San Miguel Topilejo,Hombre,m) 60 a 64 años,643
+TLALPAN,San Miguel Topilejo,Hombre,n) 65 a 69 años,476
+TLALPAN,San Miguel Topilejo,Hombre,o) 70 a 74 años,258
+TLALPAN,San Miguel Topilejo,Hombre,p) 75 a 79 años,201
+TLALPAN,San Miguel Topilejo,Hombre,q) 80 a 84 años,87
+TLALPAN,San Miguel Topilejo,Hombre,r) 85 años y más,62
+TLALPAN,San Miguel Topilejo,Mujer,a) 0 a 4 años,1400
+TLALPAN,San Miguel Topilejo,Mujer,b) 5 a 9 años,1663
+TLALPAN,San Miguel Topilejo,Mujer,c) 10 a 14 años,1810
+TLALPAN,San Miguel Topilejo,Mujer,d) 15 a 19 años,1779
+TLALPAN,San Miguel Topilejo,Mujer,e) 20 a 24 años,1833
+TLALPAN,San Miguel Topilejo,Mujer,f) 25 a 29 años,1867
+TLALPAN,San Miguel Topilejo,Mujer,g) 30 a 34 años,1712
+TLALPAN,San Miguel Topilejo,Mujer,h) 35 a 39 años,1580
+TLALPAN,San Miguel Topilejo,Mujer,i) 40 a 44 años,1452
+TLALPAN,San Miguel Topilejo,Mujer,j) 45 a 49 años,1445
+TLALPAN,San Miguel Topilejo,Mujer,k) 50 a 54 años,1326
+TLALPAN,San Miguel Topilejo,Mujer,l) 55 a 59 años,984
+TLALPAN,San Miguel Topilejo,Mujer,m) 60 a 64 años,740
+TLALPAN,San Miguel Topilejo,Mujer,n) 65 a 69 años,528
+TLALPAN,San Miguel Topilejo,Mujer,o) 70 a 74 años,345
+TLALPAN,San Miguel Topilejo,Mujer,p) 75 a 79 años,195
+TLALPAN,San Miguel Topilejo,Mujer,q) 80 a 84 años,138
+TLALPAN,San Miguel Topilejo,Mujer,r) 85 años y más,117
+TLALPAN,Héroes de 1910,Hombre,a) 0 a 4 años,21
+TLALPAN,Héroes de 1910,Hombre,b) 5 a 9 años,27
+TLALPAN,Héroes de 1910,Hombre,c) 10 a 14 años,32
+TLALPAN,Héroes de 1910,Hombre,d) 15 a 19 años,26
+TLALPAN,Héroes de 1910,Hombre,e) 20 a 24 años,21
+TLALPAN,Héroes de 1910,Hombre,f) 25 a 29 años,21
+TLALPAN,Héroes de 1910,Hombre,g) 30 a 34 años,22
+TLALPAN,Héroes de 1910,Hombre,h) 35 a 39 años,25
+TLALPAN,Héroes de 1910,Hombre,i) 40 a 44 años,21
+TLALPAN,Héroes de 1910,Hombre,j) 45 a 49 años,18
+TLALPAN,Héroes de 1910,Hombre,k) 50 a 54 años,17
+TLALPAN,Héroes de 1910,Hombre,l) 55 a 59 años,14
+TLALPAN,Héroes de 1910,Hombre,m) 60 a 64 años,17
+TLALPAN,Héroes de 1910,Hombre,n) 65 a 69 años,13
+TLALPAN,Héroes de 1910,Hombre,o) 70 a 74 años,3
+TLALPAN,Héroes de 1910,Hombre,p) 75 a 79 años,5
+TLALPAN,Héroes de 1910,Hombre,q) 80 a 84 años,0
+TLALPAN,Héroes de 1910,Hombre,r) 85 años y más,2
+TLALPAN,Héroes de 1910,Mujer,a) 0 a 4 años,15
+TLALPAN,Héroes de 1910,Mujer,b) 5 a 9 años,15
+TLALPAN,Héroes de 1910,Mujer,c) 10 a 14 años,21
+TLALPAN,Héroes de 1910,Mujer,d) 15 a 19 años,16
+TLALPAN,Héroes de 1910,Mujer,e) 20 a 24 años,18
+TLALPAN,Héroes de 1910,Mujer,f) 25 a 29 años,24
+TLALPAN,Héroes de 1910,Mujer,g) 30 a 34 años,16
+TLALPAN,Héroes de 1910,Mujer,h) 35 a 39 años,21
+TLALPAN,Héroes de 1910,Mujer,i) 40 a 44 años,34
+TLALPAN,Héroes de 1910,Mujer,j) 45 a 49 años,23
+TLALPAN,Héroes de 1910,Mujer,k) 50 a 54 años,10
+TLALPAN,Héroes de 1910,Mujer,l) 55 a 59 años,17
+TLALPAN,Héroes de 1910,Mujer,m) 60 a 64 años,11
+TLALPAN,Héroes de 1910,Mujer,n) 65 a 69 años,10
+TLALPAN,Héroes de 1910,Mujer,o) 70 a 74 años,3
+TLALPAN,Héroes de 1910,Mujer,p) 75 a 79 años,4
+TLALPAN,Héroes de 1910,Mujer,q) 80 a 84 años,3
+TLALPAN,Héroes de 1910,Mujer,r) 85 años y más,5
+TLALPAN,Lomas de Tepemecatl,Hombre,a) 0 a 4 años,165
+TLALPAN,Lomas de Tepemecatl,Hombre,b) 5 a 9 años,205
+TLALPAN,Lomas de Tepemecatl,Hombre,c) 10 a 14 años,215
+TLALPAN,Lomas de Tepemecatl,Hombre,d) 15 a 19 años,185
+TLALPAN,Lomas de Tepemecatl,Hombre,e) 20 a 24 años,158
+TLALPAN,Lomas de Tepemecatl,Hombre,f) 25 a 29 años,173
+TLALPAN,Lomas de Tepemecatl,Hombre,g) 30 a 34 años,165
+TLALPAN,Lomas de Tepemecatl,Hombre,h) 35 a 39 años,164
+TLALPAN,Lomas de Tepemecatl,Hombre,i) 40 a 44 años,160
+TLALPAN,Lomas de Tepemecatl,Hombre,j) 45 a 49 años,156
+TLALPAN,Lomas de Tepemecatl,Hombre,k) 50 a 54 años,88
+TLALPAN,Lomas de Tepemecatl,Hombre,l) 55 a 59 años,65
+TLALPAN,Lomas de Tepemecatl,Hombre,m) 60 a 64 años,58
+TLALPAN,Lomas de Tepemecatl,Hombre,n) 65 a 69 años,34
+TLALPAN,Lomas de Tepemecatl,Hombre,o) 70 a 74 años,16
+TLALPAN,Lomas de Tepemecatl,Hombre,p) 75 a 79 años,16
+TLALPAN,Lomas de Tepemecatl,Hombre,q) 80 a 84 años,3
+TLALPAN,Lomas de Tepemecatl,Hombre,r) 85 años y más,2
+TLALPAN,Lomas de Tepemecatl,Mujer,a) 0 a 4 años,172
+TLALPAN,Lomas de Tepemecatl,Mujer,b) 5 a 9 años,209
+TLALPAN,Lomas de Tepemecatl,Mujer,c) 10 a 14 años,199
+TLALPAN,Lomas de Tepemecatl,Mujer,d) 15 a 19 años,182
+TLALPAN,Lomas de Tepemecatl,Mujer,e) 20 a 24 años,195
+TLALPAN,Lomas de Tepemecatl,Mujer,f) 25 a 29 años,172
+TLALPAN,Lomas de Tepemecatl,Mujer,g) 30 a 34 años,161
+TLALPAN,Lomas de Tepemecatl,Mujer,h) 35 a 39 años,174
+TLALPAN,Lomas de Tepemecatl,Mujer,i) 40 a 44 años,155
+TLALPAN,Lomas de Tepemecatl,Mujer,j) 45 a 49 años,120
+TLALPAN,Lomas de Tepemecatl,Mujer,k) 50 a 54 años,101
+TLALPAN,Lomas de Tepemecatl,Mujer,l) 55 a 59 años,86
+TLALPAN,Lomas de Tepemecatl,Mujer,m) 60 a 64 años,48
+TLALPAN,Lomas de Tepemecatl,Mujer,n) 65 a 69 años,21
+TLALPAN,Lomas de Tepemecatl,Mujer,o) 70 a 74 años,14
+TLALPAN,Lomas de Tepemecatl,Mujer,p) 75 a 79 años,13
+TLALPAN,Lomas de Tepemecatl,Mujer,q) 80 a 84 años,3
+TLALPAN,Lomas de Tepemecatl,Mujer,r) 85 años y más,3
+TLALPAN,El Pedregal,Hombre,a) 0 a 4 años,37
+TLALPAN,El Pedregal,Hombre,b) 5 a 9 años,54
+TLALPAN,El Pedregal,Hombre,c) 10 a 14 años,40
+TLALPAN,El Pedregal,Hombre,d) 15 a 19 años,32
+TLALPAN,El Pedregal,Hombre,e) 20 a 24 años,39
+TLALPAN,El Pedregal,Hombre,f) 25 a 29 años,29
+TLALPAN,El Pedregal,Hombre,g) 30 a 34 años,39
+TLALPAN,El Pedregal,Hombre,h) 35 a 39 años,30
+TLALPAN,El Pedregal,Hombre,i) 40 a 44 años,34
+TLALPAN,El Pedregal,Hombre,j) 45 a 49 años,27
+TLALPAN,El Pedregal,Hombre,k) 50 a 54 años,19
+TLALPAN,El Pedregal,Hombre,l) 55 a 59 años,7
+TLALPAN,El Pedregal,Hombre,m) 60 a 64 años,13
+TLALPAN,El Pedregal,Hombre,n) 65 a 69 años,9
+TLALPAN,El Pedregal,Hombre,o) 70 a 74 años,3
+TLALPAN,El Pedregal,Hombre,p) 75 a 79 años,4
+TLALPAN,El Pedregal,Hombre,q) 80 a 84 años,3
+TLALPAN,El Pedregal,Hombre,r) 85 años y más,1
+TLALPAN,El Pedregal,Mujer,a) 0 a 4 años,29
+TLALPAN,El Pedregal,Mujer,b) 5 a 9 años,32
+TLALPAN,El Pedregal,Mujer,c) 10 a 14 años,42
+TLALPAN,El Pedregal,Mujer,d) 15 a 19 años,36
+TLALPAN,El Pedregal,Mujer,e) 20 a 24 años,35
+TLALPAN,El Pedregal,Mujer,f) 25 a 29 años,34
+TLALPAN,El Pedregal,Mujer,g) 30 a 34 años,39
+TLALPAN,El Pedregal,Mujer,h) 35 a 39 años,34
+TLALPAN,El Pedregal,Mujer,i) 40 a 44 años,32
+TLALPAN,El Pedregal,Mujer,j) 45 a 49 años,27
+TLALPAN,El Pedregal,Mujer,k) 50 a 54 años,22
+TLALPAN,El Pedregal,Mujer,l) 55 a 59 años,15
+TLALPAN,El Pedregal,Mujer,m) 60 a 64 años,11
+TLALPAN,El Pedregal,Mujer,n) 65 a 69 años,6
+TLALPAN,El Pedregal,Mujer,o) 70 a 74 años,4
+TLALPAN,El Pedregal,Mujer,p) 75 a 79 años,0
+TLALPAN,El Pedregal,Mujer,q) 80 a 84 años,2
+TLALPAN,El Pedregal,Mujer,r) 85 años y más,2
+TLALPAN,Chalcuitongo (La Asunción),Hombre,a) 0 a 4 años,41
+TLALPAN,Chalcuitongo (La Asunción),Hombre,b) 5 a 9 años,52
+TLALPAN,Chalcuitongo (La Asunción),Hombre,c) 10 a 14 años,44
+TLALPAN,Chalcuitongo (La Asunción),Hombre,d) 15 a 19 años,64
+TLALPAN,Chalcuitongo (La Asunción),Hombre,e) 20 a 24 años,48
+TLALPAN,Chalcuitongo (La Asunción),Hombre,f) 25 a 29 años,48
+TLALPAN,Chalcuitongo (La Asunción),Hombre,g) 30 a 34 años,45
+TLALPAN,Chalcuitongo (La Asunción),Hombre,h) 35 a 39 años,36
+TLALPAN,Chalcuitongo (La Asunción),Hombre,i) 40 a 44 años,34
+TLALPAN,Chalcuitongo (La Asunción),Hombre,j) 45 a 49 años,33
+TLALPAN,Chalcuitongo (La Asunción),Hombre,k) 50 a 54 años,31
+TLALPAN,Chalcuitongo (La Asunción),Hombre,l) 55 a 59 años,23
+TLALPAN,Chalcuitongo (La Asunción),Hombre,m) 60 a 64 años,7
+TLALPAN,Chalcuitongo (La Asunción),Hombre,n) 65 a 69 años,8
+TLALPAN,Chalcuitongo (La Asunción),Hombre,o) 70 a 74 años,7
+TLALPAN,Chalcuitongo (La Asunción),Hombre,p) 75 a 79 años,1
+TLALPAN,Chalcuitongo (La Asunción),Hombre,q) 80 a 84 años,3
+TLALPAN,Chalcuitongo (La Asunción),Hombre,r) 85 años y más,1
+TLALPAN,Chalcuitongo (La Asunción),Mujer,a) 0 a 4 años,51
+TLALPAN,Chalcuitongo (La Asunción),Mujer,b) 5 a 9 años,62
+TLALPAN,Chalcuitongo (La Asunción),Mujer,c) 10 a 14 años,51
+TLALPAN,Chalcuitongo (La Asunción),Mujer,d) 15 a 19 años,49
+TLALPAN,Chalcuitongo (La Asunción),Mujer,e) 20 a 24 años,45
+TLALPAN,Chalcuitongo (La Asunción),Mujer,f) 25 a 29 años,43
+TLALPAN,Chalcuitongo (La Asunción),Mujer,g) 30 a 34 años,40
+TLALPAN,Chalcuitongo (La Asunción),Mujer,h) 35 a 39 años,40
+TLALPAN,Chalcuitongo (La Asunción),Mujer,i) 40 a 44 años,37
+TLALPAN,Chalcuitongo (La Asunción),Mujer,j) 45 a 49 años,34
+TLALPAN,Chalcuitongo (La Asunción),Mujer,k) 50 a 54 años,26
+TLALPAN,Chalcuitongo (La Asunción),Mujer,l) 55 a 59 años,20
+TLALPAN,Chalcuitongo (La Asunción),Mujer,m) 60 a 64 años,7
+TLALPAN,Chalcuitongo (La Asunción),Mujer,n) 65 a 69 años,10
+TLALPAN,Chalcuitongo (La Asunción),Mujer,o) 70 a 74 años,5
+TLALPAN,Chalcuitongo (La Asunción),Mujer,p) 75 a 79 años,1
+TLALPAN,Chalcuitongo (La Asunción),Mujer,q) 80 a 84 años,0
+TLALPAN,Chalcuitongo (La Asunción),Mujer,r) 85 años y más,1
+TLALPAN,El Charco,Hombre,a) 0 a 4 años,23
+TLALPAN,El Charco,Hombre,b) 5 a 9 años,36
+TLALPAN,El Charco,Hombre,c) 10 a 14 años,35
+TLALPAN,El Charco,Hombre,d) 15 a 19 años,27
+TLALPAN,El Charco,Hombre,e) 20 a 24 años,39
+TLALPAN,El Charco,Hombre,f) 25 a 29 años,32
+TLALPAN,El Charco,Hombre,g) 30 a 34 años,35
+TLALPAN,El Charco,Hombre,h) 35 a 39 años,28
+TLALPAN,El Charco,Hombre,i) 40 a 44 años,25
+TLALPAN,El Charco,Hombre,j) 45 a 49 años,31
+TLALPAN,El Charco,Hombre,k) 50 a 54 años,25
+TLALPAN,El Charco,Hombre,l) 55 a 59 años,11
+TLALPAN,El Charco,Hombre,m) 60 a 64 años,11
+TLALPAN,El Charco,Hombre,n) 65 a 69 años,14
+TLALPAN,El Charco,Hombre,o) 70 a 74 años,2
+TLALPAN,El Charco,Hombre,p) 75 a 79 años,0
+TLALPAN,El Charco,Hombre,q) 80 a 84 años,0
+TLALPAN,El Charco,Hombre,r) 85 años y más,1
+TLALPAN,El Charco,Mujer,a) 0 a 4 años,34
+TLALPAN,El Charco,Mujer,b) 5 a 9 años,29
+TLALPAN,El Charco,Mujer,c) 10 a 14 años,33
+TLALPAN,El Charco,Mujer,d) 15 a 19 años,35
+TLALPAN,El Charco,Mujer,e) 20 a 24 años,43
+TLALPAN,El Charco,Mujer,f) 25 a 29 años,32
+TLALPAN,El Charco,Mujer,g) 30 a 34 años,22
+TLALPAN,El Charco,Mujer,h) 35 a 39 años,27
+TLALPAN,El Charco,Mujer,i) 40 a 44 años,37
+TLALPAN,El Charco,Mujer,j) 45 a 49 años,31
+TLALPAN,El Charco,Mujer,k) 50 a 54 años,24
+TLALPAN,El Charco,Mujer,l) 55 a 59 años,15
+TLALPAN,El Charco,Mujer,m) 60 a 64 años,12
+TLALPAN,El Charco,Mujer,n) 65 a 69 años,5
+TLALPAN,El Charco,Mujer,o) 70 a 74 años,3
+TLALPAN,El Charco,Mujer,p) 75 a 79 años,0
+TLALPAN,El Charco,Mujer,q) 80 a 84 años,1
+TLALPAN,El Charco,Mujer,r) 85 años y más,1
+TLALPAN,Cuanejaque,Hombre,a) 0 a 4 años,5
+TLALPAN,Cuanejaque,Hombre,b) 5 a 9 años,17
+TLALPAN,Cuanejaque,Hombre,c) 10 a 14 años,8
+TLALPAN,Cuanejaque,Hombre,d) 15 a 19 años,6
+TLALPAN,Cuanejaque,Hombre,e) 20 a 24 años,13
+TLALPAN,Cuanejaque,Hombre,f) 25 a 29 años,10
+TLALPAN,Cuanejaque,Hombre,g) 30 a 34 años,6
+TLALPAN,Cuanejaque,Hombre,h) 35 a 39 años,7
+TLALPAN,Cuanejaque,Hombre,i) 40 a 44 años,8
+TLALPAN,Cuanejaque,Hombre,j) 45 a 49 años,6
+TLALPAN,Cuanejaque,Hombre,k) 50 a 54 años,14
+TLALPAN,Cuanejaque,Hombre,l) 55 a 59 años,6
+TLALPAN,Cuanejaque,Hombre,m) 60 a 64 años,5
+TLALPAN,Cuanejaque,Hombre,n) 65 a 69 años,5
+TLALPAN,Cuanejaque,Hombre,o) 70 a 74 años,3
+TLALPAN,Cuanejaque,Hombre,p) 75 a 79 años,4
+TLALPAN,Cuanejaque,Hombre,q) 80 a 84 años,1
+TLALPAN,Cuanejaque,Hombre,r) 85 años y más,0
+TLALPAN,Cuanejaque,Mujer,a) 0 a 4 años,8
+TLALPAN,Cuanejaque,Mujer,b) 5 a 9 años,9
+TLALPAN,Cuanejaque,Mujer,c) 10 a 14 años,10
+TLALPAN,Cuanejaque,Mujer,d) 15 a 19 años,2
+TLALPAN,Cuanejaque,Mujer,e) 20 a 24 años,9
+TLALPAN,Cuanejaque,Mujer,f) 25 a 29 años,12
+TLALPAN,Cuanejaque,Mujer,g) 30 a 34 años,12
+TLALPAN,Cuanejaque,Mujer,h) 35 a 39 años,7
+TLALPAN,Cuanejaque,Mujer,i) 40 a 44 años,4
+TLALPAN,Cuanejaque,Mujer,j) 45 a 49 años,11
+TLALPAN,Cuanejaque,Mujer,k) 50 a 54 años,11
+TLALPAN,Cuanejaque,Mujer,l) 55 a 59 años,5
+TLALPAN,Cuanejaque,Mujer,m) 60 a 64 años,1
+TLALPAN,Cuanejaque,Mujer,n) 65 a 69 años,4
+TLALPAN,Cuanejaque,Mujer,o) 70 a 74 años,5
+TLALPAN,Cuanejaque,Mujer,p) 75 a 79 años,3
+TLALPAN,Cuanejaque,Mujer,q) 80 a 84 años,1
+TLALPAN,Cuanejaque,Mujer,r) 85 años y más,1
+TLALPAN,Nopaltitla,Hombre,a) 0 a 4 años,38
+TLALPAN,Nopaltitla,Hombre,b) 5 a 9 años,22
+TLALPAN,Nopaltitla,Hombre,c) 10 a 14 años,29
+TLALPAN,Nopaltitla,Hombre,d) 15 a 19 años,28
+TLALPAN,Nopaltitla,Hombre,e) 20 a 24 años,23
+TLALPAN,Nopaltitla,Hombre,f) 25 a 29 años,32
+TLALPAN,Nopaltitla,Hombre,g) 30 a 34 años,28
+TLALPAN,Nopaltitla,Hombre,h) 35 a 39 años,22
+TLALPAN,Nopaltitla,Hombre,i) 40 a 44 años,26
+TLALPAN,Nopaltitla,Hombre,j) 45 a 49 años,22
+TLALPAN,Nopaltitla,Hombre,k) 50 a 54 años,20
+TLALPAN,Nopaltitla,Hombre,l) 55 a 59 años,17
+TLALPAN,Nopaltitla,Hombre,m) 60 a 64 años,8
+TLALPAN,Nopaltitla,Hombre,n) 65 a 69 años,7
+TLALPAN,Nopaltitla,Hombre,o) 70 a 74 años,4
+TLALPAN,Nopaltitla,Hombre,p) 75 a 79 años,1
+TLALPAN,Nopaltitla,Hombre,q) 80 a 84 años,2
+TLALPAN,Nopaltitla,Hombre,r) 85 años y más,0
+TLALPAN,Nopaltitla,Mujer,a) 0 a 4 años,22
+TLALPAN,Nopaltitla,Mujer,b) 5 a 9 años,30
+TLALPAN,Nopaltitla,Mujer,c) 10 a 14 años,28
+TLALPAN,Nopaltitla,Mujer,d) 15 a 19 años,29
+TLALPAN,Nopaltitla,Mujer,e) 20 a 24 años,38
+TLALPAN,Nopaltitla,Mujer,f) 25 a 29 años,34
+TLALPAN,Nopaltitla,Mujer,g) 30 a 34 años,29
+TLALPAN,Nopaltitla,Mujer,h) 35 a 39 años,26
+TLALPAN,Nopaltitla,Mujer,i) 40 a 44 años,28
+TLALPAN,Nopaltitla,Mujer,j) 45 a 49 años,20
+TLALPAN,Nopaltitla,Mujer,k) 50 a 54 años,25
+TLALPAN,Nopaltitla,Mujer,l) 55 a 59 años,12
+TLALPAN,Nopaltitla,Mujer,m) 60 a 64 años,13
+TLALPAN,Nopaltitla,Mujer,n) 65 a 69 años,3
+TLALPAN,Nopaltitla,Mujer,o) 70 a 74 años,1
+TLALPAN,Nopaltitla,Mujer,p) 75 a 79 años,1
+TLALPAN,Nopaltitla,Mujer,q) 80 a 84 años,1
+TLALPAN,Nopaltitla,Mujer,r) 85 años y más,0
+TLALPAN,Ocotla Chico,Hombre,a) 0 a 4 años,37
+TLALPAN,Ocotla Chico,Hombre,b) 5 a 9 años,52
+TLALPAN,Ocotla Chico,Hombre,c) 10 a 14 años,51
+TLALPAN,Ocotla Chico,Hombre,d) 15 a 19 años,42
+TLALPAN,Ocotla Chico,Hombre,e) 20 a 24 años,35
+TLALPAN,Ocotla Chico,Hombre,f) 25 a 29 años,38
+TLALPAN,Ocotla Chico,Hombre,g) 30 a 34 años,35
+TLALPAN,Ocotla Chico,Hombre,h) 35 a 39 años,31
+TLALPAN,Ocotla Chico,Hombre,i) 40 a 44 años,34
+TLALPAN,Ocotla Chico,Hombre,j) 45 a 49 años,40
+TLALPAN,Ocotla Chico,Hombre,k) 50 a 54 años,25
+TLALPAN,Ocotla Chico,Hombre,l) 55 a 59 años,12
+TLALPAN,Ocotla Chico,Hombre,m) 60 a 64 años,14
+TLALPAN,Ocotla Chico,Hombre,n) 65 a 69 años,2
+TLALPAN,Ocotla Chico,Hombre,o) 70 a 74 años,6
+TLALPAN,Ocotla Chico,Hombre,p) 75 a 79 años,2
+TLALPAN,Ocotla Chico,Hombre,q) 80 a 84 años,1
+TLALPAN,Ocotla Chico,Hombre,r) 85 años y más,1
+TLALPAN,Ocotla Chico,Mujer,a) 0 a 4 años,28
+TLALPAN,Ocotla Chico,Mujer,b) 5 a 9 años,54
+TLALPAN,Ocotla Chico,Mujer,c) 10 a 14 años,50
+TLALPAN,Ocotla Chico,Mujer,d) 15 a 19 años,38
+TLALPAN,Ocotla Chico,Mujer,e) 20 a 24 años,43
+TLALPAN,Ocotla Chico,Mujer,f) 25 a 29 años,29
+TLALPAN,Ocotla Chico,Mujer,g) 30 a 34 años,44
+TLALPAN,Ocotla Chico,Mujer,h) 35 a 39 años,37
+TLALPAN,Ocotla Chico,Mujer,i) 40 a 44 años,43
+TLALPAN,Ocotla Chico,Mujer,j) 45 a 49 años,34
+TLALPAN,Ocotla Chico,Mujer,k) 50 a 54 años,18
+TLALPAN,Ocotla Chico,Mujer,l) 55 a 59 años,27
+TLALPAN,Ocotla Chico,Mujer,m) 60 a 64 años,15
+TLALPAN,Ocotla Chico,Mujer,n) 65 a 69 años,9
+TLALPAN,Ocotla Chico,Mujer,o) 70 a 74 años,9
+TLALPAN,Ocotla Chico,Mujer,p) 75 a 79 años,5
+TLALPAN,Ocotla Chico,Mujer,q) 80 a 84 años,0
+TLALPAN,Ocotla Chico,Mujer,r) 85 años y más,2
+TLALPAN,La Herradura,Hombre,a) 0 a 4 años,34
+TLALPAN,La Herradura,Hombre,b) 5 a 9 años,41
+TLALPAN,La Herradura,Hombre,c) 10 a 14 años,40
+TLALPAN,La Herradura,Hombre,d) 15 a 19 años,44
+TLALPAN,La Herradura,Hombre,e) 20 a 24 años,41
+TLALPAN,La Herradura,Hombre,f) 25 a 29 años,40
+TLALPAN,La Herradura,Hombre,g) 30 a 34 años,30
+TLALPAN,La Herradura,Hombre,h) 35 a 39 años,33
+TLALPAN,La Herradura,Hombre,i) 40 a 44 años,17
+TLALPAN,La Herradura,Hombre,j) 45 a 49 años,23
+TLALPAN,La Herradura,Hombre,k) 50 a 54 años,23
+TLALPAN,La Herradura,Hombre,l) 55 a 59 años,17
+TLALPAN,La Herradura,Hombre,m) 60 a 64 años,6
+TLALPAN,La Herradura,Hombre,n) 65 a 69 años,11
+TLALPAN,La Herradura,Hombre,o) 70 a 74 años,2
+TLALPAN,La Herradura,Hombre,p) 75 a 79 años,2
+TLALPAN,La Herradura,Hombre,q) 80 a 84 años,0
+TLALPAN,La Herradura,Hombre,r) 85 años y más,0
+TLALPAN,La Herradura,Mujer,a) 0 a 4 años,25
+TLALPAN,La Herradura,Mujer,b) 5 a 9 años,42
+TLALPAN,La Herradura,Mujer,c) 10 a 14 años,30
+TLALPAN,La Herradura,Mujer,d) 15 a 19 años,37
+TLALPAN,La Herradura,Mujer,e) 20 a 24 años,33
+TLALPAN,La Herradura,Mujer,f) 25 a 29 años,34
+TLALPAN,La Herradura,Mujer,g) 30 a 34 años,40
+TLALPAN,La Herradura,Mujer,h) 35 a 39 años,30
+TLALPAN,La Herradura,Mujer,i) 40 a 44 años,31
+TLALPAN,La Herradura,Mujer,j) 45 a 49 años,25
+TLALPAN,La Herradura,Mujer,k) 50 a 54 años,22
+TLALPAN,La Herradura,Mujer,l) 55 a 59 años,12
+TLALPAN,La Herradura,Mujer,m) 60 a 64 años,17
+TLALPAN,La Herradura,Mujer,n) 65 a 69 años,4
+TLALPAN,La Herradura,Mujer,o) 70 a 74 años,5
+TLALPAN,La Herradura,Mujer,p) 75 a 79 años,0
+TLALPAN,La Herradura,Mujer,q) 80 a 84 años,1
+TLALPAN,La Herradura,Mujer,r) 85 años y más,1
+TLALPAN,Colonia San Juan,Hombre,a) 0 a 4 años,7
+TLALPAN,Colonia San Juan,Hombre,b) 5 a 9 años,19
+TLALPAN,Colonia San Juan,Hombre,c) 10 a 14 años,13
+TLALPAN,Colonia San Juan,Hombre,d) 15 a 19 años,11
+TLALPAN,Colonia San Juan,Hombre,e) 20 a 24 años,11
+TLALPAN,Colonia San Juan,Hombre,f) 25 a 29 años,11
+TLALPAN,Colonia San Juan,Hombre,g) 30 a 34 años,3
+TLALPAN,Colonia San Juan,Hombre,h) 35 a 39 años,7
+TLALPAN,Colonia San Juan,Hombre,i) 40 a 44 años,10
+TLALPAN,Colonia San Juan,Hombre,j) 45 a 49 años,5
+TLALPAN,Colonia San Juan,Hombre,k) 50 a 54 años,7
+TLALPAN,Colonia San Juan,Hombre,l) 55 a 59 años,9
+TLALPAN,Colonia San Juan,Hombre,m) 60 a 64 años,3
+TLALPAN,Colonia San Juan,Hombre,n) 65 a 69 años,2
+TLALPAN,Colonia San Juan,Hombre,o) 70 a 74 años,2
+TLALPAN,Colonia San Juan,Hombre,p) 75 a 79 años,0
+TLALPAN,Colonia San Juan,Hombre,q) 80 a 84 años,0
+TLALPAN,Colonia San Juan,Hombre,r) 85 años y más,0
+TLALPAN,Colonia San Juan,Mujer,a) 0 a 4 años,8
+TLALPAN,Colonia San Juan,Mujer,b) 5 a 9 años,10
+TLALPAN,Colonia San Juan,Mujer,c) 10 a 14 años,8
+TLALPAN,Colonia San Juan,Mujer,d) 15 a 19 años,5
+TLALPAN,Colonia San Juan,Mujer,e) 20 a 24 años,7
+TLALPAN,Colonia San Juan,Mujer,f) 25 a 29 años,8
+TLALPAN,Colonia San Juan,Mujer,g) 30 a 34 años,14
+TLALPAN,Colonia San Juan,Mujer,h) 35 a 39 años,5
+TLALPAN,Colonia San Juan,Mujer,i) 40 a 44 años,11
+TLALPAN,Colonia San Juan,Mujer,j) 45 a 49 años,4
+TLALPAN,Colonia San Juan,Mujer,k) 50 a 54 años,4
+TLALPAN,Colonia San Juan,Mujer,l) 55 a 59 años,6
+TLALPAN,Colonia San Juan,Mujer,m) 60 a 64 años,2
+TLALPAN,Colonia San Juan,Mujer,n) 65 a 69 años,4
+TLALPAN,Colonia San Juan,Mujer,o) 70 a 74 años,1
+TLALPAN,Colonia San Juan,Mujer,p) 75 a 79 años,0
+TLALPAN,Colonia San Juan,Mujer,q) 80 a 84 años,2
+TLALPAN,Colonia San Juan,Mujer,r) 85 años y más,0
+TLALPAN,Colonia Aguayoto,Hombre,a) 0 a 4 años,7
+TLALPAN,Colonia Aguayoto,Hombre,b) 5 a 9 años,13
+TLALPAN,Colonia Aguayoto,Hombre,c) 10 a 14 años,19
+TLALPAN,Colonia Aguayoto,Hombre,d) 15 a 19 años,12
+TLALPAN,Colonia Aguayoto,Hombre,e) 20 a 24 años,9
+TLALPAN,Colonia Aguayoto,Hombre,f) 25 a 29 años,16
+TLALPAN,Colonia Aguayoto,Hombre,g) 30 a 34 años,14
+TLALPAN,Colonia Aguayoto,Hombre,h) 35 a 39 años,17
+TLALPAN,Colonia Aguayoto,Hombre,i) 40 a 44 años,11
+TLALPAN,Colonia Aguayoto,Hombre,j) 45 a 49 años,13
+TLALPAN,Colonia Aguayoto,Hombre,k) 50 a 54 años,17
+TLALPAN,Colonia Aguayoto,Hombre,l) 55 a 59 años,8
+TLALPAN,Colonia Aguayoto,Hombre,m) 60 a 64 años,8
+TLALPAN,Colonia Aguayoto,Hombre,n) 65 a 69 años,2
+TLALPAN,Colonia Aguayoto,Hombre,o) 70 a 74 años,1
+TLALPAN,Colonia Aguayoto,Hombre,p) 75 a 79 años,1
+TLALPAN,Colonia Aguayoto,Hombre,q) 80 a 84 años,1
+TLALPAN,Colonia Aguayoto,Hombre,r) 85 años y más,0
+TLALPAN,Colonia Aguayoto,Mujer,a) 0 a 4 años,5
+TLALPAN,Colonia Aguayoto,Mujer,b) 5 a 9 años,13
+TLALPAN,Colonia Aguayoto,Mujer,c) 10 a 14 años,16
+TLALPAN,Colonia Aguayoto,Mujer,d) 15 a 19 años,11
+TLALPAN,Colonia Aguayoto,Mujer,e) 20 a 24 años,11
+TLALPAN,Colonia Aguayoto,Mujer,f) 25 a 29 años,13
+TLALPAN,Colonia Aguayoto,Mujer,g) 30 a 34 años,17
+TLALPAN,Colonia Aguayoto,Mujer,h) 35 a 39 años,15
+TLALPAN,Colonia Aguayoto,Mujer,i) 40 a 44 años,12
+TLALPAN,Colonia Aguayoto,Mujer,j) 45 a 49 años,11
+TLALPAN,Colonia Aguayoto,Mujer,k) 50 a 54 años,8
+TLALPAN,Colonia Aguayoto,Mujer,l) 55 a 59 años,9
+TLALPAN,Colonia Aguayoto,Mujer,m) 60 a 64 años,4
+TLALPAN,Colonia Aguayoto,Mujer,n) 65 a 69 años,6
+TLALPAN,Colonia Aguayoto,Mujer,o) 70 a 74 años,2
+TLALPAN,Colonia Aguayoto,Mujer,p) 75 a 79 años,3
+TLALPAN,Colonia Aguayoto,Mujer,q) 80 a 84 años,0
+TLALPAN,Colonia Aguayoto,Mujer,r) 85 años y más,0
+TLALPAN,Acazacatongo,Hombre,a) 0 a 4 años,1
+TLALPAN,Acazacatongo,Hombre,b) 5 a 9 años,2
+TLALPAN,Acazacatongo,Hombre,c) 10 a 14 años,3
+TLALPAN,Acazacatongo,Hombre,d) 15 a 19 años,1
+TLALPAN,Acazacatongo,Hombre,e) 20 a 24 años,3
+TLALPAN,Acazacatongo,Hombre,f) 25 a 29 años,6
+TLALPAN,Acazacatongo,Hombre,g) 30 a 34 años,3
+TLALPAN,Acazacatongo,Hombre,h) 35 a 39 años,3
+TLALPAN,Acazacatongo,Hombre,i) 40 a 44 años,6
+TLALPAN,Acazacatongo,Hombre,j) 45 a 49 años,0
+TLALPAN,Acazacatongo,Hombre,k) 50 a 54 años,5
+TLALPAN,Acazacatongo,Hombre,l) 55 a 59 años,3
+TLALPAN,Acazacatongo,Hombre,m) 60 a 64 años,1
+TLALPAN,Acazacatongo,Hombre,n) 65 a 69 años,2
+TLALPAN,Acazacatongo,Hombre,o) 70 a 74 años,2
+TLALPAN,Acazacatongo,Hombre,p) 75 a 79 años,1
+TLALPAN,Acazacatongo,Hombre,q) 80 a 84 años,0
+TLALPAN,Acazacatongo,Hombre,r) 85 años y más,0
+TLALPAN,Acazacatongo,Mujer,a) 0 a 4 años,1
+TLALPAN,Acazacatongo,Mujer,b) 5 a 9 años,2
+TLALPAN,Acazacatongo,Mujer,c) 10 a 14 años,2
+TLALPAN,Acazacatongo,Mujer,d) 15 a 19 años,8
+TLALPAN,Acazacatongo,Mujer,e) 20 a 24 años,4
+TLALPAN,Acazacatongo,Mujer,f) 25 a 29 años,2
+TLALPAN,Acazacatongo,Mujer,g) 30 a 34 años,2
+TLALPAN,Acazacatongo,Mujer,h) 35 a 39 años,4
+TLALPAN,Acazacatongo,Mujer,i) 40 a 44 años,2
+TLALPAN,Acazacatongo,Mujer,j) 45 a 49 años,7
+TLALPAN,Acazacatongo,Mujer,k) 50 a 54 años,5
+TLALPAN,Acazacatongo,Mujer,l) 55 a 59 años,1
+TLALPAN,Acazacatongo,Mujer,m) 60 a 64 años,1
+TLALPAN,Acazacatongo,Mujer,n) 65 a 69 años,0
+TLALPAN,Acazacatongo,Mujer,o) 70 a 74 años,2
+TLALPAN,Acazacatongo,Mujer,p) 75 a 79 años,1
+TLALPAN,Acazacatongo,Mujer,q) 80 a 84 años,0
+TLALPAN,Acazacatongo,Mujer,r) 85 años y más,0
+TLALPAN,El Arcoiris,Hombre,a) 0 a 4 años,5
+TLALPAN,El Arcoiris,Hombre,b) 5 a 9 años,7
+TLALPAN,El Arcoiris,Hombre,c) 10 a 14 años,8
+TLALPAN,El Arcoiris,Hombre,d) 15 a 19 años,12
+TLALPAN,El Arcoiris,Hombre,e) 20 a 24 años,10
+TLALPAN,El Arcoiris,Hombre,f) 25 a 29 años,9
+TLALPAN,El Arcoiris,Hombre,g) 30 a 34 años,6
+TLALPAN,El Arcoiris,Hombre,h) 35 a 39 años,11
+TLALPAN,El Arcoiris,Hombre,i) 40 a 44 años,4
+TLALPAN,El Arcoiris,Hombre,j) 45 a 49 años,4
+TLALPAN,El Arcoiris,Hombre,k) 50 a 54 años,7
+TLALPAN,El Arcoiris,Hombre,l) 55 a 59 años,4
+TLALPAN,El Arcoiris,Hombre,m) 60 a 64 años,4
+TLALPAN,El Arcoiris,Hombre,n) 65 a 69 años,0
+TLALPAN,El Arcoiris,Hombre,o) 70 a 74 años,0
+TLALPAN,El Arcoiris,Hombre,p) 75 a 79 años,3
+TLALPAN,El Arcoiris,Hombre,q) 80 a 84 años,1
+TLALPAN,El Arcoiris,Hombre,r) 85 años y más,0
+TLALPAN,El Arcoiris,Mujer,a) 0 a 4 años,6
+TLALPAN,El Arcoiris,Mujer,b) 5 a 9 años,7
+TLALPAN,El Arcoiris,Mujer,c) 10 a 14 años,9
+TLALPAN,El Arcoiris,Mujer,d) 15 a 19 años,14
+TLALPAN,El Arcoiris,Mujer,e) 20 a 24 años,7
+TLALPAN,El Arcoiris,Mujer,f) 25 a 29 años,8
+TLALPAN,El Arcoiris,Mujer,g) 30 a 34 años,1
+TLALPAN,El Arcoiris,Mujer,h) 35 a 39 años,8
+TLALPAN,El Arcoiris,Mujer,i) 40 a 44 años,9
+TLALPAN,El Arcoiris,Mujer,j) 45 a 49 años,9
+TLALPAN,El Arcoiris,Mujer,k) 50 a 54 años,4
+TLALPAN,El Arcoiris,Mujer,l) 55 a 59 años,8
+TLALPAN,El Arcoiris,Mujer,m) 60 a 64 años,2
+TLALPAN,El Arcoiris,Mujer,n) 65 a 69 años,1
+TLALPAN,El Arcoiris,Mujer,o) 70 a 74 años,1
+TLALPAN,El Arcoiris,Mujer,p) 75 a 79 años,1
+TLALPAN,El Arcoiris,Mujer,q) 80 a 84 años,0
+TLALPAN,El Arcoiris,Mujer,r) 85 años y más,0
+TLALPAN,Tezontitla,Hombre,a) 0 a 4 años,35
+TLALPAN,Tezontitla,Hombre,b) 5 a 9 años,25
+TLALPAN,Tezontitla,Hombre,c) 10 a 14 años,32
+TLALPAN,Tezontitla,Hombre,d) 15 a 19 años,50
+TLALPAN,Tezontitla,Hombre,e) 20 a 24 años,33
+TLALPAN,Tezontitla,Hombre,f) 25 a 29 años,42
+TLALPAN,Tezontitla,Hombre,g) 30 a 34 años,35
+TLALPAN,Tezontitla,Hombre,h) 35 a 39 años,35
+TLALPAN,Tezontitla,Hombre,i) 40 a 44 años,31
+TLALPAN,Tezontitla,Hombre,j) 45 a 49 años,31
+TLALPAN,Tezontitla,Hombre,k) 50 a 54 años,27
+TLALPAN,Tezontitla,Hombre,l) 55 a 59 años,13
+TLALPAN,Tezontitla,Hombre,m) 60 a 64 años,13
+TLALPAN,Tezontitla,Hombre,n) 65 a 69 años,9
+TLALPAN,Tezontitla,Hombre,o) 70 a 74 años,6
+TLALPAN,Tezontitla,Hombre,p) 75 a 79 años,3
+TLALPAN,Tezontitla,Hombre,q) 80 a 84 años,2
+TLALPAN,Tezontitla,Hombre,r) 85 años y más,0
+TLALPAN,Tezontitla,Mujer,a) 0 a 4 años,26
+TLALPAN,Tezontitla,Mujer,b) 5 a 9 años,29
+TLALPAN,Tezontitla,Mujer,c) 10 a 14 años,45
+TLALPAN,Tezontitla,Mujer,d) 15 a 19 años,34
+TLALPAN,Tezontitla,Mujer,e) 20 a 24 años,31
+TLALPAN,Tezontitla,Mujer,f) 25 a 29 años,36
+TLALPAN,Tezontitla,Mujer,g) 30 a 34 años,29
+TLALPAN,Tezontitla,Mujer,h) 35 a 39 años,36
+TLALPAN,Tezontitla,Mujer,i) 40 a 44 años,43
+TLALPAN,Tezontitla,Mujer,j) 45 a 49 años,24
+TLALPAN,Tezontitla,Mujer,k) 50 a 54 años,29
+TLALPAN,Tezontitla,Mujer,l) 55 a 59 años,18
+TLALPAN,Tezontitla,Mujer,m) 60 a 64 años,24
+TLALPAN,Tezontitla,Mujer,n) 65 a 69 años,14
+TLALPAN,Tezontitla,Mujer,o) 70 a 74 años,6
+TLALPAN,Tezontitla,Mujer,p) 75 a 79 años,1
+TLALPAN,Tezontitla,Mujer,q) 80 a 84 años,2
+TLALPAN,Tezontitla,Mujer,r) 85 años y más,1
+XOCHIMILCO,Xochimilco,Hombre,a) 0 a 4 años,12082
+XOCHIMILCO,Xochimilco,Hombre,b) 5 a 9 años,15137
+XOCHIMILCO,Xochimilco,Hombre,c) 10 a 14 años,16419
+XOCHIMILCO,Xochimilco,Hombre,d) 15 a 19 años,17122
+XOCHIMILCO,Xochimilco,Hombre,e) 20 a 24 años,18045
+XOCHIMILCO,Xochimilco,Hombre,f) 25 a 29 años,18025
+XOCHIMILCO,Xochimilco,Hombre,g) 30 a 34 años,16510
+XOCHIMILCO,Xochimilco,Hombre,h) 35 a 39 años,15713
+XOCHIMILCO,Xochimilco,Hombre,i) 40 a 44 años,14721
+XOCHIMILCO,Xochimilco,Hombre,j) 45 a 49 años,14312
+XOCHIMILCO,Xochimilco,Hombre,k) 50 a 54 años,13263
+XOCHIMILCO,Xochimilco,Hombre,l) 55 a 59 años,10832
+XOCHIMILCO,Xochimilco,Hombre,m) 60 a 64 años,9180
+XOCHIMILCO,Xochimilco,Hombre,n) 65 a 69 años,6729
+XOCHIMILCO,Xochimilco,Hombre,o) 70 a 74 años,4793
+XOCHIMILCO,Xochimilco,Hombre,p) 75 a 79 años,3004
+XOCHIMILCO,Xochimilco,Hombre,q) 80 a 84 años,1700
+XOCHIMILCO,Xochimilco,Hombre,r) 85 años y más,1398
+XOCHIMILCO,Xochimilco,Mujer,a) 0 a 4 años,11894
+XOCHIMILCO,Xochimilco,Mujer,b) 5 a 9 años,14670
+XOCHIMILCO,Xochimilco,Mujer,c) 10 a 14 años,15675
+XOCHIMILCO,Xochimilco,Mujer,d) 15 a 19 años,16677
+XOCHIMILCO,Xochimilco,Mujer,e) 20 a 24 años,17760
+XOCHIMILCO,Xochimilco,Mujer,f) 25 a 29 años,17415
+XOCHIMILCO,Xochimilco,Mujer,g) 30 a 34 años,16764
+XOCHIMILCO,Xochimilco,Mujer,h) 35 a 39 años,16573
+XOCHIMILCO,Xochimilco,Mujer,i) 40 a 44 años,16093
+XOCHIMILCO,Xochimilco,Mujer,j) 45 a 49 años,15930
+XOCHIMILCO,Xochimilco,Mujer,k) 50 a 54 años,15154
+XOCHIMILCO,Xochimilco,Mujer,l) 55 a 59 años,12473
+XOCHIMILCO,Xochimilco,Mujer,m) 60 a 64 años,10731
+XOCHIMILCO,Xochimilco,Mujer,n) 65 a 69 años,7958
+XOCHIMILCO,Xochimilco,Mujer,o) 70 a 74 años,5920
+XOCHIMILCO,Xochimilco,Mujer,p) 75 a 79 años,3700
+XOCHIMILCO,Xochimilco,Mujer,q) 80 a 84 años,2484
+XOCHIMILCO,Xochimilco,Mujer,r) 85 años y más,2416
+XOCHIMILCO,Tepexomulco,Hombre,a) 0 a 4 años,19
+XOCHIMILCO,Tepexomulco,Hombre,b) 5 a 9 años,22
+XOCHIMILCO,Tepexomulco,Hombre,c) 10 a 14 años,18
+XOCHIMILCO,Tepexomulco,Hombre,d) 15 a 19 años,27
+XOCHIMILCO,Tepexomulco,Hombre,e) 20 a 24 años,25
+XOCHIMILCO,Tepexomulco,Hombre,f) 25 a 29 años,25
+XOCHIMILCO,Tepexomulco,Hombre,g) 30 a 34 años,29
+XOCHIMILCO,Tepexomulco,Hombre,h) 35 a 39 años,19
+XOCHIMILCO,Tepexomulco,Hombre,i) 40 a 44 años,24
+XOCHIMILCO,Tepexomulco,Hombre,j) 45 a 49 años,13
+XOCHIMILCO,Tepexomulco,Hombre,k) 50 a 54 años,22
+XOCHIMILCO,Tepexomulco,Hombre,l) 55 a 59 años,15
+XOCHIMILCO,Tepexomulco,Hombre,m) 60 a 64 años,9
+XOCHIMILCO,Tepexomulco,Hombre,n) 65 a 69 años,2
+XOCHIMILCO,Tepexomulco,Hombre,o) 70 a 74 años,2
+XOCHIMILCO,Tepexomulco,Hombre,p) 75 a 79 años,1
+XOCHIMILCO,Tepexomulco,Hombre,q) 80 a 84 años,1
+XOCHIMILCO,Tepexomulco,Hombre,r) 85 años y más,0
+XOCHIMILCO,Tepexomulco,Mujer,a) 0 a 4 años,21
+XOCHIMILCO,Tepexomulco,Mujer,b) 5 a 9 años,25
+XOCHIMILCO,Tepexomulco,Mujer,c) 10 a 14 años,25
+XOCHIMILCO,Tepexomulco,Mujer,d) 15 a 19 años,27
+XOCHIMILCO,Tepexomulco,Mujer,e) 20 a 24 años,21
+XOCHIMILCO,Tepexomulco,Mujer,f) 25 a 29 años,20
+XOCHIMILCO,Tepexomulco,Mujer,g) 30 a 34 años,25
+XOCHIMILCO,Tepexomulco,Mujer,h) 35 a 39 años,21
+XOCHIMILCO,Tepexomulco,Mujer,i) 40 a 44 años,20
+XOCHIMILCO,Tepexomulco,Mujer,j) 45 a 49 años,16
+XOCHIMILCO,Tepexomulco,Mujer,k) 50 a 54 años,17
+XOCHIMILCO,Tepexomulco,Mujer,l) 55 a 59 años,19
+XOCHIMILCO,Tepexomulco,Mujer,m) 60 a 64 años,7
+XOCHIMILCO,Tepexomulco,Mujer,n) 65 a 69 años,6
+XOCHIMILCO,Tepexomulco,Mujer,o) 70 a 74 años,8
+XOCHIMILCO,Tepexomulco,Mujer,p) 75 a 79 años,2
+XOCHIMILCO,Tepexomulco,Mujer,q) 80 a 84 años,2
+XOCHIMILCO,Tepexomulco,Mujer,r) 85 años y más,0
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,a) 0 a 4 años,4
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,b) 5 a 9 años,17
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,c) 10 a 14 años,13
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,d) 15 a 19 años,12
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,e) 20 a 24 años,10
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,f) 25 a 29 años,12
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,g) 30 a 34 años,17
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,h) 35 a 39 años,9
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,i) 40 a 44 años,9
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,j) 45 a 49 años,1
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,k) 50 a 54 años,6
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,l) 55 a 59 años,4
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,m) 60 a 64 años,5
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,n) 65 a 69 años,3
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,o) 70 a 74 años,1
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,p) 75 a 79 años,3
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,q) 80 a 84 años,0
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Hombre,r) 85 años y más,0
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,a) 0 a 4 años,9
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,b) 5 a 9 años,14
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,c) 10 a 14 años,19
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,d) 15 a 19 años,13
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,e) 20 a 24 años,16
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,f) 25 a 29 años,10
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,g) 30 a 34 años,14
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,h) 35 a 39 años,11
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,i) 40 a 44 años,9
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,j) 45 a 49 años,5
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,k) 50 a 54 años,8
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,l) 55 a 59 años,6
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,m) 60 a 64 años,3
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,n) 65 a 69 años,2
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,o) 70 a 74 años,2
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,p) 75 a 79 años,3
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,q) 80 a 84 años,0
+XOCHIMILCO,Tlachiultepec de Ahuayucan (Las Malvinas),Mujer,r) 85 años y más,0
+XOCHIMILCO,Tlalatlaco,Hombre,a) 0 a 4 años,1
+XOCHIMILCO,Tlalatlaco,Hombre,b) 5 a 9 años,9
+XOCHIMILCO,Tlalatlaco,Hombre,c) 10 a 14 años,6
+XOCHIMILCO,Tlalatlaco,Hombre,d) 15 a 19 años,6
+XOCHIMILCO,Tlalatlaco,Hombre,e) 20 a 24 años,2
+XOCHIMILCO,Tlalatlaco,Hombre,f) 25 a 29 años,5
+XOCHIMILCO,Tlalatlaco,Hombre,g) 30 a 34 años,5
+XOCHIMILCO,Tlalatlaco,Hombre,h) 35 a 39 años,6
+XOCHIMILCO,Tlalatlaco,Hombre,i) 40 a 44 años,7
+XOCHIMILCO,Tlalatlaco,Hombre,j) 45 a 49 años,1
+XOCHIMILCO,Tlalatlaco,Hombre,k) 50 a 54 años,2
+XOCHIMILCO,Tlalatlaco,Hombre,l) 55 a 59 años,3
+XOCHIMILCO,Tlalatlaco,Hombre,m) 60 a 64 años,2
+XOCHIMILCO,Tlalatlaco,Hombre,n) 65 a 69 años,1
+XOCHIMILCO,Tlalatlaco,Hombre,o) 70 a 74 años,0
+XOCHIMILCO,Tlalatlaco,Hombre,p) 75 a 79 años,0
+XOCHIMILCO,Tlalatlaco,Hombre,q) 80 a 84 años,1
+XOCHIMILCO,Tlalatlaco,Hombre,r) 85 años y más,0
+XOCHIMILCO,Tlalatlaco,Mujer,a) 0 a 4 años,3
+XOCHIMILCO,Tlalatlaco,Mujer,b) 5 a 9 años,4
+XOCHIMILCO,Tlalatlaco,Mujer,c) 10 a 14 años,4
+XOCHIMILCO,Tlalatlaco,Mujer,d) 15 a 19 años,3
+XOCHIMILCO,Tlalatlaco,Mujer,e) 20 a 24 años,3
+XOCHIMILCO,Tlalatlaco,Mujer,f) 25 a 29 años,5
+XOCHIMILCO,Tlalatlaco,Mujer,g) 30 a 34 años,4
+XOCHIMILCO,Tlalatlaco,Mujer,h) 35 a 39 años,9
+XOCHIMILCO,Tlalatlaco,Mujer,i) 40 a 44 años,4
+XOCHIMILCO,Tlalatlaco,Mujer,j) 45 a 49 años,2
+XOCHIMILCO,Tlalatlaco,Mujer,k) 50 a 54 años,2
+XOCHIMILCO,Tlalatlaco,Mujer,l) 55 a 59 años,0
+XOCHIMILCO,Tlalatlaco,Mujer,m) 60 a 64 años,2
+XOCHIMILCO,Tlalatlaco,Mujer,n) 65 a 69 años,3
+XOCHIMILCO,Tlalatlaco,Mujer,o) 70 a 74 años,0
+XOCHIMILCO,Tlalatlaco,Mujer,p) 75 a 79 años,0
+XOCHIMILCO,Tlalatlaco,Mujer,q) 80 a 84 años,0
+XOCHIMILCO,Tlalatlaco,Mujer,r) 85 años y más,0
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,a) 0 a 4 años,8
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,b) 5 a 9 años,11
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,c) 10 a 14 años,5
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,d) 15 a 19 años,11
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,e) 20 a 24 años,13
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,f) 25 a 29 años,11
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,g) 30 a 34 años,9
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,h) 35 a 39 años,6
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,i) 40 a 44 años,6
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,j) 45 a 49 años,5
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,k) 50 a 54 años,5
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,l) 55 a 59 años,5
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,m) 60 a 64 años,4
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,n) 65 a 69 años,2
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,o) 70 a 74 años,3
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,p) 75 a 79 años,0
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,q) 80 a 84 años,1
+XOCHIMILCO,Tlatzala (Cuayuca),Hombre,r) 85 años y más,0
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,a) 0 a 4 años,11
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,b) 5 a 9 años,7
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,c) 10 a 14 años,9
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,d) 15 a 19 años,10
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,e) 20 a 24 años,11
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,f) 25 a 29 años,7
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,g) 30 a 34 años,5
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,h) 35 a 39 años,5
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,i) 40 a 44 años,10
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,j) 45 a 49 años,6
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,k) 50 a 54 años,5
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,l) 55 a 59 años,7
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,m) 60 a 64 años,3
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,n) 65 a 69 años,3
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,o) 70 a 74 años,0
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,p) 75 a 79 años,2
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,q) 80 a 84 años,0
+XOCHIMILCO,Tlatzala (Cuayuca),Mujer,r) 85 años y más,1
+XOCHIMILCO,Tipipili,Hombre,a) 0 a 4 años,34
+XOCHIMILCO,Tipipili,Hombre,b) 5 a 9 años,30
+XOCHIMILCO,Tipipili,Hombre,c) 10 a 14 años,32
+XOCHIMILCO,Tipipili,Hombre,d) 15 a 19 años,41
+XOCHIMILCO,Tipipili,Hombre,e) 20 a 24 años,36
+XOCHIMILCO,Tipipili,Hombre,f) 25 a 29 años,40
+XOCHIMILCO,Tipipili,Hombre,g) 30 a 34 años,25
+XOCHIMILCO,Tipipili,Hombre,h) 35 a 39 años,23
+XOCHIMILCO,Tipipili,Hombre,i) 40 a 44 años,18
+XOCHIMILCO,Tipipili,Hombre,j) 45 a 49 años,22
+XOCHIMILCO,Tipipili,Hombre,k) 50 a 54 años,15
+XOCHIMILCO,Tipipili,Hombre,l) 55 a 59 años,14
+XOCHIMILCO,Tipipili,Hombre,m) 60 a 64 años,9
+XOCHIMILCO,Tipipili,Hombre,n) 65 a 69 años,7
+XOCHIMILCO,Tipipili,Hombre,o) 70 a 74 años,2
+XOCHIMILCO,Tipipili,Hombre,p) 75 a 79 años,5
+XOCHIMILCO,Tipipili,Hombre,q) 80 a 84 años,2
+XOCHIMILCO,Tipipili,Hombre,r) 85 años y más,0
+XOCHIMILCO,Tipipili,Mujer,a) 0 a 4 años,32
+XOCHIMILCO,Tipipili,Mujer,b) 5 a 9 años,35
+XOCHIMILCO,Tipipili,Mujer,c) 10 a 14 años,33
+XOCHIMILCO,Tipipili,Mujer,d) 15 a 19 años,36
+XOCHIMILCO,Tipipili,Mujer,e) 20 a 24 años,37
+XOCHIMILCO,Tipipili,Mujer,f) 25 a 29 años,24
+XOCHIMILCO,Tipipili,Mujer,g) 30 a 34 años,27
+XOCHIMILCO,Tipipili,Mujer,h) 35 a 39 años,30
+XOCHIMILCO,Tipipili,Mujer,i) 40 a 44 años,22
+XOCHIMILCO,Tipipili,Mujer,j) 45 a 49 años,19
+XOCHIMILCO,Tipipili,Mujer,k) 50 a 54 años,21
+XOCHIMILCO,Tipipili,Mujer,l) 55 a 59 años,12
+XOCHIMILCO,Tipipili,Mujer,m) 60 a 64 años,12
+XOCHIMILCO,Tipipili,Mujer,n) 65 a 69 años,9
+XOCHIMILCO,Tipipili,Mujer,o) 70 a 74 años,2
+XOCHIMILCO,Tipipili,Mujer,p) 75 a 79 años,1
+XOCHIMILCO,Tipipili,Mujer,q) 80 a 84 años,1
+XOCHIMILCO,Tipipili,Mujer,r) 85 años y más,1
+XOCHIMILCO,Tochuca (San Salvador),Hombre,a) 0 a 4 años,9
+XOCHIMILCO,Tochuca (San Salvador),Hombre,b) 5 a 9 años,14
+XOCHIMILCO,Tochuca (San Salvador),Hombre,c) 10 a 14 años,22
+XOCHIMILCO,Tochuca (San Salvador),Hombre,d) 15 a 19 años,22
+XOCHIMILCO,Tochuca (San Salvador),Hombre,e) 20 a 24 años,25
+XOCHIMILCO,Tochuca (San Salvador),Hombre,f) 25 a 29 años,27
+XOCHIMILCO,Tochuca (San Salvador),Hombre,g) 30 a 34 años,8
+XOCHIMILCO,Tochuca (San Salvador),Hombre,h) 35 a 39 años,10
+XOCHIMILCO,Tochuca (San Salvador),Hombre,i) 40 a 44 años,11
+XOCHIMILCO,Tochuca (San Salvador),Hombre,j) 45 a 49 años,15
+XOCHIMILCO,Tochuca (San Salvador),Hombre,k) 50 a 54 años,12
+XOCHIMILCO,Tochuca (San Salvador),Hombre,l) 55 a 59 años,11
+XOCHIMILCO,Tochuca (San Salvador),Hombre,m) 60 a 64 años,4
+XOCHIMILCO,Tochuca (San Salvador),Hombre,n) 65 a 69 años,4
+XOCHIMILCO,Tochuca (San Salvador),Hombre,o) 70 a 74 años,1
+XOCHIMILCO,Tochuca (San Salvador),Hombre,p) 75 a 79 años,4
+XOCHIMILCO,Tochuca (San Salvador),Hombre,q) 80 a 84 años,1
+XOCHIMILCO,Tochuca (San Salvador),Hombre,r) 85 años y más,1
+XOCHIMILCO,Tochuca (San Salvador),Mujer,a) 0 a 4 años,6
+XOCHIMILCO,Tochuca (San Salvador),Mujer,b) 5 a 9 años,10
+XOCHIMILCO,Tochuca (San Salvador),Mujer,c) 10 a 14 años,10
+XOCHIMILCO,Tochuca (San Salvador),Mujer,d) 15 a 19 años,16
+XOCHIMILCO,Tochuca (San Salvador),Mujer,e) 20 a 24 años,13
+XOCHIMILCO,Tochuca (San Salvador),Mujer,f) 25 a 29 años,15
+XOCHIMILCO,Tochuca (San Salvador),Mujer,g) 30 a 34 años,19
+XOCHIMILCO,Tochuca (San Salvador),Mujer,h) 35 a 39 años,9
+XOCHIMILCO,Tochuca (San Salvador),Mujer,i) 40 a 44 años,15
+XOCHIMILCO,Tochuca (San Salvador),Mujer,j) 45 a 49 años,17
+XOCHIMILCO,Tochuca (San Salvador),Mujer,k) 50 a 54 años,19
+XOCHIMILCO,Tochuca (San Salvador),Mujer,l) 55 a 59 años,8
+XOCHIMILCO,Tochuca (San Salvador),Mujer,m) 60 a 64 años,1
+XOCHIMILCO,Tochuca (San Salvador),Mujer,n) 65 a 69 años,3
+XOCHIMILCO,Tochuca (San Salvador),Mujer,o) 70 a 74 años,1
+XOCHIMILCO,Tochuca (San Salvador),Mujer,p) 75 a 79 años,5
+XOCHIMILCO,Tochuca (San Salvador),Mujer,q) 80 a 84 años,0
+XOCHIMILCO,Tochuca (San Salvador),Mujer,r) 85 años y más,2
+XOCHIMILCO,Pepelaxtla,Hombre,a) 0 a 4 años,16
+XOCHIMILCO,Pepelaxtla,Hombre,b) 5 a 9 años,15
+XOCHIMILCO,Pepelaxtla,Hombre,c) 10 a 14 años,16
+XOCHIMILCO,Pepelaxtla,Hombre,d) 15 a 19 años,15
+XOCHIMILCO,Pepelaxtla,Hombre,e) 20 a 24 años,17
+XOCHIMILCO,Pepelaxtla,Hombre,f) 25 a 29 años,18
+XOCHIMILCO,Pepelaxtla,Hombre,g) 30 a 34 años,13
+XOCHIMILCO,Pepelaxtla,Hombre,h) 35 a 39 años,12
+XOCHIMILCO,Pepelaxtla,Hombre,i) 40 a 44 años,10
+XOCHIMILCO,Pepelaxtla,Hombre,j) 45 a 49 años,12
+XOCHIMILCO,Pepelaxtla,Hombre,k) 50 a 54 años,12
+XOCHIMILCO,Pepelaxtla,Hombre,l) 55 a 59 años,9
+XOCHIMILCO,Pepelaxtla,Hombre,m) 60 a 64 años,6
+XOCHIMILCO,Pepelaxtla,Hombre,n) 65 a 69 años,3
+XOCHIMILCO,Pepelaxtla,Hombre,o) 70 a 74 años,0
+XOCHIMILCO,Pepelaxtla,Hombre,p) 75 a 79 años,0
+XOCHIMILCO,Pepelaxtla,Hombre,q) 80 a 84 años,1
+XOCHIMILCO,Pepelaxtla,Hombre,r) 85 años y más,0
+XOCHIMILCO,Pepelaxtla,Mujer,a) 0 a 4 años,12
+XOCHIMILCO,Pepelaxtla,Mujer,b) 5 a 9 años,10
+XOCHIMILCO,Pepelaxtla,Mujer,c) 10 a 14 años,15
+XOCHIMILCO,Pepelaxtla,Mujer,d) 15 a 19 años,13
+XOCHIMILCO,Pepelaxtla,Mujer,e) 20 a 24 años,22
+XOCHIMILCO,Pepelaxtla,Mujer,f) 25 a 29 años,22
+XOCHIMILCO,Pepelaxtla,Mujer,g) 30 a 34 años,9
+XOCHIMILCO,Pepelaxtla,Mujer,h) 35 a 39 años,8
+XOCHIMILCO,Pepelaxtla,Mujer,i) 40 a 44 años,8
+XOCHIMILCO,Pepelaxtla,Mujer,j) 45 a 49 años,16
+XOCHIMILCO,Pepelaxtla,Mujer,k) 50 a 54 años,13
+XOCHIMILCO,Pepelaxtla,Mujer,l) 55 a 59 años,6
+XOCHIMILCO,Pepelaxtla,Mujer,m) 60 a 64 años,5
+XOCHIMILCO,Pepelaxtla,Mujer,n) 65 a 69 años,5
+XOCHIMILCO,Pepelaxtla,Mujer,o) 70 a 74 años,1
+XOCHIMILCO,Pepelaxtla,Mujer,p) 75 a 79 años,1
+XOCHIMILCO,Pepelaxtla,Mujer,q) 80 a 84 años,1
+XOCHIMILCO,Pepelaxtla,Mujer,r) 85 años y más,1
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,a) 0 a 4 años,9
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,b) 5 a 9 años,16
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,c) 10 a 14 años,7
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,d) 15 a 19 años,14
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,e) 20 a 24 años,16
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,f) 25 a 29 años,12
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,g) 30 a 34 años,11
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,h) 35 a 39 años,14
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,i) 40 a 44 años,10
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,j) 45 a 49 años,11
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,k) 50 a 54 años,7
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,l) 55 a 59 años,8
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,m) 60 a 64 años,4
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,n) 65 a 69 años,1
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,o) 70 a 74 años,3
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,p) 75 a 79 años,1
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,q) 80 a 84 años,0
+XOCHIMILCO,Ocotitla Tepachuxiac,Hombre,r) 85 años y más,0
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,a) 0 a 4 años,13
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,b) 5 a 9 años,8
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,c) 10 a 14 años,6
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,d) 15 a 19 años,9
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,e) 20 a 24 años,19
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,f) 25 a 29 años,7
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,g) 30 a 34 años,12
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,h) 35 a 39 años,11
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,i) 40 a 44 años,8
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,j) 45 a 49 años,6
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,k) 50 a 54 años,14
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,l) 55 a 59 años,6
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,m) 60 a 64 años,2
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,n) 65 a 69 años,2
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,o) 70 a 74 años,3
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,p) 75 a 79 años,0
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,q) 80 a 84 años,1
+XOCHIMILCO,Ocotitla Tepachuxiac,Mujer,r) 85 años y más,0
+XOCHIMILCO,Atotle,Hombre,a) 0 a 4 años,7
+XOCHIMILCO,Atotle,Hombre,b) 5 a 9 años,15
+XOCHIMILCO,Atotle,Hombre,c) 10 a 14 años,17
+XOCHIMILCO,Atotle,Hombre,d) 15 a 19 años,22
+XOCHIMILCO,Atotle,Hombre,e) 20 a 24 años,12
+XOCHIMILCO,Atotle,Hombre,f) 25 a 29 años,15
+XOCHIMILCO,Atotle,Hombre,g) 30 a 34 años,12
+XOCHIMILCO,Atotle,Hombre,h) 35 a 39 años,16
+XOCHIMILCO,Atotle,Hombre,i) 40 a 44 años,10
+XOCHIMILCO,Atotle,Hombre,j) 45 a 49 años,6
+XOCHIMILCO,Atotle,Hombre,k) 50 a 54 años,7
+XOCHIMILCO,Atotle,Hombre,l) 55 a 59 años,10
+XOCHIMILCO,Atotle,Hombre,m) 60 a 64 años,2
+XOCHIMILCO,Atotle,Hombre,n) 65 a 69 años,2
+XOCHIMILCO,Atotle,Hombre,o) 70 a 74 años,4
+XOCHIMILCO,Atotle,Hombre,p) 75 a 79 años,0
+XOCHIMILCO,Atotle,Hombre,q) 80 a 84 años,1
+XOCHIMILCO,Atotle,Hombre,r) 85 años y más,0
+XOCHIMILCO,Atotle,Mujer,a) 0 a 4 años,9
+XOCHIMILCO,Atotle,Mujer,b) 5 a 9 años,15
+XOCHIMILCO,Atotle,Mujer,c) 10 a 14 años,7
+XOCHIMILCO,Atotle,Mujer,d) 15 a 19 años,16
+XOCHIMILCO,Atotle,Mujer,e) 20 a 24 años,9
+XOCHIMILCO,Atotle,Mujer,f) 25 a 29 años,18
+XOCHIMILCO,Atotle,Mujer,g) 30 a 34 años,14
+XOCHIMILCO,Atotle,Mujer,h) 35 a 39 años,19
+XOCHIMILCO,Atotle,Mujer,i) 40 a 44 años,8
+XOCHIMILCO,Atotle,Mujer,j) 45 a 49 años,17
+XOCHIMILCO,Atotle,Mujer,k) 50 a 54 años,11
+XOCHIMILCO,Atotle,Mujer,l) 55 a 59 años,11
+XOCHIMILCO,Atotle,Mujer,m) 60 a 64 años,4
+XOCHIMILCO,Atotle,Mujer,n) 65 a 69 años,6
+XOCHIMILCO,Atotle,Mujer,o) 70 a 74 años,4
+XOCHIMILCO,Atotle,Mujer,p) 75 a 79 años,0
+XOCHIMILCO,Atotle,Mujer,q) 80 a 84 años,3
+XOCHIMILCO,Atotle,Mujer,r) 85 años y más,1
+XOCHIMILCO,Paraje Zacapa,Hombre,a) 0 a 4 años,28
+XOCHIMILCO,Paraje Zacapa,Hombre,b) 5 a 9 años,34
+XOCHIMILCO,Paraje Zacapa,Hombre,c) 10 a 14 años,45
+XOCHIMILCO,Paraje Zacapa,Hombre,d) 15 a 19 años,39
+XOCHIMILCO,Paraje Zacapa,Hombre,e) 20 a 24 años,41
+XOCHIMILCO,Paraje Zacapa,Hombre,f) 25 a 29 años,40
+XOCHIMILCO,Paraje Zacapa,Hombre,g) 30 a 34 años,37
+XOCHIMILCO,Paraje Zacapa,Hombre,h) 35 a 39 años,30
+XOCHIMILCO,Paraje Zacapa,Hombre,i) 40 a 44 años,36
+XOCHIMILCO,Paraje Zacapa,Hombre,j) 45 a 49 años,27
+XOCHIMILCO,Paraje Zacapa,Hombre,k) 50 a 54 años,25
+XOCHIMILCO,Paraje Zacapa,Hombre,l) 55 a 59 años,17
+XOCHIMILCO,Paraje Zacapa,Hombre,m) 60 a 64 años,10
+XOCHIMILCO,Paraje Zacapa,Hombre,n) 65 a 69 años,8
+XOCHIMILCO,Paraje Zacapa,Hombre,o) 70 a 74 años,6
+XOCHIMILCO,Paraje Zacapa,Hombre,p) 75 a 79 años,1
+XOCHIMILCO,Paraje Zacapa,Hombre,q) 80 a 84 años,2
+XOCHIMILCO,Paraje Zacapa,Hombre,r) 85 años y más,0
+XOCHIMILCO,Paraje Zacapa,Mujer,a) 0 a 4 años,41
+XOCHIMILCO,Paraje Zacapa,Mujer,b) 5 a 9 años,37
+XOCHIMILCO,Paraje Zacapa,Mujer,c) 10 a 14 años,40
+XOCHIMILCO,Paraje Zacapa,Mujer,d) 15 a 19 años,37
+XOCHIMILCO,Paraje Zacapa,Mujer,e) 20 a 24 años,42
+XOCHIMILCO,Paraje Zacapa,Mujer,f) 25 a 29 años,40
+XOCHIMILCO,Paraje Zacapa,Mujer,g) 30 a 34 años,40
+XOCHIMILCO,Paraje Zacapa,Mujer,h) 35 a 39 años,29
+XOCHIMILCO,Paraje Zacapa,Mujer,i) 40 a 44 años,35
+XOCHIMILCO,Paraje Zacapa,Mujer,j) 45 a 49 años,29
+XOCHIMILCO,Paraje Zacapa,Mujer,k) 50 a 54 años,21
+XOCHIMILCO,Paraje Zacapa,Mujer,l) 55 a 59 años,17
+XOCHIMILCO,Paraje Zacapa,Mujer,m) 60 a 64 años,19
+XOCHIMILCO,Paraje Zacapa,Mujer,n) 65 a 69 años,6
+XOCHIMILCO,Paraje Zacapa,Mujer,o) 70 a 74 años,5
+XOCHIMILCO,Paraje Zacapa,Mujer,p) 75 a 79 años,0
+XOCHIMILCO,Paraje Zacapa,Mujer,q) 80 a 84 años,1
+XOCHIMILCO,Paraje Zacapa,Mujer,r) 85 años y más,0
+XOCHIMILCO,Tecanco,Hombre,a) 0 a 4 años,12
+XOCHIMILCO,Tecanco,Hombre,b) 5 a 9 años,10
+XOCHIMILCO,Tecanco,Hombre,c) 10 a 14 años,22
+XOCHIMILCO,Tecanco,Hombre,d) 15 a 19 años,11
+XOCHIMILCO,Tecanco,Hombre,e) 20 a 24 años,20
+XOCHIMILCO,Tecanco,Hombre,f) 25 a 29 años,13
+XOCHIMILCO,Tecanco,Hombre,g) 30 a 34 años,9
+XOCHIMILCO,Tecanco,Hombre,h) 35 a 39 años,11
+XOCHIMILCO,Tecanco,Hombre,i) 40 a 44 años,23
+XOCHIMILCO,Tecanco,Hombre,j) 45 a 49 años,12
+XOCHIMILCO,Tecanco,Hombre,k) 50 a 54 años,9
+XOCHIMILCO,Tecanco,Hombre,l) 55 a 59 años,7
+XOCHIMILCO,Tecanco,Hombre,m) 60 a 64 años,5
+XOCHIMILCO,Tecanco,Hombre,n) 65 a 69 años,2
+XOCHIMILCO,Tecanco,Hombre,o) 70 a 74 años,0
+XOCHIMILCO,Tecanco,Hombre,p) 75 a 79 años,0
+XOCHIMILCO,Tecanco,Hombre,q) 80 a 84 años,1
+XOCHIMILCO,Tecanco,Hombre,r) 85 años y más,0
+XOCHIMILCO,Tecanco,Mujer,a) 0 a 4 años,18
+XOCHIMILCO,Tecanco,Mujer,b) 5 a 9 años,16
+XOCHIMILCO,Tecanco,Mujer,c) 10 a 14 años,22
+XOCHIMILCO,Tecanco,Mujer,d) 15 a 19 años,15
+XOCHIMILCO,Tecanco,Mujer,e) 20 a 24 años,17
+XOCHIMILCO,Tecanco,Mujer,f) 25 a 29 años,10
+XOCHIMILCO,Tecanco,Mujer,g) 30 a 34 años,10
+XOCHIMILCO,Tecanco,Mujer,h) 35 a 39 años,19
+XOCHIMILCO,Tecanco,Mujer,i) 40 a 44 años,17
+XOCHIMILCO,Tecanco,Mujer,j) 45 a 49 años,12
+XOCHIMILCO,Tecanco,Mujer,k) 50 a 54 años,8
+XOCHIMILCO,Tecanco,Mujer,l) 55 a 59 años,10
+XOCHIMILCO,Tecanco,Mujer,m) 60 a 64 años,5
+XOCHIMILCO,Tecanco,Mujer,n) 65 a 69 años,5
+XOCHIMILCO,Tecanco,Mujer,o) 70 a 74 años,2
+XOCHIMILCO,Tecanco,Mujer,p) 75 a 79 años,2
+XOCHIMILCO,Tecanco,Mujer,q) 80 a 84 años,0
+XOCHIMILCO,Tecanco,Mujer,r) 85 años y más,0
+XOCHIMILCO,Barrio Nochicala,Hombre,a) 0 a 4 años,3
+XOCHIMILCO,Barrio Nochicala,Hombre,b) 5 a 9 años,2
+XOCHIMILCO,Barrio Nochicala,Hombre,c) 10 a 14 años,0
+XOCHIMILCO,Barrio Nochicala,Hombre,d) 15 a 19 años,3
+XOCHIMILCO,Barrio Nochicala,Hombre,e) 20 a 24 años,7
+XOCHIMILCO,Barrio Nochicala,Hombre,f) 25 a 29 años,13
+XOCHIMILCO,Barrio Nochicala,Hombre,g) 30 a 34 años,7
+XOCHIMILCO,Barrio Nochicala,Hombre,h) 35 a 39 años,12
+XOCHIMILCO,Barrio Nochicala,Hombre,i) 40 a 44 años,7
+XOCHIMILCO,Barrio Nochicala,Hombre,j) 45 a 49 años,9
+XOCHIMILCO,Barrio Nochicala,Hombre,k) 50 a 54 años,5
+XOCHIMILCO,Barrio Nochicala,Hombre,l) 55 a 59 años,4
+XOCHIMILCO,Barrio Nochicala,Hombre,m) 60 a 64 años,3
+XOCHIMILCO,Barrio Nochicala,Hombre,n) 65 a 69 años,3
+XOCHIMILCO,Barrio Nochicala,Hombre,o) 70 a 74 años,3
+XOCHIMILCO,Barrio Nochicala,Hombre,p) 75 a 79 años,1
+XOCHIMILCO,Barrio Nochicala,Hombre,q) 80 a 84 años,0
+XOCHIMILCO,Barrio Nochicala,Hombre,r) 85 años y más,0
+XOCHIMILCO,Barrio Nochicala,Mujer,a) 0 a 4 años,5
+XOCHIMILCO,Barrio Nochicala,Mujer,b) 5 a 9 años,3
+XOCHIMILCO,Barrio Nochicala,Mujer,c) 10 a 14 años,4
+XOCHIMILCO,Barrio Nochicala,Mujer,d) 15 a 19 años,0
+XOCHIMILCO,Barrio Nochicala,Mujer,e) 20 a 24 años,8
+XOCHIMILCO,Barrio Nochicala,Mujer,f) 25 a 29 años,14
+XOCHIMILCO,Barrio Nochicala,Mujer,g) 30 a 34 años,11
+XOCHIMILCO,Barrio Nochicala,Mujer,h) 35 a 39 años,6
+XOCHIMILCO,Barrio Nochicala,Mujer,i) 40 a 44 años,10
+XOCHIMILCO,Barrio Nochicala,Mujer,j) 45 a 49 años,15
+XOCHIMILCO,Barrio Nochicala,Mujer,k) 50 a 54 años,5
+XOCHIMILCO,Barrio Nochicala,Mujer,l) 55 a 59 años,5
+XOCHIMILCO,Barrio Nochicala,Mujer,m) 60 a 64 años,7
+XOCHIMILCO,Barrio Nochicala,Mujer,n) 65 a 69 años,3
+XOCHIMILCO,Barrio Nochicala,Mujer,o) 70 a 74 años,0
+XOCHIMILCO,Barrio Nochicala,Mujer,p) 75 a 79 años,1
+XOCHIMILCO,Barrio Nochicala,Mujer,q) 80 a 84 años,0
+XOCHIMILCO,Barrio Nochicala,Mujer,r) 85 años y más,0
+XOCHIMILCO,Zacazontlipac,Hombre,a) 0 a 4 años,21
+XOCHIMILCO,Zacazontlipac,Hombre,b) 5 a 9 años,24
+XOCHIMILCO,Zacazontlipac,Hombre,c) 10 a 14 años,17
+XOCHIMILCO,Zacazontlipac,Hombre,d) 15 a 19 años,27
+XOCHIMILCO,Zacazontlipac,Hombre,e) 20 a 24 años,35
+XOCHIMILCO,Zacazontlipac,Hombre,f) 25 a 29 años,30
+XOCHIMILCO,Zacazontlipac,Hombre,g) 30 a 34 años,29
+XOCHIMILCO,Zacazontlipac,Hombre,h) 35 a 39 años,15
+XOCHIMILCO,Zacazontlipac,Hombre,i) 40 a 44 años,18
+XOCHIMILCO,Zacazontlipac,Hombre,j) 45 a 49 años,12
+XOCHIMILCO,Zacazontlipac,Hombre,k) 50 a 54 años,30
+XOCHIMILCO,Zacazontlipac,Hombre,l) 55 a 59 años,11
+XOCHIMILCO,Zacazontlipac,Hombre,m) 60 a 64 años,7
+XOCHIMILCO,Zacazontlipac,Hombre,n) 65 a 69 años,2
+XOCHIMILCO,Zacazontlipac,Hombre,o) 70 a 74 años,2
+XOCHIMILCO,Zacazontlipac,Hombre,p) 75 a 79 años,2
+XOCHIMILCO,Zacazontlipac,Hombre,q) 80 a 84 años,0
+XOCHIMILCO,Zacazontlipac,Hombre,r) 85 años y más,1
+XOCHIMILCO,Zacazontlipac,Mujer,a) 0 a 4 años,20
+XOCHIMILCO,Zacazontlipac,Mujer,b) 5 a 9 años,12
+XOCHIMILCO,Zacazontlipac,Mujer,c) 10 a 14 años,28
+XOCHIMILCO,Zacazontlipac,Mujer,d) 15 a 19 años,34
+XOCHIMILCO,Zacazontlipac,Mujer,e) 20 a 24 años,28
+XOCHIMILCO,Zacazontlipac,Mujer,f) 25 a 29 años,21
+XOCHIMILCO,Zacazontlipac,Mujer,g) 30 a 34 años,23
+XOCHIMILCO,Zacazontlipac,Mujer,h) 35 a 39 años,18
+XOCHIMILCO,Zacazontlipac,Mujer,i) 40 a 44 años,23
+XOCHIMILCO,Zacazontlipac,Mujer,j) 45 a 49 años,23
+XOCHIMILCO,Zacazontlipac,Mujer,k) 50 a 54 años,27
+XOCHIMILCO,Zacazontlipac,Mujer,l) 55 a 59 años,13
+XOCHIMILCO,Zacazontlipac,Mujer,m) 60 a 64 años,5
+XOCHIMILCO,Zacazontlipac,Mujer,n) 65 a 69 años,5
+XOCHIMILCO,Zacazontlipac,Mujer,o) 70 a 74 años,3
+XOCHIMILCO,Zacazontlipac,Mujer,p) 75 a 79 años,6
+XOCHIMILCO,Zacazontlipac,Mujer,q) 80 a 84 años,1
+XOCHIMILCO,Zacazontlipac,Mujer,r) 85 años y más,2
+BENITO JUAREZ,Benito Juárez,Hombre,a) 0 a 4 años,8451
+BENITO JUAREZ,Benito Juárez,Hombre,b) 5 a 9 años,8641
+BENITO JUAREZ,Benito Juárez,Hombre,c) 10 a 14 años,8962
+BENITO JUAREZ,Benito Juárez,Hombre,d) 15 a 19 años,9563
+BENITO JUAREZ,Benito Juárez,Hombre,e) 20 a 24 años,12351
+BENITO JUAREZ,Benito Juárez,Hombre,f) 25 a 29 años,17844
+BENITO JUAREZ,Benito Juárez,Hombre,g) 30 a 34 años,21909
+BENITO JUAREZ,Benito Juárez,Hombre,h) 35 a 39 años,21123
+BENITO JUAREZ,Benito Juárez,Hombre,i) 40 a 44 años,17613
+BENITO JUAREZ,Benito Juárez,Hombre,j) 45 a 49 años,15941
+BENITO JUAREZ,Benito Juárez,Hombre,k) 50 a 54 años,13181
+BENITO JUAREZ,Benito Juárez,Hombre,l) 55 a 59 años,11800
+BENITO JUAREZ,Benito Juárez,Hombre,m) 60 a 64 años,10937
+BENITO JUAREZ,Benito Juárez,Hombre,n) 65 a 69 años,8583
+BENITO JUAREZ,Benito Juárez,Hombre,o) 70 a 74 años,6472
+BENITO JUAREZ,Benito Juárez,Hombre,p) 75 a 79 años,4031
+BENITO JUAREZ,Benito Juárez,Hombre,q) 80 a 84 años,2584
+BENITO JUAREZ,Benito Juárez,Hombre,r) 85 años y más,2122
+BENITO JUAREZ,Benito Juárez,Mujer,a) 0 a 4 años,8191
+BENITO JUAREZ,Benito Juárez,Mujer,b) 5 a 9 años,8428
+BENITO JUAREZ,Benito Juárez,Mujer,c) 10 a 14 años,8570
+BENITO JUAREZ,Benito Juárez,Mujer,d) 15 a 19 años,9407
+BENITO JUAREZ,Benito Juárez,Mujer,e) 20 a 24 años,12760
+BENITO JUAREZ,Benito Juárez,Mujer,f) 25 a 29 años,19331
+BENITO JUAREZ,Benito Juárez,Mujer,g) 30 a 34 años,23278
+BENITO JUAREZ,Benito Juárez,Mujer,h) 35 a 39 años,21844
+BENITO JUAREZ,Benito Juárez,Mujer,i) 40 a 44 años,19236
+BENITO JUAREZ,Benito Juárez,Mujer,j) 45 a 49 años,17590
+BENITO JUAREZ,Benito Juárez,Mujer,k) 50 a 54 años,15844
+BENITO JUAREZ,Benito Juárez,Mujer,l) 55 a 59 años,14913
+BENITO JUAREZ,Benito Juárez,Mujer,m) 60 a 64 años,14814
+BENITO JUAREZ,Benito Juárez,Mujer,n) 65 a 69 años,11850
+BENITO JUAREZ,Benito Juárez,Mujer,o) 70 a 74 años,9617
+BENITO JUAREZ,Benito Juárez,Mujer,p) 75 a 79 años,6395
+BENITO JUAREZ,Benito Juárez,Mujer,q) 80 a 84 años,4764
+BENITO JUAREZ,Benito Juárez,Mujer,r) 85 años y más,5175
+CUAUHTEMOC,Cuauhtémoc,Hombre,a) 0 a 4 años,13027
+CUAUHTEMOC,Cuauhtémoc,Hombre,b) 5 a 9 años,13971
+CUAUHTEMOC,Cuauhtémoc,Hombre,c) 10 a 14 años,15217
+CUAUHTEMOC,Cuauhtémoc,Hombre,d) 15 a 19 años,16162
+CUAUHTEMOC,Cuauhtémoc,Hombre,e) 20 a 24 años,19045
+CUAUHTEMOC,Cuauhtémoc,Hombre,f) 25 a 29 años,25021
+CUAUHTEMOC,Cuauhtémoc,Hombre,g) 30 a 34 años,27072
+CUAUHTEMOC,Cuauhtémoc,Hombre,h) 35 a 39 años,23744
+CUAUHTEMOC,Cuauhtémoc,Hombre,i) 40 a 44 años,19976
+CUAUHTEMOC,Cuauhtémoc,Hombre,j) 45 a 49 años,18634
+CUAUHTEMOC,Cuauhtémoc,Hombre,k) 50 a 54 años,16398
+CUAUHTEMOC,Cuauhtémoc,Hombre,l) 55 a 59 años,13993
+CUAUHTEMOC,Cuauhtémoc,Hombre,m) 60 a 64 años,12776
+CUAUHTEMOC,Cuauhtémoc,Hombre,n) 65 a 69 años,9666
+CUAUHTEMOC,Cuauhtémoc,Hombre,o) 70 a 74 años,7036
+CUAUHTEMOC,Cuauhtémoc,Hombre,p) 75 a 79 años,4341
+CUAUHTEMOC,Cuauhtémoc,Hombre,q) 80 a 84 años,2705
+CUAUHTEMOC,Cuauhtémoc,Hombre,r) 85 años y más,2139
+CUAUHTEMOC,Cuauhtémoc,Mujer,a) 0 a 4 años,13005
+CUAUHTEMOC,Cuauhtémoc,Mujer,b) 5 a 9 años,13559
+CUAUHTEMOC,Cuauhtémoc,Mujer,c) 10 a 14 años,14690
+CUAUHTEMOC,Cuauhtémoc,Mujer,d) 15 a 19 años,15628
+CUAUHTEMOC,Cuauhtémoc,Mujer,e) 20 a 24 años,19252
+CUAUHTEMOC,Cuauhtémoc,Mujer,f) 25 a 29 años,25150
+CUAUHTEMOC,Cuauhtémoc,Mujer,g) 30 a 34 años,26745
+CUAUHTEMOC,Cuauhtémoc,Mujer,h) 35 a 39 años,24149
+CUAUHTEMOC,Cuauhtémoc,Mujer,i) 40 a 44 años,21015
+CUAUHTEMOC,Cuauhtémoc,Mujer,j) 45 a 49 años,20138
+CUAUHTEMOC,Cuauhtémoc,Mujer,k) 50 a 54 años,19334
+CUAUHTEMOC,Cuauhtémoc,Mujer,l) 55 a 59 años,17084
+CUAUHTEMOC,Cuauhtémoc,Mujer,m) 60 a 64 años,16742
+CUAUHTEMOC,Cuauhtémoc,Mujer,n) 65 a 69 años,12671
+CUAUHTEMOC,Cuauhtémoc,Mujer,o) 70 a 74 años,9884
+CUAUHTEMOC,Cuauhtémoc,Mujer,p) 75 a 79 años,6478
+CUAUHTEMOC,Cuauhtémoc,Mujer,q) 80 a 84 años,4863
+CUAUHTEMOC,Cuauhtémoc,Mujer,r) 85 años y más,4508
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,a) 0 a 4 años,10208
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,b) 5 a 9 años,10517
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,c) 10 a 14 años,10998
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,d) 15 a 19 años,11337
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,e) 20 a 24 años,13256
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,f) 25 a 29 años,16511
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,g) 30 a 34 años,18650
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,h) 35 a 39 años,17544
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,i) 40 a 44 años,15640
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,j) 45 a 49 años,14744
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,k) 50 a 54 años,12846
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,l) 55 a 59 años,10748
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,m) 60 a 64 años,9198
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,n) 65 a 69 años,7139
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,o) 70 a 74 años,5254
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,p) 75 a 79 años,3613
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,q) 80 a 84 años,2342
+MIGUEL HIDALGO,Miguel Hidalgo,Hombre,r) 85 años y más,1960
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,a) 0 a 4 años,9771
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,b) 5 a 9 años,10357
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,c) 10 a 14 años,10644
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,d) 15 a 19 años,11257
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,e) 20 a 24 años,13788
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,f) 25 a 29 años,18160
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,g) 30 a 34 años,19953
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,h) 35 a 39 años,18658
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,i) 40 a 44 años,17508
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,j) 45 a 49 años,16498
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,k) 50 a 54 años,14962
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,l) 55 a 59 años,12878
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,m) 60 a 64 años,11730
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,n) 65 a 69 años,9186
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,o) 70 a 74 años,7429
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,p) 75 a 79 años,5347
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,q) 80 a 84 años,3837
+MIGUEL HIDALGO,Miguel Hidalgo,Mujer,r) 85 años y más,4076
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,a) 0 a 4 años,11659
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,b) 5 a 9 años,13651
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,c) 10 a 14 años,14407
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,d) 15 a 19 años,15235
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,e) 20 a 24 años,16603
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,f) 25 a 29 años,17227
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,g) 30 a 34 años,16711
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,h) 35 a 39 años,15692
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,i) 40 a 44 años,14622
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,j) 45 a 49 años,14816
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,k) 50 a 54 años,13966
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,l) 55 a 59 años,12307
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,m) 60 a 64 años,10937
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,n) 65 a 69 años,7985
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,o) 70 a 74 años,5765
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,p) 75 a 79 años,3738
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,q) 80 a 84 años,2488
+VENUSTIANO CARRANZA,Venustiano Carranza,Hombre,r) 85 años y más,2104
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,a) 0 a 4 años,11488
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,b) 5 a 9 años,13109
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,c) 10 a 14 años,13767
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,d) 15 a 19 años,14875
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,e) 20 a 24 años,16380
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,f) 25 a 29 años,17693
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,g) 30 a 34 años,17730
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,h) 35 a 39 años,17029
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,i) 40 a 44 años,16594
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,j) 45 a 49 años,17030
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,k) 50 a 54 años,16838
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,l) 55 a 59 años,14896
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,m) 60 a 64 años,13793
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,n) 65 a 69 años,10332
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,o) 70 a 74 años,8072
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,p) 75 a 79 años,5465
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,q) 80 a 84 años,4184
+VENUSTIANO CARRANZA,Venustiano Carranza,Mujer,r) 85 años y más,4101
