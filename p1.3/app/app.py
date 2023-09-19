@@ -1,14 +1,14 @@
 import streamlit as st
 import ventanas as v
 def main():
-    st.sidebar.header('Seleccione una opción')
-    seleccion = st.sidebar.selectbox('Opciones',
+    st.sidebar.header('Innova UNAM')
+    seleccion = st.sidebar.selectbox('Seleccione una opción',
                 ('Inicio',
-                'Datos Demograficos'
+                'Recomendación Demografica'
                 ))
 
     if seleccion == 'Inicio':
         v.inicio()
-    if seleccion == 'Datos Demograficos':
+    if seleccion == 'Recomendación Demografica':
         v.datosDemograficos()
 main()

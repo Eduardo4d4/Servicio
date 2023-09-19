@@ -39,17 +39,11 @@ def mostrar_resultados(combo_sexo, combo_edad):
 
     # Mostrar los resultados
     st.text(relacion_hombre_mujer_text)
+    st.info('Cantidad hombres/mujeres por cada 100 del genero opuesto', icon="ℹ️")
     
-    return alcaldias_list
-    
-    
-
-# Función para mostrar la información de la alcaldía seleccionada
-def mostrar_informacion_alcaldia(alcaldia_seleccionada):
-    
-
-    # Mostrar la selección de alcaldía
-    alcaldia_economia = BEcono[BEcono['alcaldia'] == alcaldia_seleccionada][['PEA','PEA_H','PEA_M','PNEA','NE']]
+    # return alcaldias_list
+    alcaldia_selec = st.selectbox('**Top Alcaldias**', alcaldias_list)
+    alcaldia_economia = BEcono[BEcono['alcaldia'] == alcaldia_selec][['PEA','PEA_H','PEA_M','PNEA','NE']]
     map_econo = {
         'PEA' : "Población económicamente activa (PEA)",
         'PEA_H' : "Porcentaje de hombres",
@@ -64,3 +58,4 @@ def mostrar_informacion_alcaldia(alcaldia_seleccionada):
         economia_text += f"{descripcion}: {valor} %\n"
     # Mostrar los resultados
     st.text(economia_text)
+    
